@@ -6,27 +6,24 @@ description: "The Sky OOB Guide is a documentation of tricks and glitches in Sky
 permalink: /
 ---
 
+{: .warning }
+> The Sky OOB Guide has not been updated since September 4,th 2021.
+
 # Sky OOB Guide
 {: .fs-9 }
 
-This website highlights many (and hopefully all) of the tricks and glitches there are to enhance your gameplay and experience in Sky: Children of the Light. For more information, visit the SkyOOB Discord server or any of the other servers involved in the creation of this doc. We’d love to help you out! {: .fs-6 .fw-300 }
+This website highlights many (and hopefully all) of the tricks and glitches there are to enhance your gameplay and experience in Sky: Children of the Light. For extra help, visit the SkyOOB Discord server. We’d love to help you out! {: .fs-6 .fw-300 }
 
 [Getting Started!](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Join the SkyOOB Discord](https://discord.gg/h6JtXQv62y){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
 {: .new }
-> **This area holds new information!**
-> Isn't that cool?
-
-{: .warning }
-> As of September 4th, 2021, the Sky OOB Guide is no longer being updated.
+> Beta content is not included, but it doesn't mean we aren't interested! Come share your findings with us and we'll document it if the behavior makes it to Live!
 
 ## Getting started
 
-### Dependencies
-
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [Jekyll quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+The Sky OOB Guide is based on testing done by the Sky communitied mentioned above [MENTION]. That means information here may differ from other sources, like the unofficial [Sky: Children of the Light Wiki](https://sky-children-of-the-light.fandom.com/wiki/The_Out_of_Bounds_(OOB)). The Sky OOB Guide will often feature a more up-to-date explanation with notes on making tricks and glitches more reliable.
 
 ### Quick start: Use as a GitHub Pages remote theme
 
