@@ -2,34 +2,26 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "The Sky OOB Guide is a documentation of tricks and glitches in Sky: Children of the Light."
 permalink: /
 ---
 
-# Focus on writing good documentation.
+# Sky OOB Guide
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+This website highlights many (and hopefully all) of the tricks and glitches there are to enhance your gameplay and experience in Sky: Children of the Light. For more information, visit the SkyOOB Discord server or any of the other servers involved in the creation of this doc. We’d love to help you out!
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Getting Started!](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Join the SkyOOB Discord](https://discord.gg/h6JtXQv62y){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
 {: .new }
-> **Pre-release version `0.4.0.rc3` is available!**
-> See [the CHANGELOG]({{ site.baseurl }}{% link CHANGELOG.md %}) for a detailed breakdown.
+> **This area holes new information!**
+> Isn't that cool?
 
 {: .warning }
-> Specifying `gem "just-the-docs"` in your `Gemfile` uses the latest ***release*** (`v0.3.3`), ignoring all pre-releases!
-> To use this pre-release, pin it:
-> ```ruby
-> gem "just-the-docs", "0.4.0.rc3"
-> ```
-> and/or
-> ```yaml
-> remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
-> ```
+> As of September 4th, 2021, the Sky OOB Guide is no longer being updated.
 
 ## Getting started
 
