@@ -9,15 +9,14 @@ permalink: /
 # Sky OOB Guide
 {: .fs-9 }
 
-This website highlights many (and hopefully all) of the tricks and glitches there are to enhance your gameplay and experience in Sky: Children of the Light. For more information, visit the SkyOOB Discord server or any of the other servers involved in the creation of this doc. We’d love to help you out!
-{: .fs-6 .fw-300 }
+This website highlights many (and hopefully all) of the tricks and glitches there are to enhance your gameplay and experience in Sky: Children of the Light. For more information, visit the SkyOOB Discord server or any of the other servers involved in the creation of this doc. We’d love to help you out! {: .fs-6 .fw-300 }
 
 [Getting Started!](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Join the SkyOOB Discord](https://discord.gg/h6JtXQv62y){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
 {: .new }
-> **This area holes new information!**
+> **This area holds new information!**
 > Isn't that cool?
 
 {: .warning }
