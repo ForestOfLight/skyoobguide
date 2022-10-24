@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 # Terms and Methods
-{: .no_toc}
+{: .no_toc }
 
 Since OOBing can be a complicated process and some of the mechanics are not given a name in the game or need to be defined further, this section is necessary for understanding the Sky OOB Guide as well as people in our communities. Feel free to refer to this page if you are confused by a term you're reading.
 {: .fs-6 .fw-300 }
