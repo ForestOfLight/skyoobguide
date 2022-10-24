@@ -7,7 +7,7 @@ permalink: /
 ---
 
 {: .warning }
-> The Sky OOB Guide has not been updated since September 4,th 2021.
+> The Sky OOB Guide has not been updated since September 4th, 2021.
 
 # Sky OOB Guide
 {: .fs-9 }
@@ -15,7 +15,7 @@ permalink: /
 This website highlights many (and hopefully all) of the tricks and glitches there are to enhance your gameplay and experience in Sky: Children of the Light. For extra help, visit the SkyOOB Discord server. We’d love to help you out!
 {: .fs-6 .fw-300 }
 
-[Getting Started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Join the SkyOOB Discord](https://discord.gg/h6JtXQv62y){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get Started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Join the SkyOOB Discord](https://discord.gg/h6JtXQv62y){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -31,7 +31,7 @@ The Sky OOB Guide is based on testing done by the amazing members of these Sky c
 
 That means information here may differ from other sources, like the unofficial [Sky: Children of the Light Wiki](https://sky-children-of-the-light.fandom.com/wiki/The_Out_of_Bounds_(OOB)). The Sky OOB Guide will often feature a more up-to-date explanation with notes on making tricks and glitches more reliable.
 
-After reading the [Important Terms and Methods](/important-terms-and-methods) page and the [Crediting](#crediting) section below, feel free to explore the documentation to find some tricks you're interested in!
+After reading the [Important Terms and Methods](/terms-and-methods) page and the [Crediting](#crediting) section below, feel free to explore the documentation to find some tricks you're interested in!
 
 ### Crediting
 Our communities believe in recognizing individuals for their contributions to our knowledgebase. If we have a definitive individual who is responsible for either the discovery or fine-tuning of a trick or glitch, their name will be listed alongside their work.
