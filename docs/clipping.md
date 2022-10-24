@@ -180,7 +180,7 @@ This clip has been used for an extremely long time but has since been almost com
 ![](../../assets/videos/General Table Clip.mp4)
 
 {: .highlight }
-> The emote used to stand up in the video is not required, just a personalized way to make things easier.
+> The emote used to stand up in the video is not required, just a personalized way to make standing up easier.
 
 1. Place your table where one (or more) chair(s) are outside the wall you’d like to clip into.
 1. If you can, sit in the chair(s) outside the wall and you’ll be out of bounds.
@@ -233,7 +233,7 @@ Friend
 Piggyback
 {: .label .label-green }
 Various Emotes
-(: .label .label-green )
+{: .label .label-green }
 
 > Credit: ForestOfLight
 
