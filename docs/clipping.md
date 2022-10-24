@@ -5,7 +5,7 @@ nav_order: 3
 ---
 
 # Clipping
-{: .no-toc }
+{: .no_toc }
 
 In most games, clipping is described as going through a [collision box](./docs/terms-and-methods/#collision-boxes). The most popular clipping method in Sky is the infamous [Chibi Clip](#chibi-clip-/-chibi-fall) -- one of the first tricks new OOBers learn -- however, there are many more methods of clipping if you care to learn them.
 {: .fs-6 .fw-300 }
@@ -32,9 +32,8 @@ A chibi clip can be performed on just about any slope to let you go underground 
 1. Release your feet and immediately make a small step forward with the joystick (You already had your finger on it).
 
 ![](../../assets/images/chibiclip.jpg)
-
 ##### Art by meimei#4660
-{: .no-toc }
+{: .no_toc }
 
 ---
 
