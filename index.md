@@ -22,7 +22,7 @@ This website highlights many (and hopefully all) of the tricks and glitches that
 {: .note }
 > Beta content is not included, but it doesn't mean we aren't interested! Come share your findings with us and we'll document it if the behavior makes it to Live!
 
-## [](getting-started)Getting started
+## Getting started
 
 The Sky OOB Guide is based on testing done by the amazing members of these Sky communities:
 - [SkyOOB](https://discord.gg/h6JtXQv62y)
@@ -31,9 +31,10 @@ The Sky OOB Guide is based on testing done by the amazing members of these Sky c
 
 That means information here may differ from other sources, like the unofficial [Sky: Children of the Light Wiki](https://sky-children-of-the-light.fandom.com/wiki/The_Out_of_Bounds_(OOB)). The Sky OOB Guide will often feature a more up-to-date explanation with notes on making tricks and glitches more reliable.
 
-After reading the [Important Terms and Methods](/terms-and-methods) page and the [Crediting](#crediting) section below, feel free to explore the documentation to find some tricks you're interested in!
+After reading the [Terms and Methods](../docs/terms-and-methods) page and the [Crediting](#crediting) section below, feel free to explore the documentation to find some tricks you're interested in!
 
-### [](crediting)Crediting
+## Crediting
+
 Our communities believe in recognizing individuals for their contributions to our knowledgebase. If we have a definitive individual who is responsible for either the discovery or fine-tuning of a trick or glitch, their name will be listed alongside their work.
 
 {: .highlight }

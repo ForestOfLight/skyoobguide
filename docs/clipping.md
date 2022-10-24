@@ -179,17 +179,18 @@ This clip has been used for an extremely long time but has since been almost com
 
 ![](../../assets/videos/General Table Clip.mp4)
 
-{: .highlight }
+{: .note }
 > The emote used to stand up in the video is not required, just a personalized way to make standing up easier.
 
 1. Place your table where one (or more) chair(s) are outside the wall you’d like to clip into.
 1. If you can, sit in the chair(s) outside the wall and you’ll be out of bounds.
 1. This can also be positioned such that upon getting out of the chair, you’ll be pushed out of bounds. This is the more likely method to work.
 
-{: .highlight-title }
-> General Clipping
-> 
-> It’s also important to know that two collision boxes that are close enough together can push you through one of them. For example, I once accidentally clipped into the All-Elder room (OOB in the room just before Eden’s social area and right after meditating at the Vault elder shrine) just by walking under a chair from a table at the right angle as a chibi. I wouldn’t recommend trying this as a legitimate clip method unless you know two collision boxes will work to push you through consistently (i.e. the clip in the skip for the second half of the Eye of Eden).
+---
+
+## General Clipping
+
+It’s also important to know that two collision boxes that are close enough together can push you through one of them. For example, I once accidentally clipped into the All-Elder room (OOB in the room just before Eden’s social area and right after meditating at the Vault elder shrine) just by walking under a chair from a table at the right angle as a chibi. I wouldn’t recommend trying this as a legitimate clip method unless you know two collision boxes will work to push you through consistently (i.e. the clip in the skip for the second half of the Eye of Eden).
 
 
 ---
