@@ -9,7 +9,7 @@ permalink: /
 {: .warning }
 > The Sky OOB Guide has not been updated since September 4th, 2021.
 
-# An out-of-bounds documentation of Sky
+# An out-of-bounds documentation of Sky.
 {: .fs-9 }
 
 This website highlights many (and hopefully all) of the tricks and glitches that exist to enhance your gameplay and experience in Sky: Children of the Light. For extra help, visit the SkyOOB Discord server. We’d love to help you out!

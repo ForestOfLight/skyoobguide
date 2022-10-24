@@ -44,18 +44,15 @@ Friend
 Piggyback
 {: .label .label-green }
 
-{: .warning }
-> Rockets are broken in patch 0.19.0, but they're rumored to return soon!
-
 When two players attempt to give each other a piggyback at the same time, both players will go flying up into the air regardless of any collision boxes in their path. Simply let go of the other player to stop the launch.
 
 {: .note }
-Clouds and other winds are not [collision boxes](../terms-and-methods/#collision-boxes) and can sometimes stand in your way!
+> Clouds and other winds are not [collision boxes](../terms-and-methods/#collision-boxes) and can sometimes stand in your way!
 
 ![](../../assets/videos/Rocket.mov)
 
 {: .highlight }
-For most players, this is enough to know. If you'd like to learn more about fine tuning your rockets, head down to the [advanced](#rocket-advanced) section.
+> For most players, this is enough to know. If you'd like to learn more about fine tuning your rockets, head down to the [advanced](#rocket-advanced) section.
 
 ---
 
@@ -69,10 +66,10 @@ Piggyback
 Spiraling is similar to [Rocketing](#rocket--piggy), but it’s slower and more maneuverable. It’s performed in the same way as a Rocket, but one player offers to hold hands while the other asks for a piggyback. Both players will go through collision boxes. Simply let go of the other player to stop the launch.
 
 {: .note }
-Clouds and other winds are not [collision boxes](../terms-and-methods/#collision-boxes) and can sometimes stand in your way!
+> Clouds and other winds are not [collision boxes](../terms-and-methods/#collision-boxes) and can sometimes stand in your way!
 
 {: .highlight }
-For most players, this is enough to know. If you'd like to learn more about fine tuning your spirals, head down to the [advanced](#spiral-advanced) section.
+> For most players, this is enough to know. If you'd like to learn more about fine tuning your spirals, head down to the [advanced](#spiral-advanced) section.
 
 ---
 
@@ -85,7 +82,7 @@ Piggyback
 
 > Credit: Astria Esper
 
-This clip can push you through horizontal collision boxes above you (ie. ceilings) or vertical collision boxes (ie. walls). The clip is best used on a flat ceiling but can work on heavily sloped ones as well. When clipping through a wall, make sure the wall is either vertical ( | ) or getting steeper ( \ ), not shallower ( / ). Using a ceiling corner is most ideal.
+This clip can push you through horizontal [collision boxes](../terms-and-methods/#collision-boxes) above you (ie. ceilings) or vertical [collision boxes](../terms-and-methods/#collision-boxes) (ie. walls). The clip is best used on a flat ceiling but can work on heavily sloped ones as well. When clipping through a wall, make sure the wall is either vertical ( \| ) or getting steeper ( \ ), not shallower ( / ). Using a ceiling corner is most ideal.
 
 ![](../../assets/videos/Follow Clip.mov)
 
@@ -105,7 +102,7 @@ Piggyback
 Play Dead / Crab Walk (lvl 3) Emote
 {: .label .label-green }
 
-This clip can push you through horizontal collision boxes below you (like the ground!). It is best used on flat ground but can work on slopes. It’s preferable that you have warp unlocked with your friend as well since this only lets one player clip.
+This clip can push you through horizontal [collision boxes](../terms-and-methods/#collision-boxes) below you (like the ground!). It is best used on flat ground but can work on slopes. It’s preferable that you have warp unlocked with your friend as well since this only lets one player clip.
 
 ![](../../assets/videos/Floor Clip.mov)
 
@@ -124,7 +121,7 @@ Piggyback
 Play Dead Emote
 {: .label .label-green }
 
-This clip is useful for getting through walls. It’s preferable that you have warp unlocked with your friend as well since this only lets one player clip.
+This clip is useful for getting through vertical [collision boxes](../terms-and-methods/#collision-boxes). It’s preferable to have warp unlocked with your friend as well since this only lets one player clip.
 
 ![](../../assets/videos/Play Dead Clip.mov)
 
@@ -169,7 +166,7 @@ Clipping through the roof on your own can be simple for a veteran! Since the cam
 1. Jump out with a flick of the joystick or fly upward, whichever works.
 
 {: .highlight }
-If you don’t have enough wedges to reach your fire,  you can always pair this glitch with the Checkpoint [PATCHED] glitch for a wedge-free way of sitting at your table.
+> If you don’t have enough wedges to reach your fire,  you can always pair this glitch with the Checkpoint [PATCHED] glitch for a wedge-free way of sitting at your table.
 
 ---
 
@@ -181,17 +178,18 @@ Table
 This clip has been used for an extremely long time but has since been almost completely patched out. However, it’s still possible in some places with a bit of practice and determination.
 
 ![](../../assets/videos/General Table Clip.mp4)
+
 {: .highlight }
-The emote used to stand up in the video is not required, just a personalized way to make things easier.
+> The emote used to stand up in the video is not required, just a personalized way to make things easier.
 
 1. Place your table where one (or more) chair(s) are outside the wall you’d like to clip into.
 1. If you can, sit in the chair(s) outside the wall and you’ll be out of bounds.
 1. This can also be positioned such that upon getting out of the chair, you’ll be pushed out of bounds. This is the more likely method to work.
 
 {: .highlight-title }
-General Clipping
-
-It’s also important to know that two collision boxes that are close enough together can push you through one of them. For example, I once accidentally clipped into the All-Elder room (OOB in the room just before Eden’s social area and right after meditating at the Vault elder shrine) just by walking under a chair from a table at the right angle as a chibi. I wouldn’t recommend trying this as a legitimate clip method unless you know two collision boxes will work to push you through consistently (i.e. the clip in the skip for the second half of the Eye of Eden).
+> General Clipping
+> 
+> It’s also important to know that two collision boxes that are close enough together can push you through one of them. For example, I once accidentally clipped into the All-Elder room (OOB in the room just before Eden’s social area and right after meditating at the Vault elder shrine) just by walking under a chair from a table at the right angle as a chibi. I wouldn’t recommend trying this as a legitimate clip method unless you know two collision boxes will work to push you through consistently (i.e. the clip in the skip for the second half of the Eye of Eden).
 
 
 ---
@@ -209,9 +207,6 @@ Piggyback
 {: .label .label-green }
 
 > Credit: ForestOfLight
-
-{: .warning }
-> This section is not up-to-date.
 
 Rocketing is a bit of an art. It may seem inconsistent because there are many factors to determine your launch. First, you must understand that what your screen shows and what your friend’s screen shows are different. Each player launches in the direction they’re facing (as well as up). The player to let go of the other first will be the leader. Whoever doesn’t let go will be sent to the other player. So, decide who will lead before launching, and position the leader facing the desired launch direction with the other player in front of them, facing them. 
 
