@@ -18,7 +18,7 @@ In most games, clipping is described as going through a [collision box](terms-an
 
 ---
 
-## [](#chibi-clip)Chibi Clip
+## [](#chibi-clip)Chibi Clip / Chibi Fall
 
 Chibi Mask / Shrink Potion
 {: .label .label-green}
@@ -33,7 +33,9 @@ A chibi clip can be performed on just about any slope to let you go underground 
 
 ![Art by meimei#4660](../../assets/images/chibiclip.jpg)
 
-## [](#rocket)Rocket
+---
+
+## [](#rocket)Rocket / Piggy
 
 Friend
 {: .label .label-green }
@@ -50,15 +52,18 @@ When two players attempt to give each other a piggyback at the same time, both p
 {: .note }
 For most players, this is enough to know. If you'd like to learn more about fine tuning your rockets, head down to the [advanced](#rocket-advanced) section.
 
+---
+
 ## Clipping Cont.
 
+---
 
 ## [](#rocket-advanced)Rocket (Advanced)
 
 Friend
-(.label .label-green )
+{: .label .label-green }
 Piggyback
-{.label .label-green }
+{: .label .label-green }
 
 > Credit: ForestOfLight
 
