@@ -18,17 +18,17 @@ Since OOBing can be a complicated process and some of the mechanics are not give
 
 ---
 
-## [](oob-definition)Out of Bounds
+## Out of Bounds
 What *really* is out of bounds anyway? Is it somewhere you have to use glitches to get to or is it just somewhere off the beaten path? We've landed on this description:
 > A location is considered out of bounds as long as it exists outside of the intended play area defined by the developers working on Sky.
 
-## [](#collision-boxes)Collision Boxes
+## Collision Boxes
 Any solid object that your player can collide with has what's called a *collision box*. In physics-based simulations (like in videogames where objects touch), when two objects intersect one another they repel or "snap to" each other so they don't pass through one another. This is what occurs when your player touches the floor, a wall, a pot, or another player. The "walls" of collision boxes are extremely thin and (in Sky) one-sided (ie. the inside of a collision box does not keep objects inside).
 
 {: .note }
 Objects that repel you slowly like wind walls or clouds do not have the same type of thin-walled-instantly-repellant collision boxes. These objects repel you slowly once you are inside the bounds of their collision box, meaning you can't escape their push by going further inside them.
 
-## [](#reset-walls-and-loading-zones)Reset Walls and Loading Zones
+## Reset Walls and Loading Zones
 When you go through a reset wall, your skykid gets sent to a predefined place within the same level. When you go through a loading zone, your skykid gets sent to a different level entirely. The game deals with each of these a little differently, it's not important how but it may affect the outcome of certain glitches.
 
 ## Glide/Flight Mode
@@ -46,15 +46,17 @@ Any emote that continues infinitely until you move your skykid or perform anothe
 | Shiver            | Faint (Play Dead) | Balance           | Raise the Roof    |
 | Apologize         | Salute            | Slouch            | Rhythmic Clap     |
 
-## [](#props)Props
+## Props
 A prop is any item that you can wear on your back, like an instrument or table. Props that players can sit at are known as Tables. You can see a list of props and their categorizations [here](https://sky-children-of-the-light.fandom.com/wiki/Props#Availability_Legend). In most cases, it won't matter if you use a spell or an owned prop to do a trick. However, keep in mind that you may place down both a spell prop and an owned prop at the same time.
 
-## [](#graphics-and-fps)Graphics and FPS
+## Graphics and FPS
 In the settings menu ingame, there’s a battery icon. This sets not only your graphics quality but also many frames are shown per second (FPS). There are four settings: 0, 1, 2, and 3. 0 runs at 20fps, 1 and 3 run at 30fps, and 2 runs at 60fps.
 
-## [](#freezing)Freezing
+## Freezing
+
 {: .warning }
 > This section is slightly outdated. Freezing works the same, but has different effects.
+
 Lightly disconnects a player from the game so that your position does not change (or changes more slowly) for the duration of the freeze.
 iOS and Android: Go into multitasking or lock your device.
 Switch: Press the HOME button.

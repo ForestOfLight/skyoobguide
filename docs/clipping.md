@@ -7,7 +7,7 @@ nav_order: 3
 # Clipping
 {: .no-toc }
 
-In most games, clipping is described as going through a [collision box](terms-and-methods/#collision-boxes). The most popular clipping method in Sky is the infamous [Chibi Clip](#chibi-clip) -- one of the first tricks new OOBers learn -- however, there are much more powerful methods of clipping if you care to learn them.
+In most games, clipping is described as going through a [collision box]({{ site.baseurl }}{% link terms-and-methods.md %}/#collision-boxes). The most popular clipping method in Sky is the infamous [Chibi Clip](#chibi-clip-/-chibi-fall) -- one of the first tricks new OOBers learn -- however, there are many more methods of clipping if you care to learn them.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -18,7 +18,7 @@ In most games, clipping is described as going through a [collision box](terms-an
 
 ---
 
-## [](#chibi-clip)Chibi Clip / Chibi Fall
+## Chibi Clip / Chibi Fall
 
 Chibi Mask / Shrink Potion
 {: .label .label-green}
@@ -35,7 +35,7 @@ A chibi clip can be performed on just about any slope to let you go underground 
 
 ---
 
-## [](#rocket)Rocket / Piggy
+## Rocket / Piggy
 
 Friend
 {: .label .label-green }
