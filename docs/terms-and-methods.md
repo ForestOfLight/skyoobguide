@@ -10,18 +10,8 @@ Since OOBing can be a complicated process and some of the mechanics are not give
 **Glide/Flight Mode:**
 The default mode when you’re in the air will be referred to as glide mode. The longer, more controlled mode will be referred to as flight mode.
 
-**Prop:**
-Any item you can wear on your back.
-
-**Placeable Prop:**
-Any prop that can be placed in the world, such as table, feast table, campfire, swing, seesaw, tea set, shelf, hammock, torch, pillow.
-
-**Table:**
-Any prop that can be placed in the world that players can sit at, such as the table, feast table, campfire, swing, seesaw, tea set, and hammock.
-| Table
-| Campfire
-| Hammock
-
+**Props**
+A prop is any item that you can wear on your back, like an instrument or table. Props that players can sit at are known as Tables. You can see a list of props and their categorizations [here](https://sky-children-of-the-light.fandom.com/wiki/Props#Availability_Legend).
 
 **Sustained Emote:**
 Any emote that continues infinitely until you move your skykid or perform another action. They include:
