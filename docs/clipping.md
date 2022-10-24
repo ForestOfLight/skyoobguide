@@ -17,20 +17,18 @@ In most gmaes, clipping is described as going through a wall or other solid obje
 
 ---
 
-### [](#chibi-clip)Chibi Clip
 Chibi Mask / Shrink Potion
 {: .label .label-green}
 Sneaky Stance
 {: .label .label-green}
 
-A chibi clip can be performed on just about any slope to let you go underground by pushing your Sky Kid’s foot under the floor and then having the rest of your body follow it. This is done by using the sneaky stance and legging a foot towards an incline. Video (https://drive.google.com/file/d/1uddMGrMCUWCpPIkYWRM7GE0CvnNHy4L5/view?usp=sharing)
+A chibi clip can be performed on just about any slope to let you go underground by pushing your Sky Kid’s foot under the floor and then having the rest of your body follow it. This is done by using the sneaky stance and legging a foot towards an incline. [Video](https://drive.google.com/file/d/1uddMGrMCUWCpPIkYWRM7GE0CvnNHy4L5/view?usp=sharing).
 
 1. Hold down on your Sky Kid’s feet and pull a leg towards an upwards slope.
 1. Hold your foot there and place a finger on the joystick.
 1. Release your feet and immediately make a small step forward with the joystick (You already had your finger on it).
 
-![](../../assets/images/chibiclip.jpg)
-##### Art by meimei#4660
+![Art by meimei#4660](../../assets/images/chibiclip.jpg)
 
 <video>
     <source src="https://drive.google.com/file/d/1uAXlxX8XyvZa3KPZqBLkliKMzbGlhYm-/view?usp=sharing"
