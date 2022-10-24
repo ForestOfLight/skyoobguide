@@ -166,7 +166,7 @@ The (optional) `text-delta` class makes the heading appear as **Contents**{:.tex
 
 `_includes/footer_custom.html`
 
-This content appears at the bottom of every page's main content. More info for this include can be found in the [Configuration - Footer content]({{ site.baseurl }}{% link docs/configuration.md %}#footer-content).
+This content appears at the bottom of every page's main content. More info for this include can be found in the [Configuration - Footer content]({{ site.baseurl }}{% link docs/just-the-docs/configuration.md %}#footer-content).
 
 ### Custom Head
 
