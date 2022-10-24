@@ -36,4 +36,4 @@ A chibi clip can be performed on just about any slope to let you go underground 
     <source src="https://drive.google.com/file/d/1uAXlxX8XyvZa3KPZqBLkliKMzbGlhYm-/view?usp=sharing"
             type="video/mp4">
 </video>
-![](../../assets/videos/Rocket.jpg)
+![](../../assets/videos/Rocket.mov)
