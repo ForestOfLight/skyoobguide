@@ -4,6 +4,7 @@ title: Utilities
 nav_order: 4
 has_children: true
 permalink: docs/just-the-docs/utilities
+parent: Just the Docs
 ---
 
 # Utilities

@@ -4,6 +4,7 @@ title: UI Components
 nav_order: 3
 has_children: true
 permalink: /docs/just-the-docs/ui-components
+parent: Just the Docs
 ---
 
 # UI Components

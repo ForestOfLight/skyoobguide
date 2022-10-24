@@ -18,6 +18,8 @@ Any prop that can be placed in the world, such as table, feast table, campfire, 
 
 **Table:**
 Any prop that can be placed in the world that players can sit at, such as the table, feast table, campfire, swing, seesaw, tea set, and hammock.
+| Table
+| 
 
 **Sustained Emote:**
 Any emote that continues infinitely until you move your skykid or perform another action. They include:
@@ -30,10 +32,14 @@ Any emote that continues infinitely until you move your skykid or perform anothe
 | Shiver            | Faint (Play Dead) | Balance           | Raise the Roof
 | Apologize         | Salute            | Slouch            | Rhythmic Clap
 
-Graphics and FPS: In the settings menu ingame, there’s a battery icon. This sets not only your graphics quality but also how smoothly the game runs. This is the FPS, or frames per second. There are four settings: 0, 1, 2, and 3. 0 runs at 20fps, 1 and 3 run at 30fps, and 2 runs at 60fps.
+**Graphics and FPS:**
+In the settings menu ingame, there’s a battery icon. This sets not only your graphics quality but also how smoothly the game runs. This is the FPS, or frames per second. There are four settings: 0, 1, 2, and 3. 0 runs at 20fps, 1 and 3 run at 30fps, and 2 runs at 60fps.
 
-Freezing: Lightly disconnects a player from the game for the duration of the freeze. This is useful in multiple tricks. For both iOS and Android: Go into multitasking. For Switch: Press the HOME button. iOS has the added bonus that you can see the game while you’re frozen. The freeze ends when you go back into the game.
+**Freezing:**
+Lightly disconnects a player from the game for the duration of the freeze. This is useful in multiple tricks. For both iOS and Android: Go into multitasking. For Switch: Press the HOME button. iOS has the added bonus that you can see the game while you’re frozen. The freeze ends when you go back into the game.
 
-Loading Zone: When you go through this area, your skykid gets sent to a different level.
+**Loading Zone:**
+When you go through this area, your skykid gets sent to a different level.
 
-Reset Wall: When you go through this area, your skykid gets reset to the intended place within the same level.
+**Reset Wall:**
+When you go through this area, your skykid gets reset to the intended place within the same level.
