@@ -19,7 +19,9 @@ Any prop that can be placed in the world, such as table, feast table, campfire, 
 **Table:**
 Any prop that can be placed in the world that players can sit at, such as the table, feast table, campfire, swing, seesaw, tea set, and hammock.
 | Table
-| 
+| Campfire
+| Hammock
+
 
 **Sustained Emote:**
 Any emote that continues infinitely until you move your skykid or perform another action. They include:
