@@ -22,7 +22,7 @@ This website highlights many (and hopefully all) of the tricks and glitches ther
 {: .note }
 > Beta content is not included, but it doesn't mean we aren't interested! Come share your findings with us and we'll document it if the behavior makes it to Live!
 
-## Getting started
+## [](getting-started)Getting started
 
 The Sky OOB Guide is based on testing done by the amazing members of these Sky communities:
 - [SkyOOB](https://discord.gg/h6JtXQv62y)
@@ -33,8 +33,11 @@ That means information here may differ from other sources, like the unofficial [
 
 After reading the [Important Terms and Methods](/terms-and-methods) page and the [Crediting](#crediting) section below, feel free to explore the documentation to find some tricks you're interested in!
 
-### Crediting
+### [](crediting)Crediting
 Our communities believe in recognizing individuals for their contributions to our knowledgebase. If we have a definitive individual who is responsible for either the discovery or fine-tuning of a trick or glitch, their name will be listed alongside their work.
+
+{: .highlight }
+> If you would like to show off a trick you've learned here, kindly include the proper credit that we have provided for you.
 
 *If you would like to challenge one of the listed credits with reasonable proof, please contact us on Discord so we can give credit to those who deserve it.*
 
