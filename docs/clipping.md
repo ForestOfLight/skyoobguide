@@ -60,7 +60,7 @@ For most players, this is enough to know. If you'd like to learn more about fine
 
 ---
 
-## [](#rocket-advanced)Rocket (Advanced)
+## Rocket (Advanced)
 
 Friend
 {: .label .label-green }

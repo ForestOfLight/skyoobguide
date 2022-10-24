@@ -9,5 +9,5 @@ permalink: docs/movement
 # Movement
 {: .no_toc }
 
-Lorem ipsum.
+Lorem ipsum
 {: .fs-6 .fw-300 }
