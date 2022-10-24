@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 # Terms and Methods
-Since OOBing can be a complicated process and some of the mechanics are not given a name in the game or need to be defined further, this section is necessary for understanding the Sky OOB Guide as well as people in our communities.
+Since OOBing can be a complicated process and some of the mechanics are not given a name in the game or need to be defined further, this section is necessary for understanding the Sky OOB Guide as well as people in our communities. Feel free to refer to this page if you are confused by a term you're reading.
 
 **Glide/Flight Mode:**
 The default mode when you’re in the air will be referred to as glide mode. The longer, more controlled mode will be referred to as flight mode.
@@ -15,6 +15,7 @@ A prop is any item that you can wear on your back, like an instrument or table. 
 
 **Sustained Emote:**
 Any emote that continues infinitely until you move your skykid or perform another action. They include:
+
 |                   |                   |                   |                   |
 |:------------------|:------------------|:------------------|:------------------|
 | Point             | Peek              | March             | Voila             |
@@ -32,13 +33,12 @@ Any emote that continues infinitely until you move your skykid or perform anothe
 | alternative | table | here |
 
 **Graphics and FPS:**
-In the settings menu ingame, there’s a battery icon. This sets not only your graphics quality but also how smoothly the game runs. This is the FPS, or frames per second. There are four settings: 0, 1, 2, and 3. 0 runs at 20fps, 1 and 3 run at 30fps, and 2 runs at 60fps.
+In the settings menu ingame, there’s a battery icon. This sets not only your graphics quality but also many frames are shown per second (FPS). There are four settings: 0, 1, 2, and 3. 0 runs at 20fps, 1 and 3 run at 30fps, and 2 runs at 60fps.
 
 **Freezing:**
 Lightly disconnects a player from the game for the duration of the freeze. This is useful in multiple tricks. For both iOS and Android: Go into multitasking. For Switch: Press the HOME button. iOS has the added bonus that you can see the game while you’re frozen. The freeze ends when you go back into the game.
 
-**Loading Zone:**
+**Reset Walls and Loading Zone**
 When you go through this area, your skykid gets sent to a different level.
 
-**Reset Wall:**
-When you go through this area, your skykid gets reset to the intended place within the same level.
+When you go through this area, your skykid gets sent to a predefined place within the same level.
