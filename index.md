@@ -23,7 +23,12 @@ This website highlights many (and hopefully all) of the tricks and glitches ther
 
 ## Getting started
 
-The Sky OOB Guide is based on testing done by the Sky communitied mentioned above [MENTION]. That means information here may differ from other sources, like the unofficial [Sky: Children of the Light Wiki](https://sky-children-of-the-light.fandom.com/wiki/The_Out_of_Bounds_(OOB)). The Sky OOB Guide will often feature a more up-to-date explanation with notes on making tricks and glitches more reliable.
+The Sky OOB Guide is based on testing done by these Sky communities:
+- SkyOOB
+- Sky Necropolis
+- Sora
+- SECRET OOB BROTHERHOOD
+That means information here may differ from other sources, like the unofficial [Sky: Children of the Light Wiki](https://sky-children-of-the-light.fandom.com/wiki/The_Out_of_Bounds_(OOB)). The Sky OOB Guide will often feature a more up-to-date explanation with notes on making tricks and glitches more reliable.
 
 ### Quick start: Use as a GitHub Pages remote theme
 
