@@ -7,7 +7,7 @@ nav_order: 3
 # Clipping
 {: .no-toc }
 
-In most games, clipping is described as going through a [collision box](./terms-and-methods/#collision-boxes). The most popular clipping method in Sky is the infamous [Chibi Clip](#chibi-clip-/-chibi-fall) -- one of the first tricks new OOBers learn -- however, there are many more methods of clipping if you care to learn them.
+In most games, clipping is described as going through a [collision box](./docs/terms-and-methods/#collision-boxes). The most popular clipping method in Sky is the infamous [Chibi Clip](#chibi-clip-/-chibi-fall) -- one of the first tricks new OOBers learn -- however, there are many more methods of clipping if you care to learn them.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -25,13 +25,14 @@ Chibi Mask / Shrink Potion
 Sneaky Stance
 {: .label .label-green}
 
-A chibi clip can be performed on just about any slope to let you go underground by pushing your Sky Kid’s foot under the floor and then having the rest of your body follow it. This is done by using the sneaky stance and legging a foot towards an incline. [Video](https://drive.google.com/file/d/1uddMGrMCUWCpPIkYWRM7GE0CvnNHy4L5/view?usp=sharing)
+A chibi clip can be performed on just about any slope to let you go underground by pushing your Sky Kid’s foot under the floor and then having the rest of your body follow it. This is done by using the sneaky stance and legging a foot towards an incline.
 
 1. Hold down on your Sky Kid’s feet and pull a leg towards an upwards slope.
 1. Hold your foot there and place a finger on the joystick.
 1. Release your feet and immediately make a small step forward with the joystick (You already had your finger on it).
 
 ![](../../assets/images/chibiclip.jpg)
+
 ##### Art by meimei#4660
 {: .no-toc }
 
@@ -45,7 +46,7 @@ Piggyback
 {: .label .label-green }
 
 {: .warning }
-> Rockets are broken as of patch 0.19.0, but they're rumored to return soon!
+> Rockets are broken in patch 0.19.0, but they're rumored to return soon!
 
 When two players attempt to give each other a piggyback at the same time, both players will go flying up into the air regardless of any collision boxes in their path (NOTE: Clouds are not collision boxes and can sometimes stand in your way!). Simply let go of the other player to stop the launch.
 
