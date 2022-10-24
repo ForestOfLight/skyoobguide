@@ -15,14 +15,21 @@ A prop is any item that you can wear on your back, like an instrument or table. 
 
 **Sustained Emote:**
 Any emote that continues infinitely until you move your skykid or perform another action. They include:
-| Point             | Peek              | March             | Voila
-| Come              | Handstand         | Telekenesis       | Navigate
-| Welcome           | Boogie Dance      | Float (Meditate)  | Calm Down
-| Butterfly         | Crab Walk         | Pray              | Ouch
-| Clap              | Spin Trick        | Sparkler          | Headbob
-| Belly Scratch     | Duck              | Doze              | Waving Light
-| Shiver            | Faint (Play Dead) | Balance           | Raise the Roof
-| Apologize         | Salute            | Slouch            | Rhythmic Clap
+|                   |                   |                   |                   |
+|:------------------|:------------------|:------------------|:------------------|
+| Point             | Peek              | March             | Voila             |
+| Come              | Handstand         | Telekenesis       | Navigate          |
+| Welcome           | Boogie Dance      | Float (Meditate)  | Calm Down         |
+| Butterfly         | Crab Walk         | Pray              | Ouch              |
+| Clap              | Spin Trick        | Sparkler          | Headbob           |
+| Belly Scratch     | Duck              | Doze              | Waving Light      |
+| Shiver            | Faint (Play Dead) | Balance           | Raise the Roof    |
+| Apologize         | Salute            | Slouch            | Rhythmic Clap     |
+
+| alternative | table | here |
+
+|:------------|:------|:-----|
+| alternative | table | here |
 
 **Graphics and FPS:**
 In the settings menu ingame, there’s a battery icon. This sets not only your graphics quality but also how smoothly the game runs. This is the FPS, or frames per second. There are four settings: 0, 1, 2, and 3. 0 runs at 20fps, 1 and 3 run at 30fps, and 2 runs at 60fps.
