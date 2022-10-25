@@ -7,7 +7,9 @@ parent: Movement
 
 # Single-Player Movement
 {: .no_toc }
+
 Single-player movements are tricks and glitches that can be done with one player to move around in interesting ways. These can generally help make your solo candle runs as well as oob adventures faster.
+{: .fs-6 .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }
