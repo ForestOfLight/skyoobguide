@@ -196,6 +196,8 @@ It’s also important to know that two collision boxes that are close enough tog
 ---
 
 # Advanced
+{: .no_toc }
+
 This section is for players who'd like to fine tune the use of their tricks even more. Learning these mechanics can greatly improve the speed and accuracy with which you can perform them.
 
 ---

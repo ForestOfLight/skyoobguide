@@ -9,5 +9,5 @@ permalink: docs/movement
 # Movement
 {: .no_toc }
 
-Lorem ipsum
+These tricks will help get you speeding around the kingdoms of Sky!
 {: .fs-6 .fw-300 }
