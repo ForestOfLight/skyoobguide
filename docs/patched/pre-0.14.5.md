@@ -124,13 +124,17 @@ Keep in mind the person leading will see the real location of both players (goin
 
 ---
 
-Advanced Spiral Techniques
+##Advanced Spiral Techniques
+
 What you need: A friend with piggyback unlocked, various emotes
+
 The spiral can be manipulated in a few ways, each of which has its own effects. Here they are:
 The player on top using any sustained emote will make the spiral more vertical and, as a result, faster. (As of patch 0.13.0, this is always the case without the sustained emote.)
 Changing your graphics settings will change your speed depending on FPS (0 is ⅔ speed, 1&3 are normal, 2 is 2x speed).
 
-Zoom Out [ADDED AS A FEATURE: Pinch/spread camera at any time]
+---
+
+### Zoom Out [ADDED AS A FEATURE: Pinch/spread camera at any time]
 What you need: N/A
 Changing the controls to one-handed mode lets you zoom out. You can keep the zoom by just switching back to two-handed mode. This persists until you change it from one-handed mode again. This can help you take your screenshots to the next level or, more usefully, help you see statues in Eden.
 Tap the top right of your screen to go into settings.
