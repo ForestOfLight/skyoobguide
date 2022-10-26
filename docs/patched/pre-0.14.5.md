@@ -24,7 +24,7 @@ Table
 
 Yes, this is possible. However, I’m sad to say most wind walls are most likely infinitely thick. This trick is possible because of the [Checkpoint](#checkpoint--table-teleport) glitch.
 
-![](../../assets/videos/Pushing Into Windwalls.mov)
+![](../../assets/videos/PushingIntoWindwalls.mov)
 
 1. Place your table as far out as you can in the wind wall.
 1. Perform the Checkpoint glitch.
@@ -55,7 +55,7 @@ Warp
 
 When a friend is in the same area as you and they let out a call, you usually can see an eye icon on them. This also appears when your friend goes home or into another area without you. (Also when you warp to them from home, but that's not important.) When you warp to them Sky doesn’t know where to put you since they don’t exist anymore, so it takes you below the map (presumably 0, 0, 0). The timing for this glitch isn’t difficult, it often happens by accident when warping to friends after they get disconnected or leave the room in any way. Lots of areas have a failsafe to send you to a safe spot if this were to happen by mistake, however, some don’t.
 
-![](../../assets/videos/Poof Warp.qt)
+![](../../assets/videos/PoofWarp.qt)
 
 ---
 
@@ -74,7 +74,7 @@ After placing your table somewhere, you can teleport to it whenever you like as 
 
 The timing of this glitch is a little hard to get a feel for. You want to go into the sitting animation and before you’ve fully sat down close the menu and release the table. To understand why this glitch works, try pulling out your table and then closing the menu. There’s a little bit of time between when you close the menu and when the table disappears. During the sitting animation, the game’s job is to have you sit at your table. When you tap the button the game commits to putting you at your table, but it can only be placed down to do that. That’s why you need to close the menu. If you place the table during the time it takes to put away the table after closing the menu it will still take away the table. However, the table was physically placed so you can sit at it before it is taken away. The game then transports you to where your table was previously placed because the game has committed to having you sit at your table.
 
-![](../../assets/videos/Table Teleport.mov)
+![](../../assets/videos/TableTeleport.mov)
 
 A couple of helpful things:
 - Your checkpoint table can be placed so as to clip out of bounds. You’ll want to place the side with two chairs in the wall since those are the easiest to sit at when doing the glitch.
@@ -99,7 +99,7 @@ Shelf
 
 You can teleport yourself around a level with this little trick. However, it is very difficult to control and will take you any distance it wants. While that doesn’t sound very useful, we are figuring out how to control it. This trick is much easier on the lowest graphics level because it runs at a slower frame rate. Any use of this after flying up a little in a level will double your height. You can easily take this trick up to the [farlands](https://drive.google.com/file/d/1TJ8rEr8GU0OVk248MNBZ--Yg2ZLJ5hFs/view) on maps without reset walls, but beware it will get increasingly harder to land on your table.
 
-![](../../assets/videos/Table Fling.qt)
+![](../../assets/videos/TableFling.qt)
 
 1. Place your table and stand on it.
 1. Open the emote menu and tap your table icon for a single frame.
@@ -126,7 +126,7 @@ The deciding factor for which direction (up or down) you will go is the size of 
 | ![](../../assets/videos/SpiralUpNonLeader.mp4)    | ![](../../assets/videos/SpiralDownNonLeader.mp4)  |
 
 {: .note }
-> Keep in mind the person leading will see the real location of both players (going through [collision boxes](../terms-and-methods/#collision-boxes), while the player on their back will see them hitting collision boxes. When the leader lets go of the other player's hand, they will be teleported to the real location.
+> Keep in mind the person leading will see the real location of both players (going through [collision boxes](../terms-and-methods/#collision-boxes)), while the player on their back will see them hitting collision boxes. When the leader lets go of the other player's hand, they will be teleported to the real location.
 
 ---
 
@@ -168,9 +168,9 @@ Table
 Rainbow Spell
 {: .label .label-green }
 
-The successor of the beloved Checkpoint glitch. This glitch can be very complicated, but luckily only the person who owns the table needs to know how to perform it. This glitch essentially has the same function as the old Checkpoint glitch, just slower. This glitch will teleport a friend to where your table is placed so you can warp to them.
+The successor of the beloved [Checkpoint](#checkpoint--table-teleport) glitch. This glitch can be very complicated, but luckily only the person who owns the table needs to know how to perform it. This glitch essentially has the same function as the old Checkpoint glitch, just slower. This glitch will teleport a friend to where your table is placed so you can warp to them.
 
-![](../../assets/videos/Rainbow Checkpoint.qt)
+![](../../assets/videos/RainbowCheckpoint.qt)
 
 1. Place down your table where you’d like to set your checkpoint.
 1. Have your friend sit at your table to make it solid for them.
@@ -213,21 +213,22 @@ Extremely useful because of their convenience and consistency, bicycles can take
 1. Player 1 should end up behind or inside Player 2 while being “on” Player 2’s back. Player 2 should still be able to see Player 1’s 1. piggy offer. If not, start over.
 1. To start the launch, Player 2 simply taps the piggy offer. In order to go sideways or down, Player 2 must use the same emote as Player 1.
 1. When finished, just let go of the other person’s hand to bring them to you.
-1. The most useful sustained emotes to control your skew are:
-1. Follow me (Preferably lvl 3 or 4) for sideways
-1. Point (When Player 1 is doing follow me)
-1. Play dead for down (will take you underwater)
-1. The launch will send both players directly behind where Player 2 is facing in a normal-looking rocket until Player 2 completes step 4
+
+The most useful sustained emotes to control your skew are:
+- Come (Preferably lvl 3 or 4) for sideways
+- Point (When Player 1 is doing Come)
+- Play dead for down (will take you through water)
+- The launch will send both players directly behind where Player 2 is facing in a normal-looking rocket until Player 2 completes step 4
 
 {: .note }
 > Player 1’s setup for this glitch is much more difficult with a level 3 or 4 emote but it gets easier each time you get it right. My own practice is to start charging the emote, accepting piggy when it reaches lvl 2, and letting go when it hits lvl3 directly after. Player 1 cannot land on Player 2’s back for their piggy button to still be active. This glitch is difficult to explain so these videos will be very helpful when learning:
 >
 > | Player One                                                | Player Two                                                | Down                                      |
 > |:----------------------------------------------------------|:----------------------------------------------------------|:-----------------------------------------|
-> | ![](../../assets/videos/Directional Rocket_ Player 1.mov) | ![](../../assets/videos/Directional Rocket_ Player 2.mov) | ![](../../assets/videos/Directional ocket Down.mov) |
+> | ![](../../assets/videos/DirectionalRocket_Player1.mov) | ![](../../assets/videos/DirectionalRocket_Player2.mov) | ![](../../assets/videos/DirectionalRocketDown.mov) |
 
 {: .highlight }
-> You can change your speed by changing your graphics mode. Changing the game’s FPS will change the speed of the launch from your point of view (0 is ⅔ speed, 1&3 are normal, 2 is 2x speed)
+> You can change your speed by changing your [graphics mode](../terms-and-methods/#graphics-and-fps). Changing the game’s FPS will change the speed of the launch from your point of view (0 is 2/3 speed, 1&3 are normal, 2 is 2x speed)
 
 ---
 
