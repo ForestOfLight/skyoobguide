@@ -165,4 +165,3 @@ This glitch can be used to much more actively control your position underwater t
 
 {: .highlight }
 > More friends can go for the ride by holding your hand before initiating the Advanced Uber or by sitting at the table like a normal Uber. The former is preferable because there are fewer buttons that can make the trick fail crowding up the screen. If that somehow doesn’t bother you, go ahead and take a whole server down.
-
