@@ -108,12 +108,19 @@ This glitch is, in my opinion, the most difficult glitch to control of all. From
 ---
 
 ## Spiral / Piggy Spiral
-What you need: A friend with piggyback unlocked
+
+Friend
+{: .label .label-green }
+Piggyback
+{: .label .label-green }
+
 Spiraling is a type of launch. When you and a friend are piggybacked and flying, grab the hand of your friend. You will start flying in a spiral up or down regardless of any collision boxes in their way (NOTE: Clouds are not a collision box, so won’t affect the glitch. However, strong winds are often in the clouds, and these can repel players and stop spirals).
-The deciding factor for which direction (up or down) you will go is the size of the player leading. 
-If you are above medium (normal) height, you will go up (1, 2) (uSprial).
-If you are below medium (normal) height, you will go down 1, 2) (dSpiral).
-Keep in mind the person leading will see the real location of both players (going through collision boxes), while the player on their back will see them hitting collision boxes. When the leader lets go of their hand, they will be “teleported” to the real location. (The links in the bulleted list above are the same two spirals from two perspectives each. Notice the difference in location and the size of the person leading.) More ways to manipulate spirals are in the Multi-Player Movement section.
+
+1. The deciding factor for which direction (up or down) you will go is the size of the player leading. 
+2. If you are above medium (normal) height, you will go up (1, 2).
+3. If you are below medium (normal) height, you will go down 1, 2).
+
+Keep in mind the person leading will see the real location of both players (going through collision boxes), while the player on their back will see them hitting collision boxes. When the leader lets go of their hand, they will be “teleported” to the real location. (The links in the bulleted list above are the same two spirals from two perspectives each. Notice the difference in location and the size of the person leading.)
 
 ---
 
