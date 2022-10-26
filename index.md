@@ -12,7 +12,7 @@ permalink: /
 # An out-of-bounds documentation of Sky.
 {: .fs-9 }
 
-This website highlights many of the tricks and glitches that exist to enhance your gameplay experience in Sky: Children of the Light. For extra help, visit the SkyOOB Discord server. We’d love to help you out!
+This documentation highlights many of the tricks and glitches that exist to enhance your gameplay experience in Sky: Children of the Light. For extra help, visit the SkyOOB Discord server. We’d love to help you out!
 {: .fs-6 .fw-300 }
 
 [Get Started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Join the SkyOOB Discord](https://discord.gg/h6JtXQv62y){: .btn .fs-5 .mb-4 .mb-md-0 }

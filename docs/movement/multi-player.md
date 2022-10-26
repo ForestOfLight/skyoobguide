@@ -7,7 +7,9 @@ parent: Movement
 
 # Multi-Player movement
 {: .no_toc }
-Multi-player movements are tricks and glitches that can be done with multiple players to move around in interesting ways. These can be used mostly just for a bit of fun with friends. 
+
+Multi-player movements are tricks and glitches that can be done with multiple players to move around in interesting ways. These can be used mostly just for a bit of fun with friends.
+{: .fs-6 .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -77,7 +79,7 @@ Hammock
 
 > Credit: Saint for discovery, ForestOfLight for optimization
 
-This trick will take you to a spot under the map (with coordinates 0, 0, 0) called the "shadow spot" or "zero point." Here’s how to do it:
+This is a revival of the patched [Poof Warp](./patched/../../patched/pre-0.14.5/#poof-warp--disconnect-warp) behavior. This trick will take you to a spot under the map (with coordinates 0, 0, 0) called the "shadow spot" or "zero point." Here’s how to do it:
 
 ![](../../assets/videos/Poof Warp v2.qt)
 

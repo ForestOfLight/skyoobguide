@@ -7,7 +7,9 @@ parent: Movement
 
 # Single-Player Movement
 {: .no_toc }
+
 Single-player movements are tricks and glitches that can be done with one player to move around in interesting ways. These can generally help make your solo candle runs as well as oob adventures faster.
+{: .fs-6 .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -19,20 +21,23 @@ Single-player movements are tricks and glitches that can be done with one player
 
 ## Fast Fall / Sliding Fall
 
-Fast falling is one of the quickest ways to descend. Simply go off an edge while sliding to be affected by gravity like a no-wing. The fall only lasts a short while (but long enough to be very useful), and less if you are holding a direction on the joystick. The more “tilt” (or no tilt) on the joystick the faster it’ll end. The optimal placement is just outside the center of the joystick area. This fall is different from gliding downwards (Sky kid has their hands in the air) and much faster. It’s around as fast as doing straight downwards in flight mode. Once in a sliding fall, you can stop it by flapping your wings in glide mode (kills all momentum) or going into flight mode and pulling up on the joystick (doesn’t kill downward momentum).
+Fast falling is one of the quickest ways to descend. Simply go off an edge while sliding to be affected by gravity like a no-wing. The fall only lasts a short while but is long enough to be very useful. This fall is different from gliding downwards (skykid has their hands out to the sides) and much faster. It’s around as fast as going straight downwards in flight mode. Once in a sliding fall, you can stop it by flapping your wings in glide mode (kills all momentum) or going into flight mode and pulling up on the joystick (doesn’t kill downward momentum).
 
 ![](../../assets/videos/Fast Falling.mov)
+
+{: .note }
+> The more tilt on the joystick the faster your fall will end. However, no tilt on the joystick also causes a shorter fall. The optimal placement is just enough tilt for the joystick to not be straight.
 
 ---
 
 ## Emote Fall / Sustained Emote Fall
 
-[Sustained Emote](../terms-and-methods/#sustained-emotes)
+Sustained Emote
 {: .label .label-green }
 
 > Credit: Suchu
 
-While in glide mode, using sustained emotes makes you fall at crazy fast speeds. The most convenient of these is the point emote since it’s the first sustained emote in the menu. After a second or so the emote will stop and you’ll need to tap the emote again.
+While in glide mode, using sustained emotes makes you fall at crazy fast speeds. After a second or so the emote will stop and you’ll need to tap the emote again, so make sure to spam it if you want to keep falling quickly. This makes you fall as fast as [fast falling](#fast-fall--sliding-fall).
 
 ![](../../assets/videos/Emote Fall.mov)
 
@@ -43,7 +48,7 @@ While in glide mode, using sustained emotes makes you fall at crazy fast speeds.
 Placeable Prop
 {: .label .label-green }
 
-Simply tap/drag/flick the prop icon in your emote menu while away from any placeable surfaces and it’ll spawn in midair. The prop will place a short distance away from you in the direction your camera is facing. If you get your camera right, you can place the table right in front of you and land on it while actively flying. Every other tap will put away your table, so this works every other time. Just tap twice to place it for a second time.
+Simply tap the prop icon in your emote menu while away from any placeable surfaces and it’ll spawn in midair. The prop will place a short distance away from you in the direction your camera is facing. If you get your camera right, you can place the table right in front of you and land on it while actively flying. Every other tap will put away your table, so this works every other time. Just tap twice to place it for a second time.
 
 ![](../../assets/videos/Midair Table.mov)
 
