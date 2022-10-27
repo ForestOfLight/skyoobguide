@@ -84,7 +84,7 @@ Piggyback
 
 This clip can push you through horizontal [collision boxes](../terms-and-methods/#collision-boxes) above you (ie. ceilings) or vertical [collision boxes](../terms-and-methods/#collision-boxes) (ie. walls). The clip is best used on a flat ceiling but can work on heavily sloped ones as well. When clipping through a wall, make sure the wall is either vertical ( \| ) or getting steeper ( \ ), not shallower ( / ). Using a ceiling corner is most ideal.
 
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://drive.google.com/file/d/1CcdIHmS4cLfs8yGwQArHRpkRLVsefdhB/view?usp=sharing" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+<iframe src="https://drive.google.com/file/d/1CcdIHmS4cLfs8yGwQArHRpkRLVsefdhB/view?usp=sharing" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe>
 
 1. Have a friend jump on your back with piggyback.
 2. Fly up to a collision box.
@@ -104,11 +104,11 @@ Play Dead / Crab Walk (lvl 3) Emote
 
 This clip can push you through horizontal [collision boxes](../terms-and-methods/#collision-boxes) below you (like the ground!). It is best used on flat ground but can work on slopes. It’s preferable that you have warp unlocked with your friend as well since this only lets one player clip.
 
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://drive.google.com/file/d/1rAznpccfBpeqLMZdtWjB3ghndQF8PZ82/view?usp=sharing" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+<iframe src="https://drive.google.com/file/d/1rAznpccfBpeqLMZdtWjB3ghndQF8PZ82/view?usp=sharing" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe>
 
 1. Jump on a friend’s back with piggyback.
-1. Have your friend use the play dead or crab walk (lvl 3) emote.
-1. Get off your friend’s back, and you should fall through the floor. Your friend can then warp to you.
+2. Have your friend use the play dead or crab walk (lvl 3) emote.
+3. Get off your friend’s back, and you should fall through the floor. Your friend can then warp to you.
 
 ---
 
@@ -123,7 +123,7 @@ Play Dead Emote
 
 This clip is useful for getting through vertical [collision boxes](../terms-and-methods/#collision-boxes). It’s preferable to have warp unlocked with your friend as well since this only lets one player clip.
 
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://drive.google.com/file/d/1DWkjGF9ALyS0CKoXeS9hPqIvKBujYL_k/view?usp=sharing" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+<iframe src="https://drive.google.com/file/d/1DWkjGF9ALyS0CKoXeS9hPqIvKBujYL_k/view?usp=sharing" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe>
 
 1. Piggyback on a friend.
 2. Have them line up facing perpendicular to the wall where the play dead emote would make them fall towards the wall (right). 
@@ -140,13 +140,13 @@ Table
 
 This clip is a ton of fun to play around with. Essentially, it lets you move around other players wherever you can move your table. It’s easiest to get the side chairs out of bounds rather than the middle ones, so it’s best to have your friends there. It’s preferable to have warp with your friend since this will not make you clip (or use the Advanced Uber Clip).
 
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://drive.google.com/file/d/1Cw8OoibbA-nkIRQlebn1OWziaDmPNs4l/view?usp=sharing" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+<iframe src="https://drive.google.com/file/d/1Cw8OoibbA-nkIRQlebn1OWziaDmPNs4l/view?usp=sharing" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe>
 
 1. Have your friend place their table or campfire. 
-1. Sit down at it, then tap on a friend, and offer them a hand. 
-1. The friend does not take your hand, it should stay offering. They can then move around their table with you (and anyone else) on it! 
-1. Simply position the table where one of the players would be outside the desired wall and place it down to clip.
-1. Warp to your friend.
+2. Sit down at it, then tap on a friend, and offer them a hand. 
+3. The friend does not take your hand, it should stay offering. They can then move around their table with you (and anyone else) on it! 
+4. Simply position the table where one of the players would be outside the desired wall and place it down to clip.
+5. Warp to your friend.
 
 ---
 
@@ -159,7 +159,7 @@ Campfire / Teaset
 
 Clipping through the roof on your own can be simple for a veteran! Since the campfire and tea table’s seats are so close to the ceiling, you can go right through. Placement can be difficult, however. Make sure your table is as horizontal as possible. If you’re tall and going OOB solo, this is one of the best tools you can use to get out of bounds.
 
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://drive.google.com/file/d/1fNq6J9EIcj09HXNKRkDaApFtqpbYvGhw/view?usp=sharing" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+<iframe src="https://drive.google.com/file/d/1fNq6J9EIcj09HXNKRkDaApFtqpbYvGhw/view?usp=sharing" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe>
 
 1. Place your campfire on the ceiling.
 1. Sit in one of the seats.
@@ -177,7 +177,7 @@ Table
 
 This clip has been used for an extremely long time but has since been almost completely patched out. However, it’s still possible in some places with a bit of practice and determination.
 
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://imgur.com/a/QtKkWv6" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+<iframe src="https://imgur.com/a/QtKkWv6" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe>
 
 {: .note }
 > The emote used to stand up in the video is not required, just a personalized way to make standing up easier.
