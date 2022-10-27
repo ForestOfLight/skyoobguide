@@ -84,7 +84,7 @@ Piggyback
 
 This clip can push you through horizontal [collision boxes](../terms-and-methods/#collision-boxes) above you (ie. ceilings) or vertical [collision boxes](../terms-and-methods/#collision-boxes) (ie. walls). The clip is best used on a flat ceiling but can work on heavily sloped ones as well. When clipping through a wall, make sure the wall is either vertical ( \| ) or getting steeper ( \ ), not shallower ( / ). Using a ceiling corner is most ideal.
 
-<div style="width: 100%; height: 720px; position: relative;"><iframe src="https://drive.google.com/file/d/1CcdIHmS4cLfs8yGwQArHRpkRLVsefdhB/preview" frameborder="0" width="100%" height="100%" allowfullscreen=true allow="autoplay"></iframe></div>
+<div style="width: 100%; height: 480px; position: relative;"><iframe src="https://drive.google.com/file/d/1CcdIHmS4cLfs8yGwQArHRpkRLVsefdhB/preview" frameborder="0" width="100%" height="100%" allowfullscreen=true allow="autoplay"></iframe></div>
 
 1. Have a friend jump on your back with piggyback.
 2. Fly up to a collision box.
@@ -104,7 +104,7 @@ Play Dead / Crab Walk (lvl 3) Emote
 
 This clip can push you through horizontal [collision boxes](../terms-and-methods/#collision-boxes) below you (like the ground!). It is best used on flat ground but can work on slopes. It’s preferable that you have warp unlocked with your friend as well since this only lets one player clip.
 
-<div style="width: 100%; height: 720px; position: relative; padding-bottom: 45.625%;"><iframe src="https://drive.google.com/file/d/1rAznpccfBpeqLMZdtWjB3ghndQF8PZ82/view?usp=sharing" frameborder="0" width="100%" height="720" allowfullscreen></iframe></div>
+<div style="width: 100%; height: 480px; position: relative; padding-bottom: 45.625%;"><iframe src="https://drive.google.com/file/d/1rAznpccfBpeqLMZdtWjB3ghndQF8PZ82/view?usp=sharing" frameborder="0" width="100%" height="480" allowfullscreen></iframe></div>
 
 1. Jump on a friend’s back with piggyback.
 2. Have your friend use the play dead or crab walk (lvl 3) emote.
