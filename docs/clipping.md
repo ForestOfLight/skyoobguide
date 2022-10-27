@@ -31,7 +31,7 @@ A chibi clip can be performed on just about any slope to let you go underground 
 1. Hold your foot there and place a finger on the joystick.
 1. Release your feet and immediately make a small step forward with the joystick (You already had your finger on it).
 
-![](../../skyoobguide/assets/images/chibiclip.jpg)
+![](../../assets/images/chibiclip.jpg)
 ##### Art by meimei#4660
 {: .no_toc }
 
@@ -49,7 +49,7 @@ When two players attempt to give each other a piggyback at the same time, both p
 {: .note }
 > Clouds and other winds are not [collision boxes](../terms-and-methods/#collision-boxes) and can sometimes stand in your way!
 
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://drive.google.com/file/d/1uAXlxX8XyvZa3KPZqBLkliKMzbGlhYm-/view?usp=sharing" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+<iframe src="https://drive.google.com/file/d/1uAXlxX8XyvZa3KPZqBLkliKMzbGlhYm-/view?usp=sharing" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe>
 
 {: .highlight }
 > For most players, this is enough to know. If you'd like to learn more about fine tuning your rockets, head down to the [advanced](#rocket-advanced) section.
