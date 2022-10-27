@@ -49,7 +49,7 @@ When two players attempt to give each other a piggyback at the same time, both p
 {: .note }
 > Clouds and other winds are not [collision boxes](../terms-and-methods/#collision-boxes) and can sometimes stand in your way!
 
-<iframe src="https://drive.google.com/file/d/1uAXlxX8XyvZa3KPZqBLkliKMzbGlhYm-/preview" width="640" height="480" allow="autoplay"></iframe>
+<div><iframe src="https://drive.google.com/file/d/1uAXlxX8XyvZa3KPZqBLkliKMzbGlhYm-/preview" width="640" height="480" allow="autoplay"></iframe></div>
 
 {: .highlight }
 > For most players, this is enough to know. If you'd like to learn more about fine tuning your rockets, head down to the [advanced](#rocket-advanced) section.
@@ -63,7 +63,7 @@ Friend
 Piggyback
 {: .label .label-green }
 
-Spiraling is similar to [Rocketing](#rocket--piggy), but it’s slower and more maneuverable. It’s performed in the same way as a Rocket, but one player offers to hold hands while the other asks for a piggyback. Both players will go through collision boxes. Simply let go of the other player to stop the launch.
+Spiraling is similar to [rocketing](#rocket--piggy), but it’s slower and more maneuverable. It’s performed in the same way as a Rocket, but one player offers to hold hands while the other asks for a piggyback. Both players will go through collision boxes. Simply let go of the other player to stop the launch.
 
 {: .note }
 > Clouds and other winds are not [collision boxes](../terms-and-methods/#collision-boxes) and can sometimes stand in your way!
@@ -84,7 +84,7 @@ Piggyback
 
 This clip can push you through horizontal [collision boxes](../terms-and-methods/#collision-boxes) above you (ie. ceilings) or vertical [collision boxes](../terms-and-methods/#collision-boxes) (ie. walls). The clip is best used on a flat ceiling but can work on heavily sloped ones as well. When clipping through a wall, make sure the wall is either vertical ( \| ) or getting steeper ( \ ), not shallower ( / ). Using a ceiling corner is most ideal.
 
-<iframe src="https://drive.google.com/file/d/1CcdIHmS4cLfs8yGwQArHRpkRLVsefdhB/preview" width="640" height="480" allow="autoplay"></iframe>
+<div><iframe src="https://drive.google.com/file/d/1CcdIHmS4cLfs8yGwQArHRpkRLVsefdhB/preview" width="640" height="480" allow="autoplay"></iframe></div>
 
 1. Have a friend jump on your back with piggyback.
 2. Fly up to a collision box.
@@ -166,7 +166,7 @@ Clipping through the roof on your own can be simple for a veteran! Since the cam
 1. Jump out with a flick of the joystick or fly upward, whichever works.
 
 {: .highlight }
-> If you don’t have enough wedges to reach your fire,  you can always pair this glitch with the Checkpoint [PATCHED] glitch for a wedge-free way of sitting at your table.
+> If you don’t have enough wedges to reach your fire,  you can always pair this glitch with the Checkpoint glitch for a wedge-free way of sitting at your table.
 
 ---
 
