@@ -51,7 +51,7 @@ When two players attempt to give each other a piggyback at the same time, both p
 
 <div style="width: 100%; height: 100%; position: relative;"><iframe src="https://drive.google.com/file/d/1uAXlxX8XyvZa3KPZqBLkliKMzbGlhYm-/preview" width="100%" height="480" allowfullscreen allow="autoplay"></iframe></div>
 
-<iframe src="https://drive.google.com/file/d/1uAXlxX8XyvZa3KPZqBLkliKMzbGlhYm-/preview" width="860" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1uAXlxX8XyvZa3KPZqBLkliKMzbGlhYm-/preview" frameborder="0" width="860" height="480" allowfullscreen></iframe>
 
 {: .highlight }
 > For most players, this is enough to know. If you'd like to learn more about fine tuning your rockets, head down to the [advanced](#rocket-advanced) section.
@@ -88,7 +88,7 @@ This clip can push you through horizontal [collision boxes](../terms-and-methods
 
 <div style="width: 100%; height: 480px; position: relative;"><iframe src="https://drive.google.com/file/d/1CcdIHmS4cLfs8yGwQArHRpkRLVsefdhB/preview" frameborder="0" width="100%" height="100%" allowfullscreen="true" allow="autoplay"></iframe></div>
 
-<iframe src="https://drive.google.com/file/d/1CcdIHmS4cLfs8yGwQArHRpkRLVsefdhB/preview" width="860" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1CcdIHmS4cLfs8yGwQArHRpkRLVsefdhB/preview" width="860" height="480" allowfullscreen></iframe>
 
 1. Have a friend jump on your back with piggyback.
 2. Fly up to a collision box.
