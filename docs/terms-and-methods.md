@@ -78,7 +78,9 @@ A prop is any item that you can wear on your back, like an instrument or table. 
 
 In the settings menu ingame, there’s a battery icon. This sets not only your graphics quality but also many frames are shown per second (FPS). There are four settings: 0, 1, 2, and 3. 0 runs at 20fps, 1 and 3 run at 30fps, and 2 runs at 60fps.
 
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://drive.google.com/file/d/1vH2wVnawhSFivq4TLsFfyRCN9GADqZS5/preview" width=100% height=100% allow="autoplay"></iframe></div>
+{: .highlight }
+> Watch the FPS counter in the top right of the screen:
+> ![](../../assets/videos/fps.mov)
 
 ---
 
