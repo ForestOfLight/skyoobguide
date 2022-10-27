@@ -46,18 +46,14 @@ Piggyback
 
 When two players attempt to give each other a piggyback at the same time, both players will go flying up into the air regardless of any collision boxes in their path. Simply let go of the other player to stop the launch.
 
+[Video](https://drive.google.com/file/d/1uAXlxX8XyvZa3KPZqBLkliKMzbGlhYm-){: .btn .btn-blue }
+
 {: .note }
 > Clouds and other winds are not [collision boxes](../terms-and-methods/#collision-boxes) and can sometimes stand in your way!
 
-<div style="width: 100%; height: 100%; position: relative;"><iframe src="https://drive.google.com/file/d/1uAXlxX8XyvZa3KPZqBLkliKMzbGlhYm-/preview" width="100%" height="480" allowfullscreen allow="autoplay"></iframe></div>
+![](https://drive.google.com/file/d/1uAXlxX8XyvZa3KPZqBLkliKMzbGlhYm-)
 
-<iframe src="https://drive.google.com/file/d/1uAXlxX8XyvZa3KPZqBLkliKMzbGlhYm-/preview" frameborder="0" width="860" height="480" allowfullscreen></iframe>
-
-![](https://drive.google.com/file/d/1uAXlxX8XyvZa3KPZqBLkliKMzbGlhYm-/preview)
-
-![Video](https://drive.google.com/file/d/1uAXlxX8XyvZa3KPZqBLkliKMzbGlhYm-/preview)
-
-[Video](https://drive.google.com/file/d/1uAXlxX8XyvZa3KPZqBLkliKMzbGlhYm-/preview){: .btn .btn-blue }
+![Video](https://drive.google.com/file/d/1uAXlxX8XyvZa3KPZqBLkliKMzbGlhYm-)
 
 {: .highlight }
 > For most players, this is enough to know. If you'd like to learn more about fine tuning your rockets, head down to the [advanced](#rocket-advanced) section.

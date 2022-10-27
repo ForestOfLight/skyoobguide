@@ -80,7 +80,7 @@ In the settings menu ingame, there’s a battery icon. This sets not only your g
 
 {: .highlight }
 > Watch the FPS counter in the top right of the screen:
-> ![](../../assets/videos/fps.mov)
+> ![](../assets/videos/fps.mov)
 
 ---
 
