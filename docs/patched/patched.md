@@ -9,5 +9,5 @@ permalink: docs/patched
 # Patched
 {: .no_toc }
 
-Lorem ipsum.
+This section contains useful tricks and glitches that existed in previous versions of Sky.
 {: .fs-6 .fw-300 }

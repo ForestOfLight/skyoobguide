@@ -141,7 +141,7 @@ This section is an expansion on the [Chibi Clip](./clipping/#chibi-clip--chibi-f
 - When active, the Firework Staff, Harp, Horn, Umbrella (not Lightseekers Ultimate Gift), Flute, Bass Drum (from Season of Prophecy), and Lantern can be a replacement for the sneaky stance.
 - If you have the tea table you can clip into a flat floor by positioning yourself near a cup, [legging](./terms-and-methods/#legging) a foot towards the ground, and performing a Chibi Clip. Credit: Dough
 
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://streamable.com/e/ws8d1n" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+<iframe src="https://streamable.com/e/ws8d1n" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe>
 
 ---
 

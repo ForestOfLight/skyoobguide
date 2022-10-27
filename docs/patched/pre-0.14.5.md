@@ -80,7 +80,7 @@ A couple of helpful things:
 - Your checkpoint table can be placed so as to clip out of bounds. You’ll want to place the side with two chairs in the wall since those are the easiest to sit at when doing the glitch.
 - The sit button is quite easy to miss, so my own personal practice is to always tap twice (not too quickly) when tapping the sit button. If I get haptic feedback (the little vibration) I’ll let go of the table.
 - (Untested but generally a good idea:) Try to keep the table as stationary as possible when tapping the sit button because lots of movement can make it so your sky kid can’t sit down. (The same idea as pulling the chair out from under someone as they go to sit down lol.)
-- If you’re not clipping or [pushing through wind walls](#pushing-through-wind-walls), you don’t actually have to sit down. If you position your table close to you (basically the same positioning as if you were going to sit) and then close the menu and release the table, you’ll still be teleported to it. Campfire users beware you have to be right on top of the central logs for this to work. It’s best to wait until your Sky Kid moves up on top of the logs to release the table.
+- If you’re not clipping or [pushing into wind walls](#pushing-into-wind-walls), you don’t actually have to sit down. If you position your table close to you (basically the same positioning as if you were going to sit) and then close the menu and release the table, you’ll still be teleported to it. Campfire users beware you have to be right on top of the central logs for this to work. It’s best to wait until your Sky Kid moves up on top of the logs to release the table.
 
 ---
 
