@@ -31,7 +31,7 @@ A chibi clip can be performed on just about any slope to let you go underground 
 1. Hold your foot there and place a finger on the joystick.
 1. Release your feet and immediately make a small step forward with the joystick (You already had your finger on it).
 
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://drive.google.com/file/d/1uddMGrMCUWCpPIkYWRM7GE0CvnNHy4L5/view?usp=sharing" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+![](../../skyoobguide/assets/images/chibiclip.jpg)
 ##### Art by meimei#4660
 {: .no_toc }
 
