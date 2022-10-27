@@ -7,7 +7,7 @@ nav_order: 3
 # Clipping
 {: .no_toc }
 
-In most games, clipping is described as going through a [collision box](../terms-and-methods/#collision-boxes). The most popular clipping method in Sky is the infamous [Chibi Clip](#chibi-clip--chibi-fall) -- one of the first tricks new OOBers learn -- however, there are many more methods of clipping if you care to learn them.
+In most games, clipping is described as going through a [collision box](../terms-and-methods/#collision-boxes). The most popular clipping method in Sky is the infamous [chibi clip](#chibi-clip--chibi-fall) -- one of the first tricks new OOBers learn -- however, there are many more methods of clipping if you care to learn them.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -49,7 +49,7 @@ When two players attempt to give each other a piggyback at the same time, both p
 {: .note }
 > Clouds and other winds are not [collision boxes](../terms-and-methods/#collision-boxes) and can sometimes stand in your way!
 
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://drive.google.com/file/d/1uAXlxX8XyvZa3KPZqBLkliKMzbGlhYm-/preview" width="640" height="480" allow="autoplay"></iframe></div>
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 45.625%;"><iframe src="https://drive.google.com/file/d/1uAXlxX8XyvZa3KPZqBLkliKMzbGlhYm-/preview" width="100%" height="100%" allowfullscreen allow="autoplay"></iframe></div>
 
 {: .highlight }
 > For most players, this is enough to know. If you'd like to learn more about fine tuning your rockets, head down to the [advanced](#rocket-advanced) section.
@@ -84,7 +84,7 @@ Piggyback
 
 This clip can push you through horizontal [collision boxes](../terms-and-methods/#collision-boxes) above you (ie. ceilings) or vertical [collision boxes](../terms-and-methods/#collision-boxes) (ie. walls). The clip is best used on a flat ceiling but can work on heavily sloped ones as well. When clipping through a wall, make sure the wall is either vertical ( \| ) or getting steeper ( \ ), not shallower ( / ). Using a ceiling corner is most ideal.
 
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://drive.google.com/file/d/1CcdIHmS4cLfs8yGwQArHRpkRLVsefdhB/preview" width="640" height="480" allow="autoplay"></iframe></div>
+<div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://drive.google.com/file/d/1CcdIHmS4cLfs8yGwQArHRpkRLVsefdhB/preview" frameborder="0" width="100%" height="100%" allowfullscreen=true allow="autoplay"></iframe></div>
 
 1. Have a friend jump on your back with piggyback.
 2. Fly up to a collision box.
@@ -104,7 +104,7 @@ Play Dead / Crab Walk (lvl 3) Emote
 
 This clip can push you through horizontal [collision boxes](../terms-and-methods/#collision-boxes) below you (like the ground!). It is best used on flat ground but can work on slopes. It’s preferable that you have warp unlocked with your friend as well since this only lets one player clip.
 
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://drive.google.com/file/d/1rAznpccfBpeqLMZdtWjB3ghndQF8PZ82/view?usp=sharing" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+<div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://drive.google.com/file/d/1rAznpccfBpeqLMZdtWjB3ghndQF8PZ82/view?usp=sharing" frameborder="0" width="100%" height="100%" allowfullscreen></iframe></div>
 
 1. Jump on a friend’s back with piggyback.
 2. Have your friend use the play dead or crab walk (lvl 3) emote.
