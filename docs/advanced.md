@@ -73,14 +73,15 @@ Table
 
 This more complicated version of the Uber glitch can bring you as well as up to four other players on a ride. What this glitch actually does is the same as the Uber Clip, but you are holding the hand of one of your friends so you go with them. Video
 
-![](https://www.reddit.com/user/hondo7059/comments/ip60qc/table_surf/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+<iframe src="https://www.redditmedia.com/user/hondo7059/comments/ip60qc/table_surf/?ref_source=embed&amp;ref=share&amp;embed=true" style="border: none;" height="415" width="640" scrolling="no"></iframe>
+<div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://imgur.com/a/QtKkWv6" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
 
 1. Place your table.
-1. Have a friend sit at the table (You don’t need to sit at it).
-1. Tap your friend to make the follow icon appear and tap it to follow them.
-1. Have your friend prepare by opening the friendship menu by tapping on you.
-1. Since you just tapped the follow button, there will be a “hold hands” button above your friend’s head. At the same time, tap this and have your friend offer to hold your hand from your friendship menu. This puts you into a state where both of you just stand there on the chair. (It’s easiest to count to three with beeps, as in the video.)
-1. Move the table and place it down. You and your friend will go where it does!
+2. Have a friend sit at the table (You don’t need to sit at it).
+3. Tap your friend to make the follow icon appear and tap it to follow them.
+4. Have your friend prepare by opening the friendship menu by tapping on you.
+5. Since you just tapped the follow button, there will be a “hold hands” button above your friend’s head. At the same time, tap this and have your friend offer to hold your hand from your friendship menu. This puts you into a state where both of you just stand there on the chair. (It’s easiest to count to three with beeps, as in the video.)
+6. Move the table and place it down. You and your friend will go where it does!
 
 {: .note-title }
 > Note for #5
@@ -141,7 +142,7 @@ This section is an expansion on the [Chibi Clip](./clipping/#chibi-clip--chibi-f
 - When active, the Firework Staff, Harp, Horn, Umbrella (not Lightseekers Ultimate Gift), Flute, Bass Drum (from Season of Prophecy), and Lantern can be a replacement for the sneaky stance.
 - If you have the tea table you can clip into a flat floor by positioning yourself near a cup, [legging](./terms-and-methods/#legging) a foot towards the ground, and performing a Chibi Clip. Credit: Dough
 
-<iframe src="https://streamable.com/e/ws8d1n" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe>
+<div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://streamable.com/e/ws8d1n" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
 
 ---
 
