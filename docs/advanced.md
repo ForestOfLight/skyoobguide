@@ -41,8 +41,6 @@ Another factor is your graphics settings. Changing the game’s FPS will change 
 
 If you’d like to go underwater, simply start the rocket in the water. Only one player will go underwater so that player must let go. Be wary of crashes!
 
-As of patch 0.14.5, the only effect of the Bicycle [PATCHED] glitch is that it will send both players on the same Rocket-like trajectory.
-
 ---
 
 ## Advanced Spiraling
@@ -71,10 +69,10 @@ Friend
 Table
 {: .label .label-green }
 
-This more complicated version of the Uber glitch can bring you as well as up to four other players on a ride. What this glitch actually does is the same as the Uber Clip, but you are holding the hand of one of your friends so you go with them. Video
+This more complicated version of the Uber glitch can bring you as well as up to four other players on a ride. What this glitch actually does is the same as the Uber Clip, but you are holding the hand of one of your friends so you go with them.
 
 <iframe src="https://www.redditmedia.com/user/hondo7059/comments/ip60qc/table_surf/?ref_source=embed&amp;ref=share&amp;embed=true" style="border: none;" height="415" width="640" scrolling="no"></iframe>
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://imgur.com/a/QtKkWv6" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+<!-- <div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://www.redditmedia.com/user/hondo7059/comments/ip60qc/table_surf/?ref_source=embed&amp;ref=share&amp;embed=true" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div> -->
 
 1. Place your table.
 2. Have a friend sit at the table (You don’t need to sit at it).
