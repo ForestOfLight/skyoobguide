@@ -82,7 +82,7 @@ Hammock
 
 This is a revival of the patched [Poof Warp](./patched/../../patched/pre-0.14.5/#poof-warp--disconnect-warp) behavior. This trick will take you to a spot under the map (with coordinates 0, 0, 0) called the "shadow spot" or "zero point." Here’s how to do it:
 
-[Video](https://drive.google.com/file/d/1CbIID-k5sbgFnsatxHQ4DtMlXv8quOfi){: .btn .btn-blue }
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/9ybibb?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Place the hammock.
 2. Have your friend lay in it and offer their hand.
@@ -90,7 +90,7 @@ This is a revival of the patched [Poof Warp](./patched/../../patched/pre-0.14.5/
 4. Release the hammock.
 
 {: .highlight }
-> [Bonus Method!](https://drive.google.com/file/d/1WoDayMorqMQFvnalcZMdgfhKgV9Cv3Sf){: .btn .btn-bluem}
+> [Bonus Method!](https://streamable.com/z7n8kd){: .btn .btn-blue }
 
 ---
 
@@ -105,7 +105,7 @@ Sustained Emote
 
 When being pulled by a friend, spamming any sustained emote will leave you behind. (Your friend won’t see this.) When you stop, you’ll be pulled right back to your friend as long as they haven’t left the area. When you are in a rubberbanded state, your camera will go to the midpoint between your actual location and your friend’s location (it also adjusts to Sky’s pre-defined camera locations), meaning you can get some great cinematic shots! The further you are from your friend when you stop spamming a sustained emote, the longer it will take before you return to them.
 
-[Video](https://drive.google.com/file/d/1uCf09zqWDszbQoWFt0iFeuz4K3GwMiSZ){: .btn .btn-blue }
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/2rj9zf?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 {: .note }
 You are not physically pulled with your friend so you do not collect light and other things that your friend runs by.
@@ -125,4 +125,4 @@ Sustained Emote
 
 Being late will make your friend disappear without you ever teleporting to them, being early (or if the loading zone is too thick) will teleport you through the loading zone with your friend. In addition, it’s helpful to get relatively close to the loading zone before you start [Rubberbanding](#rubberbanding) to reduce the wait time between when you stop emoting and when you teleport to your friend.
 
-[Video](https://drive.google.com/file/d/1whkRnTNruWHRS1tl1Jmh0C4OtAVz0G9m){: .btn .btn-blue }
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/yicb9l?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>

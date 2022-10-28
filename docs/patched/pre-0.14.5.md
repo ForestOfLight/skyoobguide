@@ -24,7 +24,7 @@ Table
 
 Yes, this is possible. However, I’m sad to say most wind walls are most likely infinitely thick. This trick is possible because of the [Checkpoint](#checkpoint--table-teleport) glitch.
 
-![](../../assets/videos/PushingIntoWindwalls.mov)
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/ydzkt7?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Place your table as far out as you can in the wind wall.
 1. Perform the Checkpoint glitch.
@@ -42,7 +42,7 @@ Placeable Prop
 
 After placing your table once in a level, it’s possible to skip the cooldown after dragging the table out of the emote menu by simply tapping anywhere that closes the emote menu instead of lifting your finger to release your table. This trick works every other time you place your table.
 
-![](../../assets/videos/Table Sooldown Skip.mov)
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/w7obi8?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ---
 
@@ -55,7 +55,7 @@ Warp
 
 When a friend is in the same area as you and they let out a call, you usually can see an eye icon on them. This also appears when your friend goes home or into another area without you. (Also when you warp to them from home, but that's not important.) When you warp to them Sky doesn’t know where to put you since they don’t exist anymore, so it takes you below the map (presumably 0, 0, 0). The timing for this glitch isn’t difficult, it often happens by accident when warping to friends after they get disconnected or leave the room in any way. Lots of areas have a failsafe to send you to a safe spot if this were to happen by mistake, however, some don’t.
 
-![](../../assets/videos/PoofWarp.qt)
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/do1tza?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ---
 
@@ -74,7 +74,7 @@ After placing your table somewhere, you can teleport to it whenever you like as 
 
 The timing of this glitch is a little hard to get a feel for. You want to go into the sitting animation and before you’ve fully sat down close the menu and release the table. To understand why this glitch works, try pulling out your table and then closing the menu. There’s a little bit of time between when you close the menu and when the table disappears. During the sitting animation, the game’s job is to have you sit at your table. When you tap the button the game commits to putting you at your table, but it can only be placed down to do that. That’s why you need to close the menu. If you place the table during the time it takes to put away the table after closing the menu it will still take away the table. However, the table was physically placed so you can sit at it before it is taken away. The game then transports you to where your table was previously placed because the game has committed to having you sit at your table.
 
-![](../../assets/videos/TableTeleport.mov)
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/n14okc?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 A couple of helpful things:
 - Your checkpoint table can be placed so as to clip out of bounds. You’ll want to place the side with two chairs in the wall since those are the easiest to sit at when doing the glitch.
@@ -99,7 +99,7 @@ Shelf
 
 You can teleport yourself around a level with this little trick. However, it is very difficult to control and will take you any distance it wants. While that doesn’t sound very useful, we are figuring out how to control it. This trick is much easier on the lowest graphics level because it runs at a slower frame rate. Any use of this after flying up a little in a level will double your height. You can easily take this trick up to the [farlands](https://drive.google.com/file/d/1TJ8rEr8GU0OVk248MNBZ--Yg2ZLJ5hFs/view) on maps without reset walls, but beware it will get increasingly harder to land on your table.
 
-![](../../assets/videos/TableFling.qt)
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/ft3x9n?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Place your table and stand on it.
 1. Open the emote menu and tap your table icon for a single frame.
@@ -170,7 +170,7 @@ Rainbow Spell
 
 The successor of the beloved [Checkpoint](#checkpoint--table-teleport) glitch. This glitch can be very complicated, but luckily only the person who owns the table needs to know how to perform it. This glitch essentially has the same function as the old Checkpoint glitch, just slower. This glitch will teleport a friend to where your table is placed so you can warp to them.
 
-![](../../assets/videos/RainbowCheckpoint.qt)
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/i1ncbx?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Place down your table where you’d like to set your checkpoint.
 1. Have your friend sit at your table to make it solid for them.

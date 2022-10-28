@@ -98,7 +98,7 @@ Table
 
 This glitch creates the same effect as the Driving [PATCHED] glitch, but it moves much quicker.
 
-[Video](https://drive.google.com/file/d/1H96vmQ9vd5hjPWZpf9ZqIV-6eGy09edn){: .btn .btn-blue }
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/pd830j?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Place your table.
 1. Have a friend sit at the table.
@@ -155,7 +155,7 @@ Table
 
 This glitch can be used to much more actively control your position underwater than other underwater tricks. This glitch was previously able to be performed in the same way as with wind walls. However, it can be done much easier (and now faster) with the help of a friend. Careful in oil (water that depletes your light) though, it doesn’t stop hurting under the surface!
 
-[Video](https://drive.google.com/file/d/19DrhirYd3sX34ooKeLWlQe3DJ29aLuJ6){: .btn .btn-blue }
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/kvbpp0?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Initiate an [Advanced Uber](#drive--advanced-table-uber).
 1. Drag your table as far as you can underwater.

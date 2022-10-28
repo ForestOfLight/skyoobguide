@@ -19,7 +19,7 @@ nav_order: 6
 
 Collecting candles quickly isn't too important, but it's a good way to stop having to ignore that blinking red dot without slowing down your candle run! Collecting candles just before going through a [loading zone](./terms-and-methods/#reset-walls-and-loading-zones) will skip the animation of collecting them. You can also easily collect candles before going Home because the "sit to go home" animation interrupts the candle collection animation.
 
-[Video](https://drive.google.com/file/d/1AM_VAX7vb81kO1qufcUXtS4NIooHCrOZ){: .btn .btn-blue }
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/bbnoq2?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ---
 
@@ -30,7 +30,7 @@ Placeable Prop
 
 It’s possible to place a prop spell without using up the prop. After activating the spell and dragging it out of the spell menu, tap anywhere outside the menu without lifting your finger to place the spell. The spell will be added back to your inventory!
 
-[Video](https://drive.google.com/file/d/1JoZ8TO8YqFjlMWR0KMIiWsbeKyArNJfn){: .btn .btn-blue }
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/rdrg4f?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ---
 
@@ -41,7 +41,7 @@ Rainbow Spell
 
 Wait, but isn’t that an OOB location? Yep, but it’s also its own glitch, completely unrelated to the OOB location in Isle of Dawn. This trick lets you place a rainbow spell horizontally so that you can walk on it!
 
-[Video](https://drive.google.com/file/d/1vDvAEU9VyqeiMC7wZyJhlpXE0Dq7NUjl){: .btn .btn-blue }
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/38ca6d?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Initiate the rainbow spell.
 2. Position your camera straight down.
