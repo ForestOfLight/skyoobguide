@@ -96,7 +96,7 @@ Table
 
 > Credit: Cheng/Euemj(程程)
 
-This glitch creates the same effect as the Driving [PATCHED] glitch, but it moves much quicker.
+This glitch creates the same effect as the [Driving](#drive--advanced-table-uber) glitch, but it moves much quicker.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/pd830j?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
@@ -133,14 +133,17 @@ Sideways [rockets](./clipping/#rocket--piggy), as you can imagine, can be rather
 
 ## Legging Clip / Advanced Chibi Clip
 
-This section is an expansion on the [Chibi Clip](./clipping/#chibi-clip--chibi-fall). The sneaky stance isn’t strictly required to perform this glitch, but it is highly recommended as it makes the glitch much more consistent. It’s also possible to do this without being chibi at all. Not much is known about clipping like this without chibi or the sneaky stance because it’s so fiddly.
+This section is an expansion on the [Chibi Clip](../clipping/#chibi-clip--chibi-fall). The sneaky stance isn’t strictly required to perform this glitch, but it is highly recommended as it makes the glitch much more consistent. It’s also possible to do this without being chibi at all. Not much is known about clipping like this without chibi or the sneaky stance because it’s so fiddly.
 
 {: .note }
 > When active, the Firework Staff, Harp, Horn, Umbrella (not Lightseekers Ultimate Gift), Flute, Bass Drum (from Season of Prophecy), and Lantern can be a replacement for the sneaky stance.
 
 {: .highlight }
-> If you have the tea table you can clip into a flat floor by positioning yourself near a cup, [legging](./terms-and-methods/#legging) a foot towards the ground, and performing a Chibi Clip. Credit: Dough
-> [Video](https://streamable.com/e/ws8d1n){: .btn .btn-blue }
+> If you have the tea table you can clip into a flat floor by positioning yourself near a cup, [legging](../terms-and-methods/#legging) a foot towards the ground, and performing a Chibi Clip. Credit: Dough
+> 
+> <span class="fs-3">
+> [Video](https://streamable.com/e/ws8d1n){: .btn .btn-outline}
+> </span>
 
 ---
 
@@ -159,8 +162,8 @@ This glitch can be used to much more actively control your position underwater t
 
 1. Initiate an [Advanced Uber](#drive--advanced-table-uber).
 1. Drag your table as far as you can underwater.
-1. Use the [midair table placement](./movement/single-player/#midair-prop-placement) mechanic to place the table where you’d like to go by facing your camera in the desired direction. Be cautious not to have any placeable surfaces in the direction you’re facing.
+1. Use the [midair table placement](../movement/single-player/#midair-prop-placement) mechanic to place the table where you’d like to go by facing your camera in the desired direction. Be cautious not to have any placeable surfaces in the direction you’re facing.
 1. Since it only moves you a little bit, repeat step 3 until you’re in whatever location you’d like! Careful not to tap any of the “hold hand” or “sit” buttons on-screen (your friend shouldn’t either).
 
 {: .highlight }
-> More friends can go for the ride by holding your hand before initiating the [Advanced Uber](#drive--advanced-table-uber) or by sitting at the table like a normal [Uber](./clipping/#table-uber--multi-player-table-clip). The former is preferable because there are fewer buttons that can make the trick fail crowding up the screen. If that somehow doesn’t bother you, go ahead and take a whole server down.
+> More friends can go for the ride by holding your hand before initiating the [Advanced Uber](#drive--advanced-table-uber) or by sitting at the table like a normal [Uber](../clipping/#table-uber--multi-player-table-clip). The former is preferable because there are fewer buttons that can make the trick fail crowding up the screen. If that somehow doesn’t bother you, go ahead and take a whole server down.

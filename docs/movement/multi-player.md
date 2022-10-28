@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Multi-Player Movement
-nav-order: 3
 parent: Movement
 ---
 
@@ -30,7 +29,7 @@ Placeable Prop
 
 This trick lets you warp onto the ground from any height above. It even ignores wind walls and clouds. Unfortunately, much easier to be tall to perform this glitch. Chibi kids’ legs are simply too short to accomplish the first step easily.
 
-[Video](https://drive.google.com/file/d/1HPHtyGLxBeKV1kxXIPuoH1SiKE-8d8Mo){: .btn .btn-blue }
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/x88ir6?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Get your player to stand on the very edge of the prop so that their center is not over the prop.
 2. Tap on your friend and offer to do any emote with them.
@@ -48,7 +47,7 @@ Placeable Prop
 
 Ever want to just stop, midair, with nothing around? This trick lets you levitate on nothing at all while doing any emote offered to a friend. This makes for some amazing screenshots.
 
-[Video](https://drive.google.com/file/d/1km0z_56ylIZzwgJs6aYxcxX9KDISd6JD){: .btn .btn-blue }
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/fs3rex?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Stand on your prop and offer to do any emote with a friend.
 2. Move your prop (If you just tap the table icon, your table will disappear completely).
@@ -66,8 +65,7 @@ Piggyback
 
 Have your friend jump on your back and then start flying and tap the follow button on them. The effect of doing so will suspend you in midair around your friend. The best part? Your flight power still increases.
 
-![](../../assets/videos/Infinite Flight Regen.mov)
-[Video](https://drive.google.com/file/d/10o2dbKTM1Y7tNzT0hhZeAWPZdkBhFt_j){: .btn .btn-blue }
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/56hnwb?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ---
 
@@ -94,7 +92,7 @@ This is a revival of the patched [Poof Warp](./patched/../../patched/pre-0.14.5/
 
 ---
 
-## Rubberbanding
+## Rubberbanding / Drone
 
 Friend
 {: .label .label-green }

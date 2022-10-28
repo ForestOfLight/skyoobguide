@@ -40,7 +40,10 @@ Yes, this is possible. However, I’m sad to say most wind walls are most likely
 Placeable Prop
 {: .label .label-green }
 
-After placing your table once in a level, it’s possible to skip the cooldown after dragging the table out of the emote menu by simply tapping anywhere that closes the emote menu instead of lifting your finger to release your table. This trick works every other time you place your table.
+After placing your table once in a level, it’s possible to skip the cooldown after dragging the table out of the emote menu by simply tapping anywhere that closes the emote menu instead of lifting your finger to release your table. 
+
+{: .highlight }
+As of patch 0.14.5, this trick works *every other time* you place your table.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/w7obi8?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
@@ -225,7 +228,8 @@ The most useful sustained emotes to control your skew are:
 >
 > | Player One                                                | Player Two                                                | Down                                      |
 > |:----------------------------------------------------------|:----------------------------------------------------------|:-----------------------------------------|
-> | ![](../../assets/videos/DirectionalRocket_Player1.mov) | ![](../../assets/videos/DirectionalRocket_Player2.mov) | ![](../../assets/videos/DirectionalRocketDown.mov) |
+> | [](../../assets/videos/DirectionalRocket_Player1.mov){: .btn } | [](../../assets/videos/DirectionalRocket_Player2.mov){: .btn} | [](../../assets/videos/DirectionalRocketDown.mov){: .btn } |
+> | <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/x56pdc?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div> | <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/3cojcn?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div> | <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/22azly?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div> |
 
 {: .highlight }
 > You can change your speed by changing your [graphics mode](../terms-and-methods/#graphics-and-fps). Changing the game’s FPS will change the speed of the launch from your point of view (0 is 2/3 speed, 1&3 are normal, 2 is 2x speed)

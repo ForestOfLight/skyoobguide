@@ -52,7 +52,7 @@ When two players attempt to give each other a piggyback at the same time, both p
 > Clouds and other winds are not [collision boxes](../terms-and-methods/#collision-boxes) and can sometimes stand in your way!
 
 {: .highlight }
-> For most players, this is enough to know. If you'd like to learn more about fine tuning your rockets, head down to the [advanced](#rocket-advanced) section.
+> For most players, this is enough. If you'd like to learn more about fine tuning your rockets, head to the [advanced](#rocket-advanced) section.
 
 ---
 
@@ -69,7 +69,7 @@ Spiraling is similar to [rocketing](#rocket--piggy), but it’s slower and more 
 > Clouds and other winds are not [collision boxes](../terms-and-methods/#collision-boxes) and can sometimes stand in your way!
 
 {: .highlight }
-> For most players, this is enough to know. If you'd like to learn more about fine tuning your spirals, head down to the [advanced](#spiral-advanced) section.
+> For most players, this is enough. If you'd like to learn more about fine tuning your spirals, head to the [advanced](#spiral-advanced) section.
 
 ---
 
@@ -159,9 +159,6 @@ Table
 This clip has been used for an extremely long time but has since been almost completely patched out. However, it’s still possible in some places with a bit of practice and determination.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/n9z533?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-{: .note }
-> The emote used to stand up in the video is not required, just a personalized way to make standing up easier.
 
 1. Place your table where one (or more) chair(s) are outside the wall you’d like to clip into.
 2. If you can, sit in the chair(s) outside the wall and you’ll be out of bounds.
