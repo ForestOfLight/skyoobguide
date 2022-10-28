@@ -23,17 +23,6 @@ Collecting candles quickly isn't too important, but it's a good way to stop havi
 
 ---
 
-## Spell Saver
-
-Placeable Prop
-{: .label .label-green }
-
-It’s possible to place a prop spell without using up the prop. After activating the spell and dragging it out of the spell menu, tap anywhere outside the menu without lifting your finger to place the spell. The spell will be added back to your inventory!
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/rdrg4f?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
----
-
 ## Rainbow Bridge
 
 Rainbow Spell
