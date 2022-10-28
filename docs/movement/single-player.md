@@ -50,7 +50,7 @@ Placeable Prop
 
 Simply tap the prop icon in your emote menu while away from any placeable surfaces and it’ll spawn in midair. The prop will place a short distance away from you in the direction your camera is facing. If you get your camera right, you can place the table right in front of you and land on it while actively flying. Every other tap will put away your table, so this works every other time. Just tap twice to place it for a second time.
 
-![](../../assets/videos/Midair Table.mov)
+[Video](https://drive.google.com/file/d/1lvAe4ZuHgiW_bWUcmnPJ2gzT_mVPFDbo){: .btn .btn-blue }
 
 ---
 
@@ -58,7 +58,7 @@ Simply tap the prop icon in your emote menu while away from any placeable surfac
 
 This is a difficult yet useful trick for any speedy candle runner. It lets you take off in flight mode straight from the ground and fly vertically into the air. It will take some practice to pull off and some more to pull off consistently, but it has immediate implications for shortcuts. This glitch can be performed both on the ground or in the air.
 
-![](../../assets/videos/Vertical Flight.qt)
+[Video](https://drive.google.com/file/d/1MZpslgYFiH5GlMUv6AE6xXF_t05xarAc){: .btn .btn-blue }
 
 1. Start sliding. The best way to do this is to hold forward and jump once or twice.
 2. Hold the fly button to flap once.
@@ -70,4 +70,6 @@ This is a difficult yet useful trick for any speedy candle runner. It lets you t
 >
 > - Sliding fast enough to go into flight mode automatically when you take off causes this trick to fail.
 > - If you successfully start flying upwards but bank back the way you came, you’ve swiped too harshly and/or moved your joystick after flying.
-> - Watching videos of this trick will honestly help you learn it. Get started with [this one](https://www.youtube.com/watch?v=XTowmXHAfZ4).
+
+{: .highlight }
+> Watching videos of this trick will honestly help you learn it. Try getting started with [this one](https://www.youtube.com/watch?v=XTowmXHAfZ4)!

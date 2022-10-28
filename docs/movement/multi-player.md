@@ -30,7 +30,7 @@ Placeable Prop
 
 This trick lets you warp onto the ground from any height above. It even ignores wind walls and clouds. Unfortunately, much easier to be tall to perform this glitch. Chibi kids’ legs are simply too short to accomplish the first step easily.
 
-![](../../assets/videos/Ground Warp.qt)
+[Video](https://drive.google.com/file/d/1HPHtyGLxBeKV1kxXIPuoH1SiKE-8d8Mo){: .btn .btn-blue }
 
 1. Get your player to stand on the very edge of the prop so that their center is not over the prop.
 2. Tap on your friend and offer to do any emote with them.
@@ -48,7 +48,7 @@ Placeable Prop
 
 Ever want to just stop, midair, with nothing around? This trick lets you levitate on nothing at all while doing any emote offered to a friend. This makes for some amazing screenshots.
 
-![](../../assets/videos/Levitation.qt)
+[Video](https://drive.google.com/file/d/1km0z_56ylIZzwgJs6aYxcxX9KDISd6JD){: .btn .btn-blue }
 
 1. Stand on your prop and offer to do any emote with a friend.
 2. Move your prop (If you just tap the table icon, your table will disappear completely).
@@ -67,6 +67,7 @@ Piggyback
 Have your friend jump on your back and then start flying and tap the follow button on them. The effect of doing so will suspend you in midair around your friend. The best part? Your flight power still increases.
 
 ![](../../assets/videos/Infinite Flight Regen.mov)
+[Video](https://drive.google.com/file/d/10o2dbKTM1Y7tNzT0hhZeAWPZdkBhFt_j){: .btn .btn-blue }
 
 ---
 
@@ -81,12 +82,15 @@ Hammock
 
 This is a revival of the patched [Poof Warp](./patched/../../patched/pre-0.14.5/#poof-warp--disconnect-warp) behavior. This trick will take you to a spot under the map (with coordinates 0, 0, 0) called the "shadow spot" or "zero point." Here’s how to do it:
 
-![](../../assets/videos/Poof Warp v2.qt)
+[Video](https://drive.google.com/file/d/1CbIID-k5sbgFnsatxHQ4DtMlXv8quOfi){: .btn .btn-blue }
 
 1. Place the hammock.
 2. Have your friend lay in it and offer their hand.
 3. Drag out the hammock again. When they are teleported, grab their hand.
 4. Release the hammock.
+
+{: .highlight }
+> [Bonus Method!](https://drive.google.com/file/d/1WoDayMorqMQFvnalcZMdgfhKgV9Cv3Sf){: .btn .btn-bluem}
 
 ---
 
@@ -101,7 +105,7 @@ Sustained Emote
 
 When being pulled by a friend, spamming any sustained emote will leave you behind. (Your friend won’t see this.) When you stop, you’ll be pulled right back to your friend as long as they haven’t left the area. When you are in a rubberbanded state, your camera will go to the midpoint between your actual location and your friend’s location (it also adjusts to Sky’s pre-defined camera locations), meaning you can get some great cinematic shots! The further you are from your friend when you stop spamming a sustained emote, the longer it will take before you return to them.
 
-![](../../assets/videos/Rubberbanding.mp4)
+[Video](https://drive.google.com/file/d/1uCf09zqWDszbQoWFt0iFeuz4K3GwMiSZ){: .btn .btn-blue }
 
 {: .note }
 You are not physically pulled with your friend so you do not collect light and other things that your friend runs by.
@@ -121,4 +125,4 @@ Sustained Emote
 
 Being late will make your friend disappear without you ever teleporting to them, being early (or if the loading zone is too thick) will teleport you through the loading zone with your friend. In addition, it’s helpful to get relatively close to the loading zone before you start [Rubberbanding](#rubberbanding) to reduce the wait time between when you stop emoting and when you teleport to your friend.
 
-![](../../assets/videos/Loading Zone Hop.mp4)
+[Video](https://drive.google.com/file/d/1whkRnTNruWHRS1tl1Jmh0C4OtAVz0G9m){: .btn .btn-blue }

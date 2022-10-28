@@ -19,7 +19,7 @@ Since OOBing can be a complicated process and some of the mechanics are not give
 ---
 
 ## Out of Bounds
-What *really* is out of bounds anyway? Is it somewhere you have to use glitches to get to or is it just somewhere off the beaten path? We've landed on this description:
+What *really* is out of bounds anyway? Is it somewhere you *have* to use glitches to get to or is it just somewhere off the beaten path? Our description of out of bounds is rather general:
 
 {: .highlight }
 > A location is considered out of bounds as long as it exists outside of the intended play area defined by the developers working on Sky: Children of the Light.
@@ -79,15 +79,14 @@ A prop is any item that you can wear on your back, like an instrument or table. 
 In the settings menu ingame, there’s a battery icon. This sets not only your graphics quality but also many frames are shown per second (FPS). There are four settings: 0, 1, 2, and 3. 0 runs at 20fps, 1 and 3 run at 30fps, and 2 runs at 60fps.
 
 {: .highlight }
-> Watch the FPS counter in the top right of the screen:
-> ![](../assets/videos/fps.mov)
+> Watch the FPS counter in the top right of the screen: ![Video](https://drive.google.com/file/d/1vH2wVnawhSFivq4TLsFfyRCN9GADqZS5)
 
 ---
 
 ## Freezing
 
 {: .warning }
-> This section is slightly outdated. Freezing works the same, but has different effects.
+> This section is slightly outdated. Freezing works the same, but has different effects. We'll update it as soon as we can!
 
 Lightly disconnects a player from the game so that your position does not change (or changes more slowly) for the duration of the freeze.
 iOS and Android: Go into multitasking or lock your device.

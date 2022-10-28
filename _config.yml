@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sky OOB Guide
-description: "A documentation of tricks and glitches in Sky: Children of the light"
+description: "A documentation of tricks and glitches in Sky: Children of the light."
 baseurl: "/skyoobguide" # the subpath of your site, e.g. /blog
 url: "https://forestoflight.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -90,7 +90,6 @@ heading_anchors: true
 aux_links:
   "Join SkyOOB on Discord":
     - "https://discord.gg/h6JtXQv62y"
-
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
@@ -127,7 +126,7 @@ gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
-color_scheme: light
+color_scheme: dark
 
 callouts_level: quiet # or loud
 callouts:

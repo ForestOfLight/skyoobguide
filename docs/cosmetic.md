@@ -29,7 +29,7 @@ Hide 'n' Seek Emote
 
 Have a friend ride you like a certain doggo! It’s quite simple, just piggy with a friend and activate the Hide ‘n’ Seek minigame. If your friend stays on your back, you start to crawl! The person actually crawling won’t notice a difference beyond their movement being a little restricted, but everyone else certainly will!
 
-![](../../assets/videos/Oreo Imitation.mov)
+[Video](https://drive.google.com/file/d/1vU2oeFfQhkjUEuJNv2tDT2TCd7a__RrL){: .btn .btn-blue }
 
 ---
 
@@ -40,7 +40,7 @@ Prop
 
 If you have a prop active, you can tap your prop and candle at the same time to take out both at once. Because you need the emote menu open, this doesn’t work with props that bring up their own UI, like instruments. This trick is best used with an Umbrella. No more getting wet while burning those darkness plants!
 
-![](../../assets/videos/Umbrella_Candle Hold Smuggling.mov)
+[Video](https://drive.google.com/file/d/1b39Y2Udjb0zqnDS6AHaLCMi2MpsbTu7c){: .btn .btn-blue }
 
 ---
 
@@ -53,7 +53,7 @@ Confetti Emote
 
 Shoot your props into the air! Similar to Candle Hold Smuggling, you just tap your prop and the confetti emote at the same time to send your prop flying! Because you need the emote menu open, this doesn’t work with props that bring up their own UI, like instruments. However, if you’re holding the hand of a friend and have any prop active, they can do the confetti emote for you.
 
-![](../../assets/videos/Prop Popper.mov)
+[Video](https://drive.google.com/file/d/1_ukgXCJkEemwYRNG9lNsUImV3wYQdRXq){: .btn .btn-blue }
 
 ---
 
@@ -66,7 +66,7 @@ Spin Trick Emote
 
 This little trick is a fun combination of the other hold smuggling tricks that turns you into a rapidly spinning lighthouse! Careful not to blind anyone in the vicinity! It’s a little hard not to.
 
-![](../../assets/videos/Lighthouse.mov)
+[Video](https://drive.google.com/file/d/1fqQ6T12A11CcJCaGRfPhY9tIQstavLbR){: .btn .btn-blue }
 
 1. Take out the Lantern and switch it to “Spotlight mode.”
 2. Initiate the Spin Trick emote and Lantern again at the same time.
@@ -87,7 +87,7 @@ Lantern Spell
 
 This trick lets you hold a prop out in front of you! Others can see it and you can move it around using various stances (emotes seem to just stick it into your neck. Ouch!). It will stay there until you switch props or go to a new level. This trick can also be done with any umbrella spell.
 
-![](../../assets/videos/Holding Props.qt)
+[Video](https://drive.google.com/file/d/1IiANyJrV6EMSL5dQaWhaTgjZKTo1y1Qa){: .btn .btn-blue }
 
 1. Activate a lantern spell.
 2. Cancel the lantern spell.

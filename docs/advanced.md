@@ -72,7 +72,6 @@ Table
 This more complicated version of the Uber glitch can bring you as well as up to four other players on a ride. What this glitch actually does is the same as the Uber Clip, but you are holding the hand of one of your friends so you go with them.
 
 <iframe src="https://www.redditmedia.com/user/hondo7059/comments/ip60qc/table_surf/?ref_source=embed&amp;ref=share&amp;embed=true" style="border: none;" height="415" width="640" scrolling="no"></iframe>
-<!-- <div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://www.redditmedia.com/user/hondo7059/comments/ip60qc/table_surf/?ref_source=embed&amp;ref=share&amp;embed=true" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div> -->
 
 1. Place your table.
 2. Have a friend sit at the table (You don’t need to sit at it).
@@ -99,7 +98,7 @@ Table
 
 This glitch creates the same effect as the Driving [PATCHED] glitch, but it moves much quicker.
 
-![](../../assets/videos/Sonic.qt)
+[Video](https://drive.google.com/file/d/1H96vmQ9vd5hjPWZpf9ZqIV-6eGy09edn){: .btn .btn-blue }
 
 1. Place your table.
 1. Have a friend sit at the table.
@@ -136,11 +135,12 @@ Sideways [rockets](./clipping/#rocket--piggy), as you can imagine, can be rather
 
 This section is an expansion on the [Chibi Clip](./clipping/#chibi-clip--chibi-fall). The sneaky stance isn’t strictly required to perform this glitch, but it is highly recommended as it makes the glitch much more consistent. It’s also possible to do this without being chibi at all. Not much is known about clipping like this without chibi or the sneaky stance because it’s so fiddly.
 
-**General tricks:**
-- When active, the Firework Staff, Harp, Horn, Umbrella (not Lightseekers Ultimate Gift), Flute, Bass Drum (from Season of Prophecy), and Lantern can be a replacement for the sneaky stance.
-- If you have the tea table you can clip into a flat floor by positioning yourself near a cup, [legging](./terms-and-methods/#legging) a foot towards the ground, and performing a Chibi Clip. Credit: Dough
+{: .note }
+> When active, the Firework Staff, Harp, Horn, Umbrella (not Lightseekers Ultimate Gift), Flute, Bass Drum (from Season of Prophecy), and Lantern can be a replacement for the sneaky stance.
 
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 45.625%;"><iframe src="https://streamable.com/e/ws8d1n" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+{: .highlight }
+> If you have the tea table you can clip into a flat floor by positioning yourself near a cup, [legging](./terms-and-methods/#legging) a foot towards the ground, and performing a Chibi Clip. Credit: Dough
+> [Video](https://streamable.com/e/ws8d1n){: .btn .btn-blue }
 
 ---
 
@@ -155,7 +155,7 @@ Table
 
 This glitch can be used to much more actively control your position underwater than other underwater tricks. This glitch was previously able to be performed in the same way as with wind walls. However, it can be done much easier (and now faster) with the help of a friend. Careful in oil (water that depletes your light) though, it doesn’t stop hurting under the surface!
 
-![](../../assets/videos/Pushing Through Water.mov)
+[Video](https://drive.google.com/file/d/19DrhirYd3sX34ooKeLWlQe3DJ29aLuJ6){: .btn .btn-blue }
 
 1. Initiate an [Advanced Uber](#drive--advanced-table-uber).
 1. Drag your table as far as you can underwater.
@@ -163,4 +163,4 @@ This glitch can be used to much more actively control your position underwater t
 1. Since it only moves you a little bit, repeat step 3 until you’re in whatever location you’d like! Careful not to tap any of the “hold hand” or “sit” buttons on-screen (your friend shouldn’t either).
 
 {: .highlight }
-> More friends can go for the ride by holding your hand before initiating the Advanced Uber or by sitting at the table like a normal Uber. The former is preferable because there are fewer buttons that can make the trick fail crowding up the screen. If that somehow doesn’t bother you, go ahead and take a whole server down.
+> More friends can go for the ride by holding your hand before initiating the [Advanced Uber](#drive--advanced-table-uber) or by sitting at the table like a normal [Uber](./clipping/#table-uber--multi-player-table-clip). The former is preferable because there are fewer buttons that can make the trick fail crowding up the screen. If that somehow doesn’t bother you, go ahead and take a whole server down.
