@@ -15,7 +15,7 @@ permalink: /
 This documentation highlights many of the tricks and glitches that exist to enhance your gameplay experience in Sky: Children of the Light. For extra help, visit the SkyOOB Discord server. We’d love to help you out!
 {: .fs-6 .fw-300 }
 
-[Get Started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Join the SkyOOB Discord](https://discord.gg/h6JtXQv62y){: .btn .btn-green .fs-5 .mb-4 .mb-md-0 }
+[Get Started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Join the SkyOOB Discord](https://discord.gg/h6JtXQv62y){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
 
 {: .note }
 > Beta content is not included, but it doesn't mean we aren't interested! Come share your findings with us and we'll document it if the behavior makes it to Live!
@@ -31,7 +31,7 @@ The Sky OOB Guide is based on testing done by the amazing members of these Sky c
 
 That means information here may differ from other sources, like the unofficial [Sky: Children of the Light Wiki](https://sky-children-of-the-light.fandom.com/wiki/The_Out_of_Bounds_(OOB)). The Sky OOB Guide will often feature a more up-to-date explanation with notes on making tricks and glitches more reliable.
 
-After reading the [Terms and Methods](./skyoobguide/docs/terms-and-methods) page and the [Crediting](#crediting) section below, feel free to explore the documentation to find some tricks you're interested in!
+After reading the [Terms and Methods](./docs/terms-and-methods) page and the [Crediting](#crediting) section below, feel free to explore the documentation to find some tricks you're interested in!
 
 ---
 
@@ -39,7 +39,7 @@ After reading the [Terms and Methods](./skyoobguide/docs/terms-and-methods) page
 
 Our communities believe in recognizing individuals for their contributions to our knowledgebase. If we have a definitive individual who is responsible for either the discovery or fine-tuning of a trick or glitch, their name will be listed alongside their work.
 
-{: .highlight }
+{: .important }
 > If you would like to show off a trick you've learned here, kindly include the proper credit that we have provided for you.
 
 *If you would like to challenge one of the listed credits with reasonable proof, please contact us on Discord so we can give credit to those who deserve it.*

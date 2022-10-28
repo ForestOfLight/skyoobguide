@@ -37,13 +37,20 @@ Any solid object that your player can collide with has what's called a *collisio
 
 ## Reset Walls and Loading Zones
 
-When you go through a reset wall, your skykid gets sent to a predefined place within the same level. When you go through a loading zone, your skykid gets sent to a different level entirely. The game deals with each of these a little differently, it's not important how but it may affect the outcome of certain glitches.
+<dl>
+  <dt>Reset Wall</dt>
+  <dd>Your sky kid is teleported to a place within the same level.</dd>
+  <dt>Loading Zone</dt>
+  <dd>Your sky kid is teleported to a new level entirely.</dd>
+</dl>
+
+The game deals with each of these a little differently, it's not important how for the moment, but it may affect the outcome of certain glitches.
 
 ---
 
 ## Glide/Flight Mode
 
-The default mode when you’re in the air (the one that has the joystick) will be referred to as glide mode. The longer, more controlled mode without the joystick will be referred to as flight mode.
+The default mode when you just take off (the button is in the *upright* position) will be referred to as glide mode. The longer, more controlled mode (the button is in the *downward* position) will be referred to as flight mode.
 
 ---
 
@@ -80,14 +87,14 @@ In the settings menu ingame, there’s a battery icon. This sets not only your g
 
 {: .highlight }
 > Watch the FPS counter in the top right of the screen:
-> ![](../../assets/videos/fps.mov)
+> <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/9x7k08?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ---
 
 ## Freezing
 
 {: .warning }
-> This section is slightly outdated. Freezing works the same, but has different effects. We'll update it as soon as we can!
+> This section is outdated. Freezing works the same, but has different effects. We'll update it as soon as we can!
 
 Lightly disconnects a player from the game so that your position does not change (or changes more slowly) for the duration of the freeze.
 iOS and Android: Go into multitasking or lock your device.

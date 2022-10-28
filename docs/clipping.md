@@ -27,9 +27,9 @@ Sneaky Stance
 
 A chibi clip can be performed on just about any slope to let you go underground by pushing your Sky Kid’s foot under the floor and then having the rest of your body follow it. This is done by using the sneaky stance and legging a foot towards an incline.
 
-1. Hold down on your Sky Kid’s feet and pull a leg towards an upwards slope.
+1. Hold down on your sky kid’s feet and pull a leg towards an upwards slope.
 1. Hold your foot there and place a finger on the joystick.
-1. Release your feet and immediately make a small step forward with the joystick (You already had your finger on it).
+2. Release your feet and immediately make a small step forward with the joystick.
 
 ![](../../assets/images/chibiclip.jpg)
 ##### Art by meimei#4660
@@ -118,7 +118,7 @@ Friend
 Table
 {: .label .label-green }
 
-This clip is a ton of fun to play around with. Essentially, it lets you move around other players wherever you can move your table. It’s easiest to get the side chairs out of bounds rather than the middle ones, so it’s best to have your friends there. It’s preferable to have warp with your friend since this will not make you clip (or use the Advanced Uber Clip).
+This clip is a ton of fun to play around with. Essentially, it lets you move around other players wherever you can move your table. It’s easiest to get the side chairs out of bounds rather than the middle ones, so it’s best to have your friends there. It’s preferable to have warp with your friend since this will not make you clip (or use an [Advanced Uber](../advanced/#drive--advanced-table-uber)).
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/ne7v5a?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
