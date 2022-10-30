@@ -69,7 +69,7 @@ Friend
 Table
 {: .label .label-green }
 
-This more complicated version of the Uber glitch can bring you as well as up to four other players on a ride. What this glitch actually does is the same as the [Uber Clip](../docs/clipping.md/W#), but you are holding the hand of one of your friends so you go with them.
+This more complicated version of the Uber glitch can bring you as well as up to four other players on a ride. What this glitch actually does is the same as the [uber clip](../clipping/#table-uber--multi-player-table-clip), but you are holding the hand of one of your friends so you go with them.
 
 <iframe src="https://www.redditmedia.com/user/hondo7059/comments/ip60qc/table_surf/?ref_source=embed&amp;ref=share&amp;embed=true" style="border: none;" height="415" width="640" scrolling="no"></iframe>
 
@@ -96,21 +96,21 @@ Table
 
 > Credit: Cheng/Euemj(程程)
 
-This glitch creates the same effect as the [Driving](#drive--advanced-table-uber) trick, but it moves much, much quicker. It can be quite hard to control, but it can even slice through wind walls! Other players don't see this glitch in action, but they can teleport to you once it's over.
+This glitch creates the same effect as the [driving](#drive--advanced-table-uber) trick, but it moves much, much quicker. It can be quite hard to control, but it can even slice through wind walls! Other players don't see this glitch in action, but they can teleport to you once it's over.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/8ysac1?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Place your table.
 1. Have a friend sit at the table.
-1. Have your friend [hard freeze](../../terms-and-methods/#freezing).
+1. Have your friend [hard freeze](../terms-and-methods/#freezing).
 1. Grab the hand of your friend by tapping the “follow” button and then the “hold hands” button.
 1. Drag your table out and zoooom.
 1. When you're finished, place the table down and let go of your friends hand.
-1. Your friend can stop [freezing](../../terms-and-methods/#freezing) and warp to you.
+1. Your friend can stop [freezing](../terms-and-methods/#freezing) and warp to you.
 
 {: .note }
-> Due to how placeable props work, your table will first teleport you to the [origin](../../terms-and-methods/#the-origin) before you have much means of control. If any [reset walls](../../terms-and-methods/#reset-walls-and-loading-zones) are between you and the [origin](../../terms-and-methods/#the-origin) you will be reset to where you started the Supersonic Drive.
-> In addition, going through a [loading zone](../../terms-and-methods/#reset-walls-and-loading-zones) will cause Sky to softlock. If this happens, just restart the game.
+> Due to how placeable props work, your table will first teleport you to the [origin](../terms-and-methods/#the-origin) before you have much means of control. If any [reset walls](../terms-and-methods/#reset-walls-and-loading-zones) are between you and the [origin](../terms-and-methods/#the-origin) you will be reset to where you started the Supersonic Drive.
+> In addition, going through a [loading zone](../terms-and-methods/#reset-walls-and-loading-zones) will cause Sky to softlock. If this happens, just restart the game.
 
 ---
 
@@ -143,10 +143,10 @@ This glitch can be used to much more actively control your position underwater t
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/kvbpp0?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
-1. Initiate an [Advanced Uber](#drive--advanced-table-uber).
+1. Initiate an [advanced uber](#drive--advanced-table-uber).
 1. Drag your table as far as you can underwater.
 1. Use the [midair table placement](../movement/single-player/#midair-prop-placement) mechanic to place the table where you’d like to go by facing your camera in the desired direction. Be cautious not to have any placeable surfaces in the direction you’re facing.
 1. Since it only moves you a little bit, repeat step 3 until you’re in whatever location you’d like! Careful not to tap any of the “hold hand” or “sit” buttons on-screen (your friend shouldn’t either).
 
 {: .highlight }
-> More friends can go for the ride by holding your hand before initiating the [Advanced Uber](#drive--advanced-table-uber) or by sitting at the table like a normal [Uber](../clipping/#table-uber--multi-player-table-clip). The former is preferable because there are fewer buttons that can make the trick fail crowding up the screen. If that somehow doesn’t bother you, go ahead and take a whole server down.
+> More friends can go for the ride by holding your hand before initiating the [advanced uber](#drive--advanced-table-uber) or by sitting at the table like a normal [uber](../clipping/#table-uber--multi-player-table-clip). The former is preferable because there are fewer buttons that can make the trick fail crowding up the screen. If that somehow doesn’t bother you, go ahead and take a whole server down.

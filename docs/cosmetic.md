@@ -43,7 +43,7 @@ Sustained Emote
 {: .new }
 > Changes have been made to this entry for the 0.19.1 patch!
 
-When being pulled by a friend, spamming any [sustained emote](../../terms-and-methods/#sustained-emotes) when they take off from the ground will leave you behind. However, your camera won't quite get the memo and just float out to the midpoint between you and your friend. There are a couple of things that control your camera in this state:
+When being pulled by a friend, spamming any [sustained emote](../terms-and-methods/#sustained-emotes) when they take off from the ground will leave you behind. However, your camera won't quite get the memo and just float out to the midpoint between you and your friend. There are a couple of things that control your camera in this state:
 
 <dl>
     <dt>Flight mode</dt>
@@ -57,7 +57,7 @@ When you're finished, just do any non-sustained emote to return to your friend.
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/ebygwe?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 {: .note }
-You and your friend may get [server split](../../terms-and-methods/#servers) due to large distances between the players.
+You and your friend may get [server split](../terms-and-methods/#servers) due to large distances between the players.
 
 ---
 

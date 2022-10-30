@@ -59,7 +59,7 @@ Ever want to just stop, midair, with nothing around? This trick lets you levitat
 Friend
 {: .label .label-green }
 
-Follow stalling is a way to come to a stop midair (and charge your wings a tiny bit) without the use of piggyback or a table. It's less useful than other tricks that do similar things, but it could save you in a pinch or in a location where props and friend emotes are inaccessible. Both players simply follow one another and you'll end up stationary in the air. If you have trouble with spiraling downward, try approaching your friend from below. This trick works even more nicely if one player has a good [permanent freeze](../terms-and-methods/#freezing).
+Follow stalling is a way to come to a stop midair (and charge your wings a tiny bit) without the use of piggyback or a table. It's less useful than other tricks that do similar things, but it could save you in a pinch or in a location where props and friend emotes are inaccessible. Both players simply follow one another and you'll end up stationary in the air. If you have trouble with spiraling downward, try approaching your friend from below. This trick works even more nicely if one player has a good [permanent freeze](../../terms-and-methods/#freezing).
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:62.500%;"><iframe src="https://streamable.com/e/976l0v?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
@@ -74,7 +74,7 @@ Hammock
 
 > Credit: Saint for discovery, ForestOfLight for optimization
 
-This is a revival of the patched [Poof Warp](./patched/../../patched/pre-0.14.5/#poof-warp--disconnect-warp) behavior. This trick will take you to a spot under the map (with coordinates 0, 0, 0) called the "shadow spot" or "zero point." Here’s how to do it:
+This is a revival of the patched [poof warp](../../patched/pre-0.14.5/#poof-warp--disconnect-warp) behavior. This trick will take you to a spot under the map (with coordinates 0, 0, 0) called the "shadow spot" or "zero point." Here’s how to do it:
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/9ybibb?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 

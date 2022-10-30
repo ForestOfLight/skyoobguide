@@ -68,7 +68,7 @@ Piggyback
 
 > Credit: Astria Esper (original glitch), Joje (version 2)
 
-After much patching by tgc, [spasm](../patched/0.15.0-0.19.0/#spasm--follow-clip) still exists. This clip can push you through horizontal [collision boxes](../terms-and-methods/#collision-boxes) above you (ie. ceilings) or vertical [collision boxes](../terms-and-methods/#collision-boxes) (ie. walls). The clip is best used on a flat ceiling but can work on heavily sloped ones as well. When clipping through a wall, make sure the wall is either vertical ( \| ) or getting steeper ( \ ), not shallower ( / ). Using a ceiling corner is most ideal. Here are two ways to get the "follow" button to show up while a friend is on your back:
+After much patching by tgc, [spasm](../patched/0.15.0-0.19.1/#spasm--follow-clip) still exists. This clip can push you through horizontal [collision boxes](../terms-and-methods/#collision-boxes) above you (ie. ceilings) or vertical [collision boxes](../terms-and-methods/#collision-boxes) (ie. walls). The clip is best used on a flat ceiling but can work on heavily sloped ones as well. When clipping through a wall, make sure the wall is either vertical ( \| ) or getting steeper ( \ ), not shallower ( / ). Using a ceiling corner is most ideal. Here are two ways to get the "follow" button to show up while a friend is on your back:
 
 {: .highlight }
 > This section is a work in progress. Check back later for a complete description!
@@ -116,6 +116,7 @@ This clip is useful for getting through vertical [collision boxes](../terms-and-
 ---
 
 ## Table Uber / Multi-Player Table Clip
+
 Friend
 {: .label .label-green }
 Table
