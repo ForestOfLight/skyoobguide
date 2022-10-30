@@ -26,28 +26,6 @@ What *really* is out of bounds anyway? Is it somewhere you *have* to use glitche
 
 ---
 
-## Collision Boxes
-
-Any solid object that your player can collide with has what's called a *collision box*. In physics-based simulations (like in videogames where objects touch), when two objects intersect one another they repel or "snap to" each other so they don't pass through one another. This is what occurs when your player touches the floor, a wall, a pot, or another player. The "walls" of collision boxes are extremely thin and (in Sky) one-sided (ie. the inside of a collision box does not keep objects inside).
-
-{: .note }
-> Objects that repel you slowly like wind walls or clouds do not have the same type of thin-walled-instantly-repellant collision boxes. These objects repel you slowly once you are inside the bounds of their collision box, meaning you can't escape their push by going further inside them.
-
----
-
-## Reset Walls and Loading Zones
-
-<dl>
-  <dt>Reset Wall</dt>
-  <dd>Your sky kid is teleported to a place within the same level.</dd>
-  <dt>Loading Zone</dt>
-  <dd>Your sky kid is teleported to a new level entirely.</dd>
-</dl>
-
-The game deals with each of these a little differently, it's not important how for the moment, but it may affect the outcome of certain glitches.
-
----
-
 ## Glide/Flight Mode
 
 The default mode when you just take off (the button is in the *upright* position) will be referred to as glide mode. The longer, more controlled mode (the button is in the *downward* position) will be referred to as flight mode.
@@ -91,11 +69,74 @@ In the settings menu ingame, there’s a battery icon. This sets not only your g
 
 ---
 
+## Collision Boxes
+
+Any solid object that your player can collide with has what's called a *collision box*. In physics-based simulations (like in videogames where objects touch), when two objects intersect one another they repel or "snap to" each other so they don't pass through one another. This is what occurs when your player touches the floor, a wall, a pot, or another player. The "walls" of collision boxes are extremely thin and (in Sky) one-sided (ie. the inside of a collision box does not keep objects inside).
+
+{: .note }
+> Objects that repel you slowly like wind walls or clouds do not have the same type of thin-walled-instantly-repellant collision boxes. These objects repel you slowly once you are inside the bounds of their collision box, meaning you can't escape their push by going further inside them.
+
+---
+
+## Reset Walls and Loading Zones
+
+<dl>
+  <dt>Reset Wall</dt>
+  <dd>Your sky kid is teleported to a place within the same level.</dd>
+  <dt>Loading Zone</dt>
+  <dd>Your sky kid is teleported to a new level entirely.</dd>
+</dl>
+
+The game deals with each of these a little differently, it's not important how for the moment, but it may affect the outcome of certain glitches.
+
+---
+
 ## Freezing
 
-{: .warning }
-> This section is outdated. Freezing works the same, but has different effects. We'll update it as soon as we can!
+Lightly disconnects a player from the game so that their position does not change (or changes more slowly) for the duration of the freeze.
 
-Lightly disconnects a player from the game so that your position does not change (or changes more slowly) for the duration of the freeze.
-iOS and Android: Go into multitasking or lock your device.
-Switch: Press the HOME button.
+<dl>
+  <dt>iOS / Android</dt>
+  <dd>Go into multitasking or lock your device.</dd>
+  <dt>Switch</dt>
+  <dd>Press the HOME button.</dd>
+  <dt>Mac</dt>
+  <dd>Focus on any tab other than Sky.</dd>
+</dl>
+
+There are different types of freezes depending on how your device handles apps that aren't actively in use. The most useful is a *hard* freeze. During a hard freeze, your client does not update your position whatsoever. Less useful--but still interesting--is a *soft* freeze, where your client updates your position very slowly instead of a normal rate.
+
+Ways to *hard* freeze:
+- App losing focus on Mac
+- Going to the Switch HOME screen
+- Going to the iOS home screen (impermanent)
+- Locking your iOS or Android device (impermanent)
+
+Ways to *soft* freeze:
+- Going to the Android multitasking view
+- (Going to the iOS multitasking view)
+
+{: .important }
+> There are differences in which type of freeze you will get on different types of Android devices. Contact Forest with your device model and freeze type if it contradicts the Guide.
+
+---
+
+## The Origin
+
+The center of a map is technically important in Sky. The *origin* is wherever the coordinates of the current map hit (0, 0, 0). Several things happen at the origin. Most notably, it's the place where objects that don't otherwise have a defined position rest. These could be:
+
+1. Players that have recently disconnected or gone through a [loading zone](#reset-walls-and-loading-zones).
+2. Tables that have not been placed yet, or (in patch 0.19.1) are just starting to be placed.
+
+Glitches that manipulate the coordinates of your player, like [table flings](../../patched/pre-0.14.5/#table-fling--table-yeet), also must be done with respect to where the origin is.
+
+---
+
+## Servers
+
+A "server" in Sky consists of eight players or less in one level. These servers are kept optimized for players by a process called *server merging*, in which players are disconnected from or connected to a server with other players. Servers don't only store players but also temporary level data like which candles have been lit and which doors are open. When merging, lit candles and open doors override unlit candles and closed doors. When a server has zero players in it, it's level data is reset so new players can come along and interact with it.
+
+Server merges are some of the most powerful but elusive features in Sky and people have been attempting to trigger server merges on purpose since the beginning. **The only factors that allow server merges is a player's distance from other players and the time since the last merge for that player.** Methods like deep-calling or placing tables have no effect.
+
+{: .highlight }
+> Due to it being technically simpler to merge one player into a server than multiple, travelling by yourself will make you experience more server merges than if you travel with a friend.

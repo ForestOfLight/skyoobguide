@@ -54,18 +54,14 @@ Ever want to just stop, midair, with nothing around? This trick lets you levitat
 
 ---
 
-## Infinite Flight Regeneration / Air Regen
+## Follow Stall
 
 Friend
 {: .label .label-green }
-Piggyback
-{: .label .label-green }
 
-> Credit: Astria Esper
+Follow stalling is a way to come to a stop midair (and charge your wings a tiny bit) without the use of piggyback or a table. It's less useful than other tricks that do similar things, but it could save you in a pinch or in a location where props and friend emotes are inaccessible. Both players simply follow one another and you'll end up stationary in the air. If you have trouble with spiraling downward, try approaching your friend from below. This trick works even more nicely if one player has a good [permanent freeze](../terms-and-methods/#freezing).
 
-Have your friend jump on your back and then start flying and tap the follow button on them. The effect of doing so will suspend you in midair around your friend. The best part? Your flight power still increases.
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/56hnwb?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="width:100%;height:0px;position:relative;padding-bottom:62.500%;"><iframe src="https://streamable.com/e/976l0v?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ---
 
@@ -87,40 +83,4 @@ This is a revival of the patched [Poof Warp](./patched/../../patched/pre-0.14.5/
 3. Drag out the hammock again. When they are teleported, grab their hand.
 4. Release the hammock.
 
-{: .highlight }
-> [Bonus Method!](https://streamable.com/z7n8kd){: .btn .btn-blue }
-
----
-
-## Rubberbanding / Drone
-
-Friend
-{: .label .label-green }
-Sustained Emote
-{: .label .label-green }
-
-> Credit: ForestOfLight
-
-When being pulled by a friend, spamming any sustained emote will leave you behind. (Your friend won’t see this.) When you stop, you’ll be pulled right back to your friend as long as they haven’t left the area. When you are in a rubberbanded state, your camera will go to the midpoint between your actual location and your friend’s location (it also adjusts to Sky’s pre-defined camera locations), meaning you can get some great cinematic shots! The further you are from your friend when you stop spamming a sustained emote, the longer it will take before you return to them.
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/2rj9zf?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-{: .note }
-You are not physically pulled with your friend so you do not collect light and other things that your friend runs by.
-
----
-
-## Loading Zone Hop
-
-Friend
-{: .label .label-green }
-Sustained Emote
-{: .label .label-green }
-
-> Credit: ForestOfLight
-
-[Loading zones](../terms-and-methods/#reset-walls-and-loading-zones) can be annoying when trying to go OOB. With this method, you can hop right past loading zones that are relatively thin. To perform it, start [Rubberbanding](#rubberbanding) until your friend pauses for a second after moving into a loading zone. It won’t work with any loading zone deeper than your friend can go after fading out to a white screen, however. It’s better to be late than early when performing this trick.
-
-Being late will make your friend disappear without you ever teleporting to them, being early (or if the loading zone is too thick) will teleport you through the loading zone with your friend. In addition, it’s helpful to get relatively close to the loading zone before you start [Rubberbanding](#rubberbanding) to reduce the wait time between when you stop emoting and when you teleport to your friend.
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/yicb9l?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+[Bonus Method!](https://streamable.com/z7n8kd){: .btn .btn-blue }

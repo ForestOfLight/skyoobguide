@@ -48,28 +48,30 @@ When two players attempt to give each other a piggyback at the same time, both p
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/1crq8h?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
-{: .note }
-> Clouds and other winds are not [collision boxes](../terms-and-methods/#collision-boxes) and can sometimes stand in your way!
+{: .new }
+> As of the 0.19.1 patch, rockets now go through wind walls!
 
 {: .highlight }
 > For most players, this is enough. If you'd like to learn more about fine tuning your rockets, head to the [advanced](#rocket-advanced) section.
 
 ---
 
-## Spiral v2
+{: .new }
+> This trick has been added for the 0.19.1 patch!
+
+## Spasm v2
 
 Friend
 {: .label .label-green }
 Piggyback
 {: .label .label-green }
 
-Spiraling is similar to [rocketing](#rocket--piggy), but it’s slower and more maneuverable. It’s performed in the same way as a Rocket, but one player offers to hold hands while the other asks for a piggyback. Both players will go through collision boxes. Simply let go of the other player to stop the launch.
+> Credit: Astria Esper (original glitch), Joje (version 2)
 
-{: .note }
-> Clouds and other winds are not [collision boxes](../terms-and-methods/#collision-boxes) and can sometimes stand in your way!
+After much patching by tgc, [spasm](../patched/0.15.0-0.19.0/#spasm--follow-clip) still exists. This clip can push you through horizontal [collision boxes](../terms-and-methods/#collision-boxes) above you (ie. ceilings) or vertical [collision boxes](../terms-and-methods/#collision-boxes) (ie. walls). The clip is best used on a flat ceiling but can work on heavily sloped ones as well. When clipping through a wall, make sure the wall is either vertical ( \| ) or getting steeper ( \ ), not shallower ( / ). Using a ceiling corner is most ideal. Here are two ways to get the "follow" button to show up while a friend is on your back:
 
 {: .highlight }
-> For most players, this is enough. If you'd like to learn more about fine tuning your spirals, head to the [advanced](#spiral-advanced) section.
+> This section is a work in progress. Check back later for a complete description!
 
 ---
 
@@ -82,13 +84,14 @@ Piggyback
 Play Dead / Crab Walk (lvl 3) Emote
 {: .label .label-green }
 
-This clip can push you through horizontal [collision boxes](../terms-and-methods/#collision-boxes) below you (like the ground!). It is best used on flat ground but can work on slopes. It’s preferable that you have warp unlocked with your friend as well since this only lets one player clip.
+This clip can push you through horizontal [collision boxes](../terms-and-methods/#collision-boxes) below you (like the ground!). It is best used on sopes but can work on flat ground. It’s preferable that you have warp unlocked with your friend as well since this only lets one player clip.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/au276o?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Jump on a friend’s back with piggyback.
-2. Have your friend use the play dead or crab walk (lvl 3) emote.
-3. Get off your friend’s back, and you should fall through the floor. Your friend can then warp to you.
+1. Have your friend use the play dead or crab walk (lvl 3) emote.
+   1. Your friend should try to make their collision box go under the map (ie. fall uphill) when they use their emote.
+1. Get off your friend’s back, and you should fall through the floor. Your friend can then warp to you.
 
 ---
 

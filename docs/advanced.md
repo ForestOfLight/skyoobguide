@@ -69,7 +69,7 @@ Friend
 Table
 {: .label .label-green }
 
-This more complicated version of the Uber glitch can bring you as well as up to four other players on a ride. What this glitch actually does is the same as the Uber Clip, but you are holding the hand of one of your friends so you go with them.
+This more complicated version of the Uber glitch can bring you as well as up to four other players on a ride. What this glitch actually does is the same as the [Uber Clip](../docs/clipping.md/W#), but you are holding the hand of one of your friends so you go with them.
 
 <iframe src="https://www.redditmedia.com/user/hondo7059/comments/ip60qc/table_surf/?ref_source=embed&amp;ref=share&amp;embed=true" style="border: none;" height="415" width="640" scrolling="no"></iframe>
 
@@ -87,7 +87,7 @@ This more complicated version of the Uber glitch can bring you as well as up to 
 
 ---
 
-## Supersonic / Supersonic Drive
+## Sonic / Supersonic Drive
 
 Friend
 {: .label .label-green }
@@ -96,38 +96,21 @@ Table
 
 > Credit: Cheng/Euemj(程程)
 
-This glitch creates the same effect as the [Driving](#drive--advanced-table-uber) glitch, but it moves much quicker.
+This glitch creates the same effect as the [Driving](#drive--advanced-table-uber) trick, but it moves much, much quicker. It can be quite hard to control, but it can even slice through wind walls! Other players don't see this glitch in action, but they can teleport to you once it's over.
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/pd830j?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/8ysac1?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Place your table.
 1. Have a friend sit at the table.
-1. Have your friend [freeze](./terms-and-methods/#freezing).
+1. Have your friend [hard freeze](../../terms-and-methods/#freezing).
 1. Grab the hand of your friend by tapping the “follow” button and then the “hold hands” button.
 1. Drag your table out and zoooom.
+1. When you're finished, place the table down and let go of your friends hand.
+1. Your friend can stop [freezing](../../terms-and-methods/#freezing) and warp to you.
 
----
-
-## Offset Rocket
-
-Friend
-{: .label .label-green }
-Piggyback
-{: .label .label-green }
-Table
-{: .label .label-green }
-
-> Credit: Tuna
-
-Sideways [rockets](./clipping/#rocket--piggy), as you can imagine, can be rather useful for OOBing. Their effect is to shoot you out in a desired direction and then up. They’re used to start a rocket not where you are, but a little ways away. This trick is not used all that often, but it has its moments in the sun.
-
-1. Place your table on any vertical surface.
-2. Both players sit at the sideways table.
-3. Stay on the table, but both players prepare for a [rocket](./clipping/#rocket--piggy) by asking to piggyback. Be careful not to start following your friend by accident.
-4. Tap the piggy button at the same time.
-
-{: .highlight }
-> Looking to do this on flat ground? Place one table flat and then another on the side of that table! You can even use a spell for one of the tables.
+{: .note }
+> Due to how placeable props work, your table will first teleport you to the [origin](../../terms-and-methods/#the-origin) before you have much means of control. If any [reset walls](../../terms-and-methods/#reset-walls-and-loading-zones) are between you and the [origin](../../terms-and-methods/#the-origin) you will be reset to where you started the Supersonic Drive.
+> In addition, going through a [loading zone](../../terms-and-methods/#reset-walls-and-loading-zones) will cause Sky to softlock. If this happens, just restart the game.
 
 ---
 
