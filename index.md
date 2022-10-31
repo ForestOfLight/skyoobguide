@@ -6,9 +6,6 @@ description: "The Sky OOB Guide is a documentation of tricks and glitches in Sky
 permalink: /
 ---
 
-{: .warning }
-> The Sky OOB Guide has not been updated since September 4th, 2021.
-
 # An out-of-bounds documentation of Sky.
 {: .fs-9 }
 
