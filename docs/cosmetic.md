@@ -61,50 +61,57 @@ You and your friend may get [server split](../terms-and-methods/#servers) due to
 
 ---
 
-## Candle Hold Smuggling
+## Hold Smuggling
 
-Prop
+Various Props
+{: .label .label-green }
+Various Emotes
 {: .label .label-green }
 
-If you have a prop active, you can tap your prop and candle at the same time to take out both at once. Because you need the emote menu open, this doesn’t work with props that bring up their own UI, like instruments. This trick is best used with an Umbrella. No more getting wet while burning those darkness plants!
+This glitch lets you hold props in your hand during animations that normally don't allow you to. Some of these are silly, and a few are actually useful. First, let's cover the main procedure:
+
+1. Hold a prop in your hands.
+1. Press the prop icon and the emote icon (must be in "recently used" section) at the same time.
+
+{: .note }
+> Sky's menu buttons activate when you *release* them, pressing two buttons at the same time really means they should be *released* together. This is very useful when trying to use lvl. 2+ emotes! Also, changing your [graphics](../terms-and-methods/#graphics-and-fps) to 20 fps may make this easier.
+
+Simple, right? The first useful usage of this glitch is holding an umbrella at the same time as your candle. Not that rain is very dangerous to most players, but a solo [capeless](#capeless) user might find it handy!
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/y03ors?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
----
+Now let's get on to the funny animations with emotes. Many emotes just put the prop at the center of your player (like blow kiss), but several animations when used with a held prop make the prop do interesting things. In addition, this glitch will let you walk around while doing the emote with the top half of your player until the emote finishes. I recommend the various umbrellas or the lantern in spotlight mode in terms of holdable props.
 
-## Prop Popper / Prop Hold Smuggling
-
-Prop
-{: .label .label-green }
-Confetti Emote
-{: .label .label-green }
-
-Shoot your props into the air! Similar to [Candle Hold Smuggling](#candle-hold-smuggling), you just tap your prop and the confetti emote at the same time to send your prop flying! Because you need the emote menu open, this doesn’t work with props that bring up their own UI, like instruments. However, if you’re holding the hand of a friend and have any prop active, they can do the confetti emote for you.
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/9ti1ck?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
----
-
-## Lighthouse / Spotlight Hold Smuggling
-
-Lantern
-{: .label .label-green }
-Spin Trick Emote
-{: .label .label-green }
-
-This little trick is a fun combination of the other hold smuggling tricks that turns you into a rapidly spinning lighthouse! Careful not to blind anyone in the vicinity! It’s a little hard not to.
+| Emote         | Sustained? | Prop at 90&#8451? | Extra Description                                            |
+|:--------------|:-----------|------------------|---------------------------------------------------------------|
+| Sit           | N/A        |                  | Prop goes to a cute spot when sitting fully on the ground!    |
+| Apologize     | X          | X                | Walk around all scared-looking!                               |
+| Kabuki        |            | X                | Looks like a shield!                                          |
+| Apologize     | X          | X                | Walk around all scared-looking!                               |
+| Handstand     | X          |                  | Fun and flippy when walking around.                           |
+| Backflip      |            |                  | Prop flips with you!                                          |
+| Leap (lvl 3+) |            | X                | Flips a lot!                                                  |
+| Triple Axel   |            | X                | Spins a lot!                                                  |
+| Confetti      |            |                  | Upside-down prop shoots out with confetti!                    |
+| Crab Walk     | X          |                  | Walk around slowly at 45&#8451 for levitating baby look. xD   |
+| Spin Trick    | X          |                  | Spins super fast.                                             |
+| Duck          | X          |                  | Walk around all scared-looking!                               |
+| Faint         | X          |                  | Walk around slowly at 45&#8451 with your cape to the side.    |
+| Salute        | X          |                  | Saluting march!                                               |
+| Float         | X          |                  | ... Because of course.                                        |
+| Yoga          |            | X                | That's some flexible positioning!                             |
+| Balance       | X          |                  | Walk slowly at 90&#8451 to swim through the air!              |
+| Evil Laugh    |            |                  | Prop sits on the ground in the fire.                          |
+| Twirl (lvl 3+)| X          |                  | Accentuates your spins!                                       |
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/pynv57?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
-1. Take out the Lantern and switch it to “Spotlight mode.”
-2. Initiate the Spin Trick emote and Lantern again at the same time.
-
 {: .highlight }
-> The easiest way to press two buttons in a UI at the same time is to hold down on both of them and release them at the same time.
+> A candle can be hold smuggled while already hold smuggling a prop using a [sustained emote](../terms-and-methods/#sustained-emotes)
 
 ---
 
-## Holding Props / Using the Force
+## Using the Force / Holding Props
 
 Prop
 {: .label .label-green }
@@ -113,13 +120,16 @@ Lantern Spell
 
 > Credit: Jesse
 
-This trick lets you hold a prop out in front of you! Others can see it and you can move it around using various stances (emotes seem to just stick it into your neck. Ouch!). It will stay there until you switch props or go to a new level. This trick can also be done with any umbrella spell.
+This trick lets you hover a prop out in front of you! Others can see it and you can move it around using various stances (though emotes seem to just stick it into your neck. Ouch!). It will stay there until you switch props or go to a new level. This trick can also be done with any umbrella spell.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/q918ln?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Activate a lantern spell.
 2. Cancel the lantern spell.
-3. Just after, tap your prop.
+3. Just after, take out the lantern.
+
+{: .note }
+> The goal for this trick is to be taking out a holdable prop as your prop changes to one you normally can't hold.
 
 ---
 

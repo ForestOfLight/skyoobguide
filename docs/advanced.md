@@ -62,7 +62,7 @@ While not as readily useful as before the 0.14.5 patch, the second generation of
 
 ---
 
-## Drive / Advanced Table Uber 
+## Drive / Advanced Table Uber
 
 Friend
 {: .label .label-green }
@@ -83,7 +83,7 @@ This more complicated version of the Uber glitch can bring you as well as up to 
 {: .note-title }
 > Note for #5
 >
-> The goal is to be in the process of grabbing your friend’s hand while they start their offering animation. This way they are still offering even though you’re already holding their hand.
+> The goal is to be in the process of grabbing your friend’s hand while they start their offering animation. This way they are still offering even though you’re already holding their hand. However, a simpler way may be to just warp to your friend while they're already offering their hand.
 
 ---
 
@@ -111,6 +111,9 @@ This glitch creates the same effect as the [driving](#drive--advanced-table-uber
 {: .note }
 > Due to how placeable props work, your table will first teleport you to the [origin](../terms-and-methods/#the-origin) before you have much means of control. If any [reset walls](../terms-and-methods/#reset-walls-and-loading-zones) are between you and the [origin](../terms-and-methods/#the-origin) you will be reset to where you started the Supersonic Drive.
 > In addition, going through a [loading zone](../terms-and-methods/#reset-walls-and-loading-zones) will cause Sky to softlock. If this happens, just restart the game.
+
+{: .highlight }
+> Try using a boat prop to move across water!
 
 ---
 
