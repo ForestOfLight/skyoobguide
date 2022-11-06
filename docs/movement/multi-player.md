@@ -18,6 +18,64 @@ Multi-player movements are tricks and glitches that can be done with multiple pl
 
 ---
 
+{: .new }
+> This trick has been added for the 0.19.1 patch!
+
+## Directional Rocket
+
+Friend
+{: .label .label-green }
+Piggyback
+{: .label .label-green }
+Firework Staff
+{: .label .label-green }
+
+> Credit: Leo
+
+A [rocket](../../clipping/#rocket--piggy) where you can easily point where you'd like to fly toward is extremely useful for getting places quickly--not to mention that it flies through wind walls just like a normal rocket. In this trick, both players are in charge of their *friend*'s rocket direction, not their own.
+
+1. Both players offer each other piggyback.
+1. Your friend takes out their firework staff to position their player.
+   1. You will rocket in the direction that your friend's head points.
+1. Both player accept piggyback at the same time.
+
+| You | Your Friend |
+|:----|:------------|
+| <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/hmt7pv?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div> | <div style="width:100%;height:0px;position:relative;padding-bottom:62.500%;"><iframe src="https://streamable.com/e/y4xr2a?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div> |
+
+{: .note }
+> If both friends use the staff, both friends can go the same way!
+
+---
+
+## Drive / Advanced Table Uber
+
+Friend
+{: .label .label-green }
+Table
+{: .label .label-green }
+
+{: .warning }
+> As of the 0.19.1 patch, this is not a continuous ride but you can still place the table to move you and your friends.
+
+This more complicated version of the Uber glitch can bring you as well as up to four other players on a ride. What this glitch actually does is the same as the [uber clip](../clipping/#table-uber--multi-player-table-clip), but you are holding the hand of one of your friends so you go with them.
+
+<iframe src="https://www.redditmedia.com/user/hondo7059/comments/ip60qc/table_surf/?ref_source=embed&amp;ref=share&amp;embed=true" style="border: none;" height="415" width="640" scrolling="no"></iframe>
+
+1. Place your table.
+2. Have a friend sit at the table (You don’t need to sit at it).
+3. Tap your friend to make the follow icon appear and tap it to follow them.
+4. Have your friend prepare by opening the friendship menu by tapping on you.
+5. Since you just tapped the follow button, there will be a “hold hands” button above your friend’s head. At the same time, tap this and have your friend offer to hold your hand from your friendship menu. This puts you into a state where both of you just stand there on the chair. (It’s easiest to count to three with beeps, as in the video.)
+6. Move the table and place it down. You and your friend will go where it does!
+
+{: .note-title }
+> Note for #5
+>
+> The goal is to be in the process of grabbing your friend’s hand while they start their offering animation. This way they are still offering even though you’re already holding their hand. However, a simpler way may be to just warp to your friend while they're already offering their hand.
+
+---
+
 ## Ground Warp
 
 Friend
@@ -27,11 +85,14 @@ Placeable Prop
 
 > Credit: sensei
 
-This trick lets you warp onto the ground from any height above. It even ignores wind walls and clouds. Unfortunately, much easier to be tall to perform this glitch. Chibi kids’ legs are simply too short to accomplish the first step easily.
+{: .new }
+> This section has been updated for the 0.19.1 patch!
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/x88ir6?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+This trick lets you warp onto the ground from any height above. It even ignores wind walls and clouds. [Legging](../../terms-and-methods/#legging) is not required for this trick but it makes it easier--especially for chibis and other short players. In most cases, your friend can just accept your friendship emote to warp to you.
 
-1. Get your player to stand on the very edge of the prop so that their center is not over the prop.
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/kc4ubl?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+1. Use [legging](../../terms-and-methods/#legging) to get your player's center off the prop.
 2. Tap on your friend and offer to do any emote with them.
 
 ---

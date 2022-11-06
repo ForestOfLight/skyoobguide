@@ -33,6 +33,33 @@ Have a friend ride you like a certain doggo! It’s quite simple, just piggy wit
 
 ---
 
+{: .new }
+> This trick has been added for the 0.19.1 patch!
+
+## Ghost Effect
+
+Friend
+{: .label .label-green }
+Piggyback
+{: .label .label-green }
+
+> Credit: Anna
+
+Ever wanted make a player invisible? This is a great chance for some fun screenshots. During this trick, your friend will be invisible to you but you won't be to them.
+
+1. Have your friend jump on your back.
+1. Block them from the friendship menu.
+1. Go home, unblock them and teleport back to them.
+1. Your friend is now invisible to you!
+
+(: .highlight )
+> This works even after going through a [loading zone](../terms-and-methods/#reset-walls-and-loading-zones), so you'll need to restart the game when you want to see your friend again.
+
+---
+
+{: .new }
+> This trick has been updated for the 0.19.1 patch!
+
 ## Drone / Rubberbanding
 
 Friend
@@ -61,6 +88,9 @@ You and your friend may get [server split](../terms-and-methods/#servers) due to
 
 ---
 
+{: .new }
+> This trick has been updated for the 0.19.1 patch!
+
 ## Hold Smuggling
 
 Various Props
@@ -74,15 +104,15 @@ This glitch lets you hold props in your hand during animations that normally don
 1. Press the prop icon and the emote icon (must be in "recently used" section) at the same time.
 
 {: .note }
-> Sky's menu buttons activate when you *release* them, pressing two buttons at the same time really means they should be *released* together. This is very useful when trying to use lvl. 2+ emotes! Also, changing your [graphics](../terms-and-methods/#graphics-and-fps) to 20 fps may make this easier.
+> Sky's menu buttons activate when you *release* them, pressing two buttons at the same time really means they should be *released* together. This is very useful when trying to use lvl. 2+ emotes! Also, changing your [graphics](../terms-and-methods/#graphics-and-fps) to 20 fps may make this trick a bit easier.
 
 Simple, right? The first useful usage of this glitch is holding an umbrella at the same time as your candle. Not that rain is very dangerous to most players, but a solo [capeless](#capeless) user might find it handy!
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/y03ors?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
-Now let's get on to the funny animations with emotes. Many emotes just put the prop at the center of your player (like blow kiss), but several animations when used with a held prop make the prop do interesting things. In addition, this glitch will let you walk around while doing the emote with the top half of your player until the emote finishes. I recommend the various umbrellas or the lantern in spotlight mode in terms of holdable props.
+Now let's get on to the funny animations with emotes. Many emotes just put the prop at the center of your player, but several animations when used with a held prop make the prop do interesting things. In addition, this glitch will let you walk around while doing the emote with the top half of your player until the emote finishes. I recommend the various umbrellas or the lantern in spotlight mode in terms of holdable props.
 
-| Emote         | Sustained? | Prop at 90&#8451? | Extra Description                                            |
+| Emote         | Sustained? | Prop at 90&deg;? | Description                                                   |
 |:--------------|:-----------|------------------|---------------------------------------------------------------|
 | Sit           | N/A        |                  | Prop goes to a cute spot when sitting fully on the ground!    |
 | Apologize     | X          | X                | Walk around all scared-looking!                               |
@@ -93,14 +123,14 @@ Now let's get on to the funny animations with emotes. Many emotes just put the p
 | Leap (lvl 3+) |            | X                | Flips a lot!                                                  |
 | Triple Axel   |            | X                | Spins a lot!                                                  |
 | Confetti      |            |                  | Upside-down prop shoots out with confetti!                    |
-| Crab Walk     | X          |                  | Walk around slowly at 45&#8451 for levitating baby look. xD   |
+| Crab Walk     | X          |                  | Walk around slowly at 45&deg; for levitating baby look. xD    |
 | Spin Trick    | X          |                  | Spins super fast.                                             |
 | Duck          | X          |                  | Walk around all scared-looking!                               |
-| Faint         | X          |                  | Walk around slowly at 45&#8451 with your cape to the side.    |
+| Faint         | X          |                  | Walk around slowly at 45&deg; with your cape to the side.     |
 | Salute        | X          |                  | Saluting march!                                               |
 | Float         | X          |                  | ... Because of course.                                        |
 | Yoga          |            | X                | That's some flexible positioning!                             |
-| Balance       | X          |                  | Walk slowly at 90&#8451 to swim through the air!              |
+| Balance       | X          |                  | Walk slowly at 90&deg; to swim through the air!               |
 | Evil Laugh    |            |                  | Prop sits on the ground in the fire.                          |
 | Twirl (lvl 3+)| X          |                  | Accentuates your spins!                                       |
 

@@ -43,49 +43,8 @@ If you’d like to go underwater, simply start the rocket in the water. Only one
 
 ---
 
-## Advanced Spiraling
-
-Friend
-{: .label .label-green }
-Piggyback
-{: .label .label-green }
-Various Emotes
-{: .label .label-green }
-
-> Credit: ForestOfLight
-
-While not as readily useful as before the 0.14.5 patch, the second generation of spirals brings ease in the sense that you can descend and even stop midair whenever you like. Here are some things you can do:
-
-- If the top person uses various sustained emotes, the spiral will descend on their screen.
-- Changing your graphics settings does not have an effect on your vertical speed, but it does change your rotation speed.
-- Sustained emotes cause lots of strange behavior. Contact Forest with results.
-
----
-
-## Drive / Advanced Table Uber
-
-Friend
-{: .label .label-green }
-Table
-{: .label .label-green }
-
-This more complicated version of the Uber glitch can bring you as well as up to four other players on a ride. What this glitch actually does is the same as the [uber clip](../clipping/#table-uber--multi-player-table-clip), but you are holding the hand of one of your friends so you go with them.
-
-<iframe src="https://www.redditmedia.com/user/hondo7059/comments/ip60qc/table_surf/?ref_source=embed&amp;ref=share&amp;embed=true" style="border: none;" height="415" width="640" scrolling="no"></iframe>
-
-1. Place your table.
-2. Have a friend sit at the table (You don’t need to sit at it).
-3. Tap your friend to make the follow icon appear and tap it to follow them.
-4. Have your friend prepare by opening the friendship menu by tapping on you.
-5. Since you just tapped the follow button, there will be a “hold hands” button above your friend’s head. At the same time, tap this and have your friend offer to hold your hand from your friendship menu. This puts you into a state where both of you just stand there on the chair. (It’s easiest to count to three with beeps, as in the video.)
-6. Move the table and place it down. You and your friend will go where it does!
-
-{: .note-title }
-> Note for #5
->
-> The goal is to be in the process of grabbing your friend’s hand while they start their offering animation. This way they are still offering even though you’re already holding their hand. However, a simpler way may be to just warp to your friend while they're already offering their hand.
-
----
+{: .new }
+> This trick has been updated for the 0.19.1 patch!
 
 ## Sonic / Supersonic Drive
 
@@ -98,22 +57,24 @@ Table
 
 This glitch creates the same effect as the [driving](#drive--advanced-table-uber) trick, but it moves much, much quicker. It can be quite hard to control, but it can even slice through wind walls! Other players don't see this glitch in action, but they can teleport to you once it's over.
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/8ysac1?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/vxr5g1?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Place your table.
 1. Have a friend sit at the table.
+1. Grab your friends hand at the same time as they do any friend emote. (Similar to [Advanced Uber](../movement/multi-player/#drive--advanced-table-uber).)
 1. Have your friend [hard freeze](../terms-and-methods/#freezing).
-1. Grab the hand of your friend by tapping the “follow” button and then the “hold hands” button.
 1. Drag your table out and zoooom.
-1. When you're finished, place the table down and let go of your friends hand.
-1. Your friend can stop [freezing](../terms-and-methods/#freezing) and warp to you.
+1. When you're finished, place the table down. Your friend can stop freezing.
 
 {: .note }
-> Due to how placeable props work, your table will first teleport you to the [origin](../terms-and-methods/#the-origin) before you have much means of control. If any [reset walls](../terms-and-methods/#reset-walls-and-loading-zones) are between you and the [origin](../terms-and-methods/#the-origin) you will be reset to where you started the Supersonic Drive.
-> In addition, going through a [loading zone](../terms-and-methods/#reset-walls-and-loading-zones) will cause Sky to softlock. If this happens, just restart the game.
+> Due to how placeable props work, your table will first teleport you to the [origin](../terms-and-methods/#the-origin) before you have much means of control. If any [reset walls](../terms-and-methods/#reset-walls-and-loading-zones) are between you and the [origin](../terms-and-methods/#the-origin) you will be reset to where you started the Supersonic Drive. You and your friend(s) will likely be split up by the servers as well.
+> In addition, going through a [loading zone](../terms-and-methods/#reset-walls-and-loading-zones) will cause Sky to freeze. If this happens, just restart the game.
 
 {: .highlight }
-> Try using a boat prop to move across water!
+> Some manipulations for this trick:
+> 1. Boat props are a great way to move across water.
+> 1. Being piggybacked with your frozen friend (friend asks for piggyback and freezes before you accept) will make your sonic slower and easier to control. However, to make it more reliable it's easiest to piggyback on another friend and have them hold your frozen friend's hand.
+> 1. Your friend can actually stand on or sit at your table and doesn't need to offer a friend emote, but they won't be taken with your table when they unfreeze.
 
 ---
 

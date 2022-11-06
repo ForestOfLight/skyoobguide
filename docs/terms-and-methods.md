@@ -61,7 +61,7 @@ A prop is any item that you can wear on your back, like an instrument or table. 
 
 ## Graphics and FPS
 
-In the settings menu ingame, there’s a battery icon. This sets not only your graphics quality but also many frames are shown per second (FPS). There are four settings: 0, 1, 2, and 3. 0 runs at 20fps, 1 and 3 run at 30fps, and 2 runs at 60fps. Your fps are important for several reasons. First, you can only tap a button on screen during a frame, so turning down your fps can make the difficult timing of some tricks easier. *Speculation, not supported by code research:* Second, your player's position is calculated for each frame, making some tricks speedier with higher fps.
+In the settings menu ingame, there’s a battery icon. This sets not only your graphics quality but also many frames are shown per second (FPS). For normal devices graphics setting 0 (no lightning bolts) runs at 20fps, 1 and 3 run at 30fps, and 2 runs at 60fps. For older and low-end devices, graphics setting 0 runs at 20 fps, 1 and 2 run at 30fps, and 3 is inaccessible. Your fps are important for several reasons. First, you can only tap a button on screen during a frame, so decreasing your fps can make the difficult timing of some tricks easier. *Speculation, not supported by code research:* Second, your player's position is calculated for each frame, making some tricks speedier when you increasing your fps.
 
 {: .highlight }
 > Watch the FPS counter in the top right of the screen:
