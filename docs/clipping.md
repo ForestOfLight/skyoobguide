@@ -29,7 +29,7 @@ A chibi clip can be performed on just about any slope to let you go underground 
 
 1. Hold down on your sky kid’s feet and pull a leg towards an upwards slope.
 1. Hold your foot there and place a finger on the joystick.
-2. Release your feet and immediately make a small step forward with the joystick.
+1. Release your feet and immediately make a small step forward with the joystick.
 
 ![](../../assets/images/chibiclip.jpg)
 ##### Art by meimei#4660
@@ -109,9 +109,9 @@ This clip is useful for getting through vertical [collision boxes](../terms-and-
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/ukn0vt?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Piggyback on a friend.
-2. Have them line up facing perpendicular to the wall where the play dead emote would make them fall towards the wall (right). 
-3. Make sure they are as close to the wall as possible. Have them use the play dead emote.
-4. You (on their back) will be inside the wall, just hop off! Your friend can then warp to you.
+1. Have them line up facing perpendicular to the wall where the play dead emote would make them fall towards the wall (right). 
+1. Make sure they are as close to the wall as possible. Have them use the play dead emote.
+1. You (on their back) will be inside the wall, just hop off! Your friend can then warp to you.
 
 ---
 
@@ -127,10 +127,10 @@ This clip is a ton of fun to play around with. Essentially, it lets you move aro
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/ne7v5a?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Have your friend place their table or campfire. 
-2. Sit down at it, then tap on a friend, and offer them a hand. 
-3. The friend does not take your hand, it should stay offering. They can then move around their table with you (and anyone else) on it! 
-4. Simply position the table where one of the players would be outside the desired wall and place it down to clip.
-5. Warp to your friend.
+1. Sit down at it, then tap on a friend, and offer them a hand. 
+1. The friend does not take your hand, it should stay offering. They can then move around their table with you (and anyone else) on it! 
+1. Simply position the table where one of the players would be outside the desired wall and place it down to clip.
+1. Warp to your friend.
 
 ---
 
@@ -147,11 +147,24 @@ Clipping through the roof on your own can be simple for a veteran! Since the cam
 <div style="width:100%;height:0px;position:relative;padding-bottom:55.625%;"><iframe src="https://streamable.com/e/ngvjah?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Place your campfire on the ceiling.
-2. Sit in one of the seats.
-3. Jump out with a flick of the joystick or fly upward, whichever works.
+1. Sit in one of the seats.
+1. Jump out with a flick of the joystick or fly upward, whichever works.
 
 {: .highlight }
 > If you don’t have enough wedges to reach your fire,  you can always pair this glitch with the Checkpoint glitch for a wedge-free way of sitting at your table.
+
+---
+
+## Memory Candle Clip
+
+When you discard a recorded memory, your player gets offset a little from where you started it. This can take us right through walls! However, there's been a patch implemented that moves you away from any walls nearby when you discard your memory. This patch is effective for most singular walls, but it means that memory candles can still help us get out of tight spaces.
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:62.500%;"><iframe src="https://streamable.com/e/xcd2pe?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+1. Use a memory candle spell.
+1. Start recording.
+1. Stop recording.
+1. Discard your memory.
 
 ---
 
