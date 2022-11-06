@@ -43,9 +43,6 @@ If you’d like to go underwater, simply start the rocket in the water. Only one
 
 ---
 
-{: .new }
-> This trick has been updated for the 0.19.1 patch!
-
 ## Sonic / Supersonic Drive
 
 Friend
@@ -53,18 +50,21 @@ Friend
 Table
 {: .label .label-green }
 
+{: .new }
+> Changes have been made to this entry for the 0.19.1 patch!
+
 > Credit: Cheng/Euemj(程程)
 
-This glitch creates the same effect as the [driving](#drive--advanced-table-uber) trick, but it moves much, much quicker. It can be quite hard to control, but it can even slice through wind walls! Other players don't see this glitch in action, but they can teleport to you once it's over.
+This glitch creates the same effect as the [driving](#drive--advanced-table-uber) trick, but it moves much, much quicker. It can be quite hard to control when using the fast version, but it can even slice through wind walls! Other players don't see this glitch in action, but they can teleport to you once it's over or teleport automatically with an [uber](../clipping/#table-uber) setup.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/vxr5g1?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Place your table.
-1. Have a friend sit at the table.
-1. Grab your friends hand at the same time as they do any friend emote. (Similar to [Advanced Uber](../movement/multi-player/#drive--advanced-table-uber).)
-1. Have your friend [hard freeze](../terms-and-methods/#freezing).
-1. Drag your table out and zoooom.
-1. When you're finished, place the table down. Your friend can stop freezing.
+2. Have a friend sit at the table.
+3. Grab your friends hand at the same time as they do any friend emote. (Similar to [Advanced Uber](../movement/multi-player/#drive--advanced-table-uber).)
+4. Have your friend [hard freeze](../terms-and-methods/#freezing).
+5. Drag your table out and zoooom.
+6. When you're finished, place the table down. Your friend can stop freezing.
 
 {: .note }
 > Due to how placeable props work, your table will first teleport you to the [origin](../terms-and-methods/#the-origin) before you have much means of control. If any [reset walls](../terms-and-methods/#reset-walls-and-loading-zones) are between you and the [origin](../terms-and-methods/#the-origin) you will be reset to where you started the Supersonic Drive. You and your friend(s) will likely be split up by the servers as well.
@@ -103,7 +103,7 @@ Table
 
 > Credit: ForestOfLight
 
-This glitch can be used to much more actively control your position underwater than other underwater tricks. This glitch was previously able to be performed in the same way as with wind walls. However, it can be done much easier (and now faster) with the help of a friend. Careful in oil (water that depletes your light) though, it doesn’t stop hurting under the surface!
+This glitch can be used to much more actively control your position underwater than other underwater tricks. This glitch was previously able to be performed in the same way as with wind walls. However, it can be done much easier (and now faster) with the help of a friend. Careful in oil (water that depletes your light) though, it doesn’t stop hurting below the surface!
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/kvbpp0?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
@@ -113,4 +113,4 @@ This glitch can be used to much more actively control your position underwater t
 1. Since it only moves you a little bit, repeat step 3 until you’re in whatever location you’d like! Careful not to tap any of the “hold hand” or “sit” buttons on-screen (your friend shouldn’t either).
 
 {: .highlight }
-> More friends can go for the ride by holding your hand before initiating the [advanced uber](#drive--advanced-table-uber) or by sitting at the table like a normal [uber](../clipping/#table-uber--multi-player-table-clip). The former is preferable because there are fewer buttons that can make the trick fail crowding up the screen. If that somehow doesn’t bother you, go ahead and take a whole server down.
+> More friends can go for the ride by holding your hand before initiating the [advanced uber](#drive--advanced-table-uber) or by sitting at the table like a normal [uber](../clipping/#table-uber). The former is preferable because there are fewer buttons that can make the trick fail crowding up the screen. If that somehow doesn’t bother you, go ahead and take a whole server down.

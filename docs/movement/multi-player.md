@@ -18,9 +18,6 @@ Multi-player movements are tricks and glitches that can be done with multiple pl
 
 ---
 
-{: .new }
-> This trick has been added for the 0.19.1 patch!
-
 ## Directional Rocket
 
 Friend
@@ -29,6 +26,9 @@ Piggyback
 {: .label .label-green }
 Firework Staff
 {: .label .label-green }
+
+{: .new }
+> This entry has been added for the 0.19.1 patch!
 
 > Credit: Leo
 
@@ -39,12 +39,12 @@ A [rocket](../../clipping/#rocket--piggy) where you can easily point where you'd
    1. You will rocket in the direction that your friend's head points.
 1. Both player accept piggyback at the same time.
 
-| You | Your Friend |
-|:----|:------------|
-| <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/hmt7pv?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div> | <div style="width:100%;height:0px;position:relative;padding-bottom:62.500%;"><iframe src="https://streamable.com/e/y4xr2a?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div> |
+| You                                                 | Your Friend                                         |
+|:----------------------------------------------------|:----------------------------------------------------|
+| ![](../../../assets/videos/HorizontalRocket-P1.mov) | ![](../../../assets/videos/HorizontalRocket-P2.mov) |
 
-{: .note }
-> If both friends use the staff, both friends can go the same way!
+{: .highlight }
+> If both friends use the staff, both friends can go in the other's directions. If you point the same direction, you'll go together!
 
 ---
 
@@ -58,7 +58,7 @@ Table
 {: .warning }
 > As of the 0.19.1 patch, this is not a continuous ride but you can still place the table to move you and your friends.
 
-This more complicated version of the Uber glitch can bring you as well as up to four other players on a ride. What this glitch actually does is the same as the [uber clip](../clipping/#table-uber--multi-player-table-clip), but you are holding the hand of one of your friends so you go with them.
+This more complicated version of the Uber glitch can bring you as well as up to four other players on a ride. What this glitch actually does is the same as the [uber clip](../clipping/#table-uber), but you are holding the hand of one of your friends so you go with them.
 
 <iframe src="https://www.redditmedia.com/user/hondo7059/comments/ip60qc/table_surf/?ref_source=embed&amp;ref=share&amp;embed=true" style="border: none;" height="415" width="640" scrolling="no"></iframe>
 
@@ -66,7 +66,7 @@ This more complicated version of the Uber glitch can bring you as well as up to 
 2. Have a friend sit at the table (You don’t need to sit at it).
 3. Tap your friend to make the follow icon appear and tap it to follow them.
 4. Have your friend prepare by opening the friendship menu by tapping on you.
-5. Since you just tapped the follow button, there will be a “hold hands” button above your friend’s head. At the same time, tap this and have your friend offer to hold your hand from your friendship menu. This puts you into a state where both of you just stand there on the chair. (It’s easiest to count to three with beeps, as in the video.)
+5. Tap the hold hands button above your friend’s head. At the same time, have your friend offer to hold your hand from the friendship menu. This puts you into a state where both of you just stand there on the chair. (It’s easiest to count down with beeps.)
 6. Move the table and place it down. You and your friend will go where it does!
 
 {: .note-title }
@@ -86,7 +86,7 @@ Placeable Prop
 > Credit: sensei
 
 {: .new }
-> This section has been updated for the 0.19.1 patch!
+> This entry has been updated for the 0.19.1 patch!
 
 This trick lets you warp onto the ground from any height above. It even ignores wind walls and clouds. [Legging](../../terms-and-methods/#legging) is not required for this trick but it makes it easier--especially for chibis and other short players. In most cases, your friend can just accept your friendship emote to warp to you.
 

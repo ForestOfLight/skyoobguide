@@ -56,15 +56,15 @@ When two players attempt to give each other a piggyback at the same time, both p
 
 ---
 
-{: .new }
-> This trick has been added for the 0.19.1 patch!
-
 ## Spasm v2
 
 Friend
 {: .label .label-green }
 Piggyback
 {: .label .label-green }
+
+{: .new }
+> This entry has been added for the 0.19.1 patch!
 
 > Credit: Astria Esper (original glitch), Joje (version 2)
 
@@ -115,14 +115,14 @@ This clip is useful for getting through vertical [collision boxes](../terms-and-
 
 ---
 
-## Table Uber / Multi-Player Table Clip
+## Table Uber
 
 Friend
 {: .label .label-green }
 Table
 {: .label .label-green }
 
-This clip is a ton of fun to play around with. Essentially, it lets you move around other players wherever you can move your table. It’s easiest to get the side chairs out of bounds rather than the middle ones, so it’s best to have your friends there. It’s preferable to have warp with your friend since this will not make you clip (or use an [Advanced Uber](../advanced/#drive--advanced-table-uber)).
+This clip is a ton of fun to play around with. Essentially, it lets you move around other players wherever you can place your table. It’s easiest to get the side chairs out of bounds rather than the middle ones, so it’s best to have your friends there. It’s also preferable to have warp with your friend(s) since this will not make you clip (or use an [Advanced Uber](../advanced/#drive--advanced-table-uber)).
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/ne7v5a?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
@@ -172,4 +172,6 @@ This clip has been used for an extremely long time but has since been almost com
 
 ## General Clipping
 
-It’s also important to know that two collision boxes that are close enough together can push you through one of them. For example, I once accidentally clipped into the All-Elder room (OOB in the room just before Eden’s social area and right after meditating at the Vault elder shrine) just by walking under a chair from a table at the right angle as a chibi. I wouldn’t recommend trying this as a legitimate clip method unless you know two collision boxes will work to push you through consistently (i.e. the clip in the skip for the second half of the Eye of Eden).
+It’s also important to know that two collision boxes that are close enough together can push you through one of them. For example, I once accidentally clipped into the all-elder room (OOB in the room after meditating at the Vault elder shrine) just by walking under a chair from a table at the right angle as a chibi. I wouldn’t recommend trying this as a legitimate clip method unless you know two collision boxes will work to push you through consistently. Here's an extremely well known general clip:
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:62.500%;"><iframe src="https://streamable.com/e/z7wf0g?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>

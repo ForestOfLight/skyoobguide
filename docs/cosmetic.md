@@ -33,15 +33,15 @@ Have a friend ride you like a certain doggo! It’s quite simple, just piggy wit
 
 ---
 
-{: .new }
-> This trick has been added for the 0.19.1 patch!
-
 ## Ghost Effect
 
 Friend
 {: .label .label-green }
 Piggyback
 {: .label .label-green }
+
+{: .new }
+> This entry has been added for the 0.19.1 patch!
 
 > Credit: Anna
 
@@ -52,13 +52,10 @@ Ever wanted make a player invisible? This is a great chance for some fun screens
 1. Go home, unblock them and teleport back to them.
 1. Your friend is now invisible to you!
 
-(: .highlight )
+{: .highlight }
 > This works even after going through a [loading zone](../terms-and-methods/#reset-walls-and-loading-zones), so you'll need to restart the game when you want to see your friend again.
 
 ---
-
-{: .new }
-> This trick has been updated for the 0.19.1 patch!
 
 ## Drone / Rubberbanding
 
@@ -68,7 +65,7 @@ Sustained Emote
 {: .label .label-green }
 
 {: .new }
-> Changes have been made to this entry for the 0.19.1 patch!
+> Changes have been made to this entry for the  0.19.1 patch!
 
 When being pulled by a friend, spamming any [sustained emote](../terms-and-methods/#sustained-emotes) when they take off from the ground will leave you behind. However, your camera won't quite get the memo and just float out to the midpoint between you and your friend. There are a couple of things that control your camera in this state:
 
@@ -88,15 +85,15 @@ You and your friend may get [server split](../terms-and-methods/#servers) due to
 
 ---
 
-{: .new }
-> This trick has been updated for the 0.19.1 patch!
-
 ## Hold Smuggling
 
 Various Props
 {: .label .label-green }
 Various Emotes
 {: .label .label-green }
+
+{: .new }
+> Changes have been made to this entry for the 0.19.1 patch!
 
 This glitch lets you hold props in your hand during animations that normally don't allow you to. Some of these are silly, and a few are actually useful. First, let's cover the main procedure:
 
