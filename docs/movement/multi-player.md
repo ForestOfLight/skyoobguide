@@ -16,9 +16,9 @@ Multi-player movements are tricks and glitches that can be done with multiple pl
 1. TOC
 {:toc}
 
----
+<!-- ---
 
-## Directional Rocket
+## Directional Rocket -- Removed due to Leo's request
 
 Friend
 {: .label .label-green }
@@ -39,12 +39,12 @@ A [rocket](../../clipping/#rocket--piggy) where you can easily point where you'd
    1. You will rocket in the direction that your friend's head points.
 1. Both player accept piggyback at the same time.
 
-| You                                                 | Your Friend                                         |
-|:----------------------------------------------------|:----------------------------------------------------|
+| You                                              | Your Friend                                      |
+|:-------------------------------------------------|:-------------------------------------------------|
 | ![](../../assets/videos/HorizontalRocket-P1.mov) | ![](../../assets/videos/HorizontalRocket-P2.mov) |
 
 {: .highlight }
-> If both friends use the staff, both friends can go in the other's direction. If you point the same direction, you'll go together!
+> If both friends use the staff, both friends can go in the other's direction. If you point the same direction, you'll go together! -->
 
 ---
 
