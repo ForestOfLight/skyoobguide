@@ -41,10 +41,10 @@ A [rocket](../../clipping/#rocket--piggy) where you can easily point where you'd
 
 | You                                                 | Your Friend                                         |
 |:----------------------------------------------------|:----------------------------------------------------|
-| ![](../../../assets/videos/HorizontalRocket-P1.mov) | ![](../../../assets/videos/HorizontalRocket-P2.mov) |
+| ![](../../assets/videos/HorizontalRocket-P1.mov) | ![](../../assets/videos/HorizontalRocket-P2.mov) |
 
 {: .highlight }
-> If both friends use the staff, both friends can go in the other's directions. If you point the same direction, you'll go together!
+> If both friends use the staff, both friends can go in the other's direction. If you point the same direction, you'll go together!
 
 ---
 
