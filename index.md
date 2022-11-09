@@ -23,7 +23,9 @@ This documentation highlights many of the tricks and glitches that exist to enha
 
 The Sky OOB Guide is based on testing done by the amazing members of these Sky communities:
 - [SkyOOB](https://discord.gg/h6JtXQv62y)
+- Sky Necropolis
 - [Sora](https://discord.gg/xqBTm2j)
+- [Chatty Sheeps](https://discord.gg/nktjdAjyHx)
 - SECRET OOB BROTHERHOOD
 
 That means information here may differ from other sources, like the unofficial [Sky: Children of the Light Wiki](https://sky-children-of-the-light.fandom.com/wiki/The_Out_of_Bounds_(OOB)). The Sky OOB Guide will often feature a more up-to-date explanation with notes on making tricks and glitches more reliable.
