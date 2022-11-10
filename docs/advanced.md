@@ -78,6 +78,67 @@ This glitch creates the same effect as the [driving](#drive--advanced-table-uber
 
 ---
 
+## Table Fling v2
+
+Placeable Prop
+{: .label .label-green }
+
+> Credit: ForestOfLight (optimization)
+
+{: .new }
+> This entry has been added for the 0.19.1 patch!
+
+This trick is extremely precise. It essentially lets you teleport to any location, but only if you've found a setup that works to get you there. Here's the usage process:
+
+1. Place down your placeable prop and stand on top of it.
+2. Open your emote menu and ready the screenshot button.
+3. Tap the screenshot button and move your prop out into the level within the same [frame](../terms-and-methods/#graphics-and-fps).
+4. Clear your photos when you're done! 😂
+
+{: .highlight }
+On iPhones, you must use the [portrait mode](../miscellaneous/#portrait-mode) work-around to get access to the screenshot button while the emote menu is open. Androids should be able to tap the screenshot button through the menu.
+
+Finding a working setup for this glitch can be a little mathy, so pay attention if you'd like to use it to get to impossible places! First, the location you end up in is affected by a few variables:
+
+- Your player's distance from the origin.
+- Your player's rotation from the positive Z-axis.
+- The rotation (yaw) of the *prop that you place* (not the one under your feet) in relation to the Z-axis.
+- The other orientations of that prop (pitch and roll) in relation to the positive Y-axis.
+
+{: .highlight }
+> It can be confusing, so remember that the prop that you standing on at the begging of the glitch does **not** affect the final outcome! From now on, "prop" means the one you place during your screenshot.
+
+Let's talk about player location first. This is the player's coordinates in relation to the [origin](../terms-and-methods/#the-origin). At your position, you have both a distance from the origin and an angle that starts at the positive Z-axis and continues clockwise around the plane. This distance is the same as the distance you will travel *from your prop*.
+
+Next, the rotation that you place your prop in relation to the positive Z-axis *at the player's position*. Meaning, basically, which direction you face when you place down your prop. This angle is added to the angle from your player's position. Together, they make the angle (again, in relation to the positive Z-axis) that your fling will take you.
+
+{: .note .note-title }
+> Example
+> 
+> For simplicity, imagine you're directly on the Z-axis, so your location angle is 0. In addition, you're facing away from the origin, so your prop angle is also 0. When you table fling, you final location will be your initial location *plus* the distance that you placed your prop from your player.
+
+The beginning of the video below may help you get a grasp for how your angles affect your final position. Note that the graphs are to-scale for Sky. The video also includes a derivation of a function with which you can use your player and prop's x and z coordinates to determine your final position. If you'd like them in a copy-able format, here they are:
+
+```
+xi (x_initial) is the x coordinate of the player.
+zi (z_initial) is the z coordinate of the player.
+xp (x_prop) is the x coordinate of the prop.
+zP (z_prop) is the z coordinate of the prop.
+
+x_final = xp + sqrt(xi^2 + zi^2) * sin(arctan(zi/xi) + arctan((zp-zi)/(xp-xi))), xp > xi
+x_final = xp - sqrt(xi^2 + zi^2) * sin(arctan(zi/xi) + arctan((zp-zi)/(xp-xi))), xp < xi
+
+z_final = zp + sqrt(xi^2 + zi^2) * sin(arctan(xi/zi) + arctan((xp-xi)/(zp-zi))), zp > zi
+z_final = zp - sqrt(xi^2 + zi^2) * sin(arctan(xi/zi) + arctan((xp-xi)/(zp-zi))), zp < zi
+```
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/zj9ubp" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+{: .note }
+> Keep in mind that this glitch also affects your Y-axis! If you're placing your prop on a flat surface, it'll effectively double your Y-coordinate.
+
+---
+
 ## Legging Clip / Advanced Chibi Clip
 
 This section is an expansion on the [Chibi Clip](../clipping/#chibi-clip--chibi-fall). The sneaky stance isn’t strictly required to perform this glitch, but it is highly recommended as it makes the glitch much more consistent. It’s also possible to do this without being chibi at all. Not much is known about clipping like this without chibi or the sneaky stance because it’s so fiddly.

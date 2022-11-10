@@ -18,7 +18,7 @@ Multi-player movements are tricks and glitches that can be done with multiple pl
 
 <!-- ---
 
-## Directional Rocket -- Removed due to Leo's request
+## Directional Rocket -- TO BE ADDED ON THE 15TH!
 
 Friend
 {: .label .label-green }

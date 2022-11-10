@@ -15,6 +15,25 @@ nav_order: 6
 
 ---
 
+## Portrait Mode
+
+{: .new }
+> This entry was added for the 0.19.1 patch!
+
+Sky actually has a built-in portrait mode that isn't accessible on most devices but has been in beta development for quite some time. If you have an iPad or tablet on Live, you can just turn your device vertically to play in portrait mode but most phones aren't so lucky. Instead, we can force Sky into portait mode on iOS 15 and below by making another app turn your device vertical: the Photos app!
+
+1. Start recording using the video feature ingame.
+1. Stop recording.
+1. When the "share video" menu pops up, tap "Add to Shared Album."
+1. Turn your device vertically.
+1. Click "cancel" and then close the menu.
+1. Sky is now in portrait mode!
+
+{: .important }
+> There may be other ways to force sky into this mode on other devices, but they haven't been brought to my attention. Please let me know if you know of other ways to complete this workaround!
+
+---
+
 ## Efficient Candle Collection
 
 Collecting candles quickly isn't too important, but it's a good way to stop having to ignore that blinking red dot without slowing down your candle run! Collecting candles just before going through a [loading zone](../terms-and-methods/#reset-walls-and-loading-zones) will skip the animation of collecting them. You can also easily collect candles before doing many other actions because their animations interrupts the candle collection animation. One convinient time may be before going home.

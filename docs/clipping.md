@@ -157,6 +157,8 @@ Clipping through the roof on your own can be simple for a veteran! Since the cam
 
 ## Memory Candle Clip
 
+> Credit: Nami, アンソニー
+
 When you discard a recorded memory, your player gets offset a little from where you started it. This can take us right through walls! However, there's been a patch implemented that moves you away from any walls nearby when you discard your memory. This patch is effective for most singular walls, but it means that memory candles can still help us get out of tight spaces.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:62.500%;"><iframe src="https://streamable.com/e/xcd2pe?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
