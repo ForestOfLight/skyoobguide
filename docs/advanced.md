@@ -83,7 +83,7 @@ This glitch creates the same effect as the [driving](#drive--advanced-table-uber
 Placeable Prop
 {: .label .label-green }
 
-> Credit: ForestOfLight (optimization)
+> Credit: ForestOfLight (optimization, research, and usage)
 
 {: .new }
 > This entry has been added for the 0.19.1 patch!
@@ -150,7 +150,7 @@ This section is an expansion on the [Chibi Clip](../clipping/#chibi-clip--chibi-
 > If you have the tea table you can clip into a flat floor by positioning yourself near a cup, [legging](../terms-and-methods/#legging) a foot towards the ground, and performing a Chibi Clip. Credit: Dough
 > 
 > <span class="fs-3">
-> [Video](https://streamable.com/e/ws8d1n){: .btn .btn-outline}
+> [Video](https://streamable.com/e/ws8d1n){: .btn .btn-blue}
 > </span>
 
 ---
