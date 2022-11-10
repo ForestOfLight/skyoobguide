@@ -78,7 +78,7 @@ This glitch creates the same effect as the [driving](#drive--advanced-table-uber
 
 ---
 
-## Table Fling v2
+## Table Fling
 
 Placeable Prop
 {: .label .label-green }
