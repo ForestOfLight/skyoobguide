@@ -85,6 +85,29 @@ You and your friend may get [server split](../terms-and-methods/#servers) due to
 
 ---
 
+## Black Mask
+
+Various Mask Spells
+{: .label .label-green }
+Elder Mask
+{: .label .label-green }
+
+{: .new }
+> This entry has been added for the 0.19.1 patch!
+
+This will let you turn your mask completely black! It's a nice visual glitch others can see. The idea is simple: use the broken state of an elder mask on a mask that isn't an elder mask.
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/n5piz6?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+1. Equip a broken elder mask. (If you need to break one, just get hit by a krill or some crabs until it breaks.)
+1. Use a spell that replaces your mask.
+1. Watch your mask turn black!
+
+{: .note }
+> Sometimes other players will see a broken version while you see an unbroken version if you're wearing a mask that's broken only partially. To get it consistent on both screens make sure you're wearing an fully broken one!
+
+---
+
 ## Hold Smuggling
 
 Various Props

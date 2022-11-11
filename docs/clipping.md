@@ -95,23 +95,61 @@ This clip can push you through horizontal [collision boxes](../terms-and-methods
 
 ---
 
-## Play Dead Clip / Piggy Wall Clip
+## Piggy Emote Clip
 
 Friend
 {: .label .label-green }
 Piggyback
 {: .label .label-green }
-Play Dead Emote
+Various Emote
 {: .label .label-green }
 
-This clip is useful for getting through vertical [collision boxes](../terms-and-methods/#collision-boxes). It’s preferable to have warp unlocked with your friend as well since this only lets one player clip.
+{: .new }
+> This entry has been updated for the 0.19.1 patch!
+
+When the bottom player of a piggyback stack does a [sustained emote](../terms-and-methods/#sustained-emotes) that changes the position of the center of their player, the other players on their back move with them. Since these emotes can bring that player's [collision box](../terms-and-methods/#collision-boxes) through other out of bounds, the players on their back will be taken out of bounds as well! This clip is super useful for getting through all sorts of collision boxes. The best emote to use for this clip is the play dead (faint) emote, though others like point and come are also quite effective. It’s a good idea to have warp unlocked with your friend as well since this doesn't let the bottom player clip.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/ukn0vt?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Piggyback on a friend.
 1. Have them line up facing perpendicular to the wall where the play dead emote would make them fall towards the wall (right). 
-1. Make sure they are as close to the wall as possible. Have them use the play dead emote.
-1. You (on their back) will be inside the wall, just hop off! Your friend can then warp to you.
+1. Have them use the play dead emote.
+1. You (on their back) will be inside the wall, just hop off!
+1. If you can offer your friend your hand, that will bring them to you--otherwise, they can warp.
+
+{: .note }
+> The game will attempt to reset your positon when you jump off your friend's back, but that can easily be worked-around by just moving further out of bounds when getting off.
+
+---
+
+## Instrument Spasm
+
+Friend
+{: .label .label-green }
+Piggyback
+{: .label .label-green }
+Various Istruments
+{: .label .label-green }
+
+> Credit: Astria Esper
+
+{: .new }
+> This entry has been added for the 0.19.1 patch!
+
+The revival of the beloved [spasm](../patched/0.15.0-0.19.1/#spasm--follow-clip) glitch. This clip lets you go through [collision boxes](../terms-and-methods/#collision-boxes) that are next to or above you. The original spasm glitch worked by following a friend who was on your back. This newer version of spasm uses an instrument for you to be able to follow your friend midair by forcing their player into a location further away from you. In addition, this is a great way to recharge your light while away from the ground!
+
+(: .highlight )
+> The best instruments for this glitch are the guitar, rhythm guitar, ukulele, and lute. If you don't have access to any of those, the piano, winter piano, drum, sanctuary handpan, triumph handpan work alright as well.
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/djxv13?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+1. Have your friend jump on your back.
+2. Position yourself as close to the [collision box](../terms-and-methods/#collision-boxes) as you can.
+3. Fly (or you can stay on the ground, and fly at the end of the trick).
+4. Have your friend play their instrument so that their player moves below you.
+5. When your friend is below you, tap on your friend to follow them.
+6. You'll start slowly moving on top of your friend and clipping through any collision boxes in the way!
+7. Move the joystick to stop the spasm.
 
 ---
 

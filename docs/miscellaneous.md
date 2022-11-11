@@ -15,6 +15,26 @@ nav_order: 6
 
 ---
 
+## Flight Regen
+
+{: .label label-green }
+Friend
+{: .label .label-green }
+Piggyback
+
+{: .new }
+> This entry has been added for the 0.19.1 patch!
+
+This trick is extremely popular in the Sky community right now, and it's not hard to see why. It recharges your light so quickly you don't even need to worry about your wedges. It's also extremely simple:
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/v7viz5?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+1. Have your friend get on your back.
+1. Have them open your friendship menu and tap on something you haven't purchased yet (can be the "send heart" icon).
+1. Don't complete the transaction in order to keep the candle out.
+
+---
+
 ## Portrait Mode
 
 {: .new }

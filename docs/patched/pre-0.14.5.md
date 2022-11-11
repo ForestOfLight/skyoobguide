@@ -100,15 +100,15 @@ Shelf
 
 > Credit: Fine-tuning by ForestOfLight
 
-You can teleport yourself around a level with this little trick. However, it is very difficult to control and will take you any distance it wants. While that doesn’t sound very useful, we are figuring out how to control it. This trick is much easier on the lowest graphics level because it runs at a slower frame rate. Any use of this after flying up a little in a level will double your height. You can easily take this trick up to the [farlands](https://drive.google.com/file/d/1TJ8rEr8GU0OVk248MNBZ--Yg2ZLJ5hFs/view) on maps without reset walls, but beware it will get increasingly harder to land on your table.
+You can teleport yourself around a level with this little trick. However, it is very difficult to control and will take you any distance it wants. While that doesn’t sound very useful, we are figuring out how to control it. This trick is much easier on the lowest graphics level because it runs at a slower frame rate. Any use of this after flying up a little in a level will double your height. You can easily take this trick up to the [farlands](https://streamable.com/mnfge1) on maps without reset walls, but beware it will get increasingly harder to land on your table.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/ft3x9n?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Place your table and stand on it.
-1. Open the emote menu and tap your table icon for a single frame.
+2. Open the emote menu and tap your table icon for a single frame.
 
 {: .highlight }
-This glitch is, in my opinion, the most difficult glitch to control of all. From my research, I’ve determined that it will double your position relative to the origin of the map you’re currently on (be mindful this includes vertically). Do with that what you will.
+This glitch is, in my opinion, the most difficult glitch to control of all. From my research, I’ve determined that it will double your position relative to the origin of the map you’re currently on (be mindful this includes vertically). Do with that what you will. It desperately needs more research to fully figure out how it works.
 
 ---
 

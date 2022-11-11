@@ -50,10 +50,10 @@ Friend
 Table
 {: .label .label-green }
 
+> Credit: Cheng/Euemj(程程)
+
 {: .new }
 > Changes have been made to this entry for the 0.19.1 patch!
-
-> Credit: Cheng/Euemj(程程)
 
 This glitch creates the same effect as the [driving](#drive--advanced-table-uber) trick, but it moves much, much quicker. It can be quite hard to control when using the fast version, but it can even slice through wind walls! Other players don't see this glitch in action, but they can teleport to you once it's over or teleport automatically with an [uber](../clipping/#table-uber) setup.
 
@@ -78,12 +78,12 @@ This glitch creates the same effect as the [driving](#drive--advanced-table-uber
 
 ---
 
-## Table Fling
+## Table Fling v2
 
 Placeable Prop
 {: .label .label-green }
 
-> Credit: ForestOfLight (optimization, research, and usage)
+> Credit: ShanKa (rediscovery, research), ForestOfLight (optimization, research, usage)
 
 {: .new }
 > This entry has been added for the 0.19.1 patch!
@@ -91,18 +91,23 @@ Placeable Prop
 This trick is extremely precise. It essentially lets you teleport to any location, but only if you've found a setup that works to get you there. Here's the usage process:
 
 1. Place down your placeable prop and stand on top of it.
-2. Open your emote menu and ready the screenshot button.
-3. Tap the screenshot button and move your prop out into the level within the same [frame](../terms-and-methods/#graphics-and-fps).
-4. Clear your photos when you're done! 😂
+1. Open your emote menu and ready the screenshot button.
+1. Tap the screenshot button and move the prop icon within the same [frame](../terms-and-methods/#graphics-and-fps).
+1. Clear your photos when you're done! 😂
 
 {: .highlight }
 On iPhones, you must use the [portrait mode](../miscellaneous/#portrait-mode) work-around to get access to the screenshot button while the emote menu is open. Androids should be able to tap the screenshot button through the menu.
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:177.723%;"><iframe src="https://streamable.com/e/33tlgs?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+{: .note }
+> The video shows only a *tap* on the prop icon while taking a screenshot. This is because of the lag spike when you take a photo in Sky. In reality, the icon is being *dragged*. Tapping the icon by itself will not work.
 
 Finding a working setup for this glitch can be a little mathy, so pay attention if you'd like to use it to get to impossible places! First, the location you end up in is affected by a few variables:
 
 - Your player's distance from the origin.
 - Your player's rotation from the positive Z-axis.
-- The rotation (yaw) of the *prop that you place* (not the one under your feet) in relation to the Z-axis.
+- The rotation (yaw) of the *prop that you place during the screenshot* (not the one under your feet) in relation to the Z-axis.
 - The other orientations of that prop (pitch and roll) in relation to the positive Y-axis.
 
 {: .highlight }
@@ -112,7 +117,7 @@ Let's talk about player location first. This is the player's coordinates in rela
 
 Next, the rotation that you place your prop in relation to the positive Z-axis *at the player's position*. Meaning, basically, which direction you face when you place down your prop. This angle is added to the angle from your player's position. Together, they make the angle (again, in relation to the positive Z-axis) that your fling will take you.
 
-{: .note .note-title }
+{: .note-title }
 > Example
 > 
 > For simplicity, imagine you're directly on the Z-axis, so your location angle is 0. In addition, you're facing away from the origin, so your prop angle is also 0. When you table fling, you final location will be your initial location *plus* the distance that you placed your prop from your player.
