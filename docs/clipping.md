@@ -144,12 +144,15 @@ The revival of the beloved [spasm](../patched/0.15.0-0.19.1/#spasm--follow-clip)
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/djxv13?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Have your friend jump on your back.
-2. Position yourself as close to the [collision box](../terms-and-methods/#collision-boxes) as you can.
-3. Fly (or you can stay on the ground, and fly at the end of the trick).
-4. Have your friend play their instrument so that their player moves below you.
-5. When your friend is below you, tap on your friend to follow them.
-6. You'll start slowly moving on top of your friend and clipping through any collision boxes in the way!
-7. Move the joystick to stop the spasm.
+1. Position yourself as close to the [collision box](../terms-and-methods/#collision-boxes) as you can.
+1. Fly (or you can stay on the ground, and fly at the end of the trick).
+1. Have your friend play their instrument so that their player moves below you.
+1. When your friend is below you, tap on your friend to follow them.
+1. You'll start slowly moving on top of your friend and clipping through any collision boxes in the way!
+1. Move the joystick to stop the spasm.
+
+{: .note }
+> If you're having trouble clipping through a collision box, changing your [fps](../terms-and-methods/#graphics-and-fps) to a lower setting might do the trick.
 
 ---
 

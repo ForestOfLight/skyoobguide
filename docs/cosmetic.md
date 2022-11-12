@@ -108,6 +108,31 @@ This will let you turn your mask completely black! It's a nice visual glitch oth
 
 ---
 
+## Firework Suspension
+
+Firework Staff
+{: .label .label-green }
+Friend
+{: .label .label-green }
+
+> Credit: Ren
+
+{: .new }
+> This entry has been added for the 0.19.1 patch!
+
+This is an expansion on the [levitation]](../movement/multi-player/#levitation--stall) glitch. Placing a firework with the firework staff will rotate your player and enable the use of any emotes you might like to use without falling out of the sky!
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:62.500%;"><iframe src="https://streamable.com/e/kld7ko?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+1. (Optional) Use a table spell to place your table [in the air](../movement/single-player/#midair-prop-placement) or on the ground--or ask a friend to place one.
+1. Offer any friend emote to your friend. They should not acccept it.
+1. (Optional) Remove your placed table by tapping the table icon in the emote menu (or have your friend do so if the table is theirs).
+1. Pull out your firework staff and drag the icon around so that your player rotates.
+1. Once you've found a nice spot, just place the firework and put your staff away.
+1. You're now floating at an angle midair!
+
+---
+
 ## Hold Smuggling
 
 Various Props
