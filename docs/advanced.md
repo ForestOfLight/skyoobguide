@@ -137,7 +137,7 @@ z_final = zp + sqrt(xi^2 + zi^2) * sin(arctan(xi/zi) + arctan((xp-xi)/(zp-zi))),
 z_final = zp - sqrt(xi^2 + zi^2) * sin(arctan(xi/zi) + arctan((xp-xi)/(zp-zi))), zp < zi
 ```
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/zj9ubp" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/mlxsbq" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 {: .note }
 > Keep in mind that this glitch also affects your Y-axis! If you're placing your prop on a flat surface, it'll effectively double your Y-coordinate.
