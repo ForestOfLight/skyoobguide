@@ -88,12 +88,15 @@ Placeable Prop
 {: .new }
 > This entry has been added for the 0.19.1 patch!
 
+{: .warning }
+> Part of this information is inaccurate and needs more research. Check back soon-- it will be updated shortly.
+
 This trick is extremely precise. It essentially lets you teleport to any location, but only if you've found a setup that works to get you there. Here's the usage process:
 
 1. Place down your placeable prop and stand on top of it.
-1. Open your emote menu and ready the screenshot button.
-1. Tap the screenshot button and move the prop icon within the same [frame](../terms-and-methods/#graphics-and-fps).
-1. Clear your photos when you're done! 😂
+2. Open your emote menu and ready the screenshot button.
+3. Tap the screenshot button and move the prop icon within the same [frame](../terms-and-methods/#graphics-and-fps).
+4. Clear your photos when you're done! 😂
 
 {: .highlight }
 On iPhones, you must use the [portrait mode](../miscellaneous/#portrait-mode) work-around to get access to the screenshot button while the emote menu is open. Androids should be able to tap the screenshot button through the menu.

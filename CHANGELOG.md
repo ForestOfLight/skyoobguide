@@ -3,6 +3,15 @@ title: CHANGELOG
 layout: default
 ---
 
+## v2.0.3, Sky 0.19.1
+**Changelog:**
+- Added Directional Rocket
+- Renovated Play Dead Clip to Piggy Emote Clip
+- Added Black Mask
+- Added Instrument Spasm
+- Added Flight Regen
+- Added Firework Suspension
+
 ## v2.0.2, Sky 0.19.1
 **Changelog:**
 - Updated Advanced Uber
