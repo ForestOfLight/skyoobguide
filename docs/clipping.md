@@ -75,45 +75,26 @@ After much patching by tgc, [spasm](../patched/0.15.0-0.19.1/#spasm--follow-clip
 
 ---
 
-## Floor Clip
-
-Friend
-{: .label .label-green }
-Piggyback
-{: .label .label-green }
-Play Dead / Crab Walk (lvl 3) Emote
-{: .label .label-green }
-
-This clip can push you through horizontal [collision boxes](../terms-and-methods/#collision-boxes) below you (like the ground!). It is best used on sopes but can work on flat ground. It’s preferable that you have warp unlocked with your friend as well since this only lets one player clip.
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/au276o?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-1. Jump on a friend’s back with piggyback.
-1. Have your friend use the play dead or crab walk (lvl 3) emote.
-   1. Your friend should try to make their collision box go under the map (ie. fall uphill) when they use their emote.
-1. Get off your friend’s back, and you should fall through the floor. Your friend can then warp to you.
-
----
-
 ## Piggy Emote Clip
 
 Friend
 {: .label .label-green }
 Piggyback
 {: .label .label-green }
-Various Emote
+Various Emotes
 {: .label .label-green }
 
 {: .new }
 > This entry has been updated for the 0.19.1 patch!
 
-When the bottom player of a piggyback stack does a [sustained emote](../terms-and-methods/#sustained-emotes) that changes the position of the center of their player, the other players on their back move with them. Since these emotes can bring that player's [collision box](../terms-and-methods/#collision-boxes) through other out of bounds, the players on their back will be taken out of bounds as well! This clip is super useful for getting through all sorts of collision boxes. The best emote to use for this clip is the play dead (faint) emote, though others like point and come are also quite effective. It’s a good idea to have warp unlocked with your friend as well since this doesn't let the bottom player clip.
+When the bottom player of a piggyback stack does a [sustained emote](../terms-and-methods/#sustained-emotes), the position of the center of their player changes, so the other players on their back move with them. Since these emotes can bring that player's [collision box](../terms-and-methods/#collision-boxes) out of bounds, the players on their back will be taken out of bounds as well! These players need only to dismount to go out of bounds. This clip is super useful for getting through all sorts of collision boxes. The best emote to use for this clip is the play dead (faint) emote, though others like point and come are also quite effective. It’s a good idea to have warp unlocked with your friend as well since this doesn't let the bottom player clip.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/ukn0vt?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Piggyback on a friend.
-1. Have them line up facing perpendicular to the wall where the play dead emote would make them fall towards the wall (right). 
-1. Have them use the play dead emote.
+1. Have them line up to a collision box where an emote would make them clip through it.
+   1.  Play dead makes them fall to the right, so line them up with a wall or an uphill slope on the right.
+1. Have them use the their emote of choice.
 1. You (on their back) will be inside the wall, just hop off!
 1. If you can offer your friend your hand, that will bring them to you--otherwise, they can warp.
 
@@ -138,7 +119,7 @@ Various Istruments
 
 The revival of the beloved [spasm](../patched/0.15.0-0.19.1/#spasm--follow-clip) glitch. This clip lets you go through [collision boxes](../terms-and-methods/#collision-boxes) that are next to or above you. The original spasm glitch worked by following a friend who was on your back. This newer version of spasm uses an instrument for you to be able to follow your friend midair by forcing their player into a location further away from you. In addition, this is a great way to recharge your light while away from the ground!
 
-(: .highlight )
+{: .highlight }
 > The best instruments for this glitch are the guitar, rhythm guitar, ukulele, and lute. If you don't have access to any of those, the piano, winter piano, drum, sanctuary handpan, triumph handpan work alright as well.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/djxv13?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>

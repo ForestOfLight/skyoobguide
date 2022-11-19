@@ -3,6 +3,10 @@ title: CHANGELOG
 layout: default
 ---
 
+## v2.0.4, Sky 0.19.1
+**Changelog:**
+- Removed Floor Clip for redundancy with Piggy Emote Clip
+
 ## v2.0.3, Sky 0.19.1
 **Changelog:**
 - Added Directional Rocket
