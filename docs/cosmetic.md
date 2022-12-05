@@ -7,7 +7,7 @@ nav_order: 5
 # Cosmetic
 {: .no_toc }
 
-This section includes little tricks to do things that look fun but don’t really have a use. Great to use in a crowd to get a laugh or an ooooo!
+This section includes little tricks to do things that look fun but don’t really have a use. Great to use in a crowd to get a laugh or an oooo!
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -40,17 +40,14 @@ Friend
 Piggyback
 {: .label .label-green }
 
-{: .new }
-> This entry has been added for the 0.19.1 patch!
-
 > Credit: Anna
 
 Ever wanted make a player invisible? This is a great chance for some fun screenshots. During this trick, your friend will be invisible to you but you won't be to them.
 
 1. Have your friend jump on your back.
-1. Block them from the friendship menu.
-1. Go home, unblock them and teleport back to them.
-1. Your friend is now invisible to you!
+2. Block them from the friendship menu.
+3. Go home, unblock them and teleport back to them.
+4. Your friend is now invisible to you!
 
 {: .highlight }
 > This works even after going through a [loading zone](../terms-and-methods/#reset-walls-and-loading-zones), so you'll need to restart the game when you want to see your friend again.
@@ -63,9 +60,6 @@ Friend
 {: .label .label-green }
 Sustained Emote
 {: .label .label-green }
-
-{: .new }
-> Changes have been made to this entry for the  0.19.1 patch!
 
 When being pulled by a friend, spamming any [sustained emote](../terms-and-methods/#sustained-emotes) when they take off from the ground will leave you behind. However, your camera won't quite get the memo and just float out to the midpoint between you and your friend. There are a couple of things that control your camera in this state:
 
@@ -92,16 +86,13 @@ Various Mask Spells
 Elder Mask
 {: .label .label-green }
 
-{: .new }
-> This entry has been added for the 0.19.1 patch!
-
 This will let you turn your mask completely black! It's a nice visual glitch others can see. The idea is simple: use the broken state of an elder mask on a mask that isn't an elder mask.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/n5piz6?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Equip a broken elder mask. (If you need to break one, just get hit by a krill or some crabs until it breaks.)
-1. Use a spell that replaces your mask.
-1. Watch your mask turn black!
+2. Use a spell that replaces your mask.
+3. Watch your mask turn black!
 
 {: .note }
 > Sometimes other players will see a broken version while you see an unbroken version if you're wearing a mask that's broken only partially. To get it consistent on both screens make sure you're wearing an fully broken one!
@@ -117,19 +108,16 @@ Friend
 
 > Credit: Ren
 
-{: .new }
-> This entry has been added for the 0.19.1 patch!
-
 This is an expansion on the [levitation]](../movement/multi-player/#levitation--stall) glitch. Placing a firework with the firework staff will rotate your player and enable the use of any emotes you might like to use without falling out of the sky!
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:62.500%;"><iframe src="https://streamable.com/e/kld7ko?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. (Optional) Use a table spell to place your table [in the air](../movement/single-player/#midair-prop-placement) or on the ground--or ask a friend to place one.
-1. Offer any friend emote to your friend. They should not acccept it.
-1. (Optional) Remove your placed table by tapping the table icon in the emote menu (or have your friend do so if the table is theirs).
-1. Pull out your firework staff and drag the icon around so that your player rotates.
-1. Once you've found a nice spot, just place the firework and put your staff away.
-1. You're now floating at an angle midair!
+2. Offer any friend emote to your friend. They should not acccept it.
+3. (Optional) Remove your placed table by tapping the table icon in the emote menu (or have your friend do so if the table is theirs).
+4. Pull out your firework staff and drag the icon around so that your player rotates.
+5. Once you've found a nice spot, just place the firework and put your staff away.
+6. You're now floating at an angle midair!
 
 ---
 
@@ -140,16 +128,13 @@ Various Props
 Various Emotes
 {: .label .label-green }
 
-{: .new }
-> Changes have been made to this entry for the 0.19.1 patch!
-
 This glitch lets you hold props in your hand during animations that normally don't allow you to. Some of these are silly, and a few are actually useful. First, let's cover the main procedure:
 
 1. Hold a prop in your hands.
-1. Press the prop icon and the emote icon (must be in "recently used" section) at the same time.
+2. Press the prop icon and the emote icon (must be in "recently used" section) at the same time.
 
 {: .note }
-> Sky's menu buttons activate when you *release* them, pressing two buttons at the same time really means they should be *released* together. This is very useful when trying to use lvl. 2+ emotes! Also, changing your [graphics](../terms-and-methods/#graphics-and-fps) to 20 fps may make this trick a bit easier.
+> Sky's menu buttons activate when you *release* them, so pressing two buttons at the same time really means they should be *released* at the same time. This is very useful when trying to use lvl. 2+ emotes! Also, changing your [graphics](../terms-and-methods/#graphics-and-fps) to 20 fps may make this trick a bit easier.
 
 Simple, right? The first useful usage of this glitch is holding an umbrella at the same time as your candle. Not that rain is very dangerous to most players, but a solo [capeless](#capeless) user might find it handy!
 

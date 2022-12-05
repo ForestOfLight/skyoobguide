@@ -27,17 +27,14 @@ Piggyback
 Firework Staff
 {: .label .label-green }
 
-{: .new }
-> This entry has been added for the 0.19.1 patch!
-
 > Credit: Leo
 
 A [rocket](../../clipping/#rocket--piggy) where you can easily point where you'd like to fly toward is extremely useful for getting places quickly--not to mention that it flies through wind walls just like a normal rocket. In this trick, both players are in charge of their *friend*'s rocket direction, not their own.
 
 1. Both players offer each other piggyback.
-1. Your friend takes out their firework staff to position their player.
+2. Your friend takes out their firework staff to position their player.
    1. You will rocket in the direction that your friend's head points.
-1. Both player accept piggyback at the same time.
+3. Both player accept piggyback at the same time.
 
 | You                                              | Your Friend                                      |
 |:-------------------------------------------------|:-------------------------------------------------|
@@ -84,9 +81,6 @@ Placeable Prop
 {: .label .label-green }
 
 > Credit: sensei
-
-{: .new }
-> This entry has been updated for the 0.19.1 patch!
 
 This trick lets you warp onto the ground from any height above. It even ignores wind walls and clouds. [Legging](../../terms-and-methods/#legging) is not required for this trick but it makes it easier--especially for chibis and other short players. In most cases, your friend can just accept your friendship emote to warp to you.
 
@@ -137,11 +131,11 @@ Hammock
 
 This is a revival of the patched [poof warp](../../patched/pre-0.14.5/#poof-warp--disconnect-warp) behavior. This trick will take you to a spot under the map (with coordinates 0, 0, 0) called the "shadow spot" or "zero point." Here’s how to do it:
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/9ybibb?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/z7n8kd?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Place the hammock.
 2. Have your friend lay in it and offer their hand.
 3. Drag out the hammock again. When they are teleported, grab their hand.
 4. Release the hammock.
 
-[Bonus Method!](https://streamable.com/z7n8kd){: .btn .btn-blue }
+[Bonus Method!](https://streamable.com/e/9ybibb){: .btn .btn-blue }

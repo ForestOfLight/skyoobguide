@@ -3,9 +3,11 @@ title: CHANGELOG
 layout: default
 ---
 
-## v2.0.4, Sky 0.19.1
+## v2.0.4, Sky 0.19.5
 **Changelog:**
 - Removed Floor Clip for redundancy with Piggy Emote Clip
+- Updated Rocket to include why crashes occur. [TEST]
+- Updated Servers
 
 ## v2.0.3, Sky 0.19.1
 **Changelog:**

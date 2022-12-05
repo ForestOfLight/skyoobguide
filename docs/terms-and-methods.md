@@ -136,7 +136,7 @@ Glitches that manipulate the coordinates of your player, like [table flings](../
 
 A "server" in Sky consists of eight players or less in one level. These servers are kept optimized for players by a process called *server merging*, in which players are disconnected from or connected to a server with other players. Servers don't only store players but also temporary level data like which candles have been lit and which doors are open. When merging, lit candles and open doors override unlit candles and closed doors. When a server has zero players in it, it's level data is reset so new players can come along and interact with it.
 
-Server merges are some of the most powerful but elusive features in Sky and people have been attempting to trigger server merges on purpose since the beginning. **The only factors that allow server merges is a player's distance from other players and the time since the last merge for that player.** Methods like deep-calling or placing tables have no effect.
+Server merges are some of the most powerful but elusive features in Sky. As a result, people have always been attempting to trigger server merges on purpose. Here's what we know: **The only factors that allow a server split to occur is a player's distance from other players and the time since the last merge for that player.** Methods like deep-calling or placing tables have no effect.
 
 {: .highlight }
-> Due to it being technically simpler to merge one player into a server than multiple, travelling by yourself will make you experience more server merges than if you travel with a friend.
+> Due to it being technically simpler to merge one player into a server than multiple, travelling by yourself will make you experience more server merges than if you travel with a friend or multiple friends.

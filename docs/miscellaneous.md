@@ -22,32 +22,26 @@ Friend
 {: .label .label-green }
 Piggyback
 
-{: .new }
-> This entry has been added for the 0.19.1 patch!
-
 This trick is extremely popular in the Sky community right now, and it's not hard to see why. It recharges your light so quickly you don't even need to worry about your wedges. It's also extremely simple:
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/v7viz5?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Have your friend get on your back.
-1. Have them open your friendship menu and tap on something you haven't purchased yet (can be the "send heart" icon).
-1. Don't complete the transaction in order to keep the candle out.
+2. Have them open your friendship menu and tap on something you haven't purchased yet (can be the "send heart" icon).
+3. Don't complete the transaction in order to keep the candle out.
 
 ---
 
 ## Portrait Mode
 
-{: .new }
-> This entry was added for the 0.19.1 patch!
-
 Sky actually has a built-in portrait mode that isn't accessible on most devices but has been in beta development for quite some time. If you have an iPad or tablet on Live, you can just turn your device vertically to play in portrait mode but most phones aren't so lucky. Instead, we can force Sky into portait mode on iOS 15 and below by making another app turn your device vertical: the Photos app!
 
 1. Start recording using the video feature ingame.
-1. Stop recording.
-1. When the "share video" menu pops up, tap "Add to Shared Album."
-1. Turn your device vertically.
-1. Click "cancel" and then close the menu.
-1. Sky is now in portrait mode!
+2. Stop recording.
+3. When the "share video" menu pops up, tap "Add to Shared Album."
+4. Turn your device vertically.
+5. Click "cancel" and then close the menu.
+6. Sky is now in portrait mode!
 
 {: .important }
 > There may be other ways to force sky into this mode on other devices, but they haven't been brought to my attention. Please let me know if you know of other ways to complete this workaround!

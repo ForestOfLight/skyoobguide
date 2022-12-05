@@ -44,12 +44,15 @@ Friend
 Piggyback
 {: .label .label-green }
 
-When two players attempt to give each other a piggyback at the same time, both players will go flying up into the air regardless of any collision boxes in their path. Simply let go of the other player to stop the launch.
+{ .new }
+> This entry has been updated for the 0.19.5 patch!
+
+{ .warning }
+> If any other players in the level are also piggybacked, attempting to rocket will crash Sky!
+
+When two players attempt to give each other a piggyback at the same time, both players will go flying up into the air regardless of any collision boxes or wind walls in their path. Simply let go of the other player to stop the launch.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/1crq8h?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-{: .new }
-> As of the 0.19.1 patch, rockets now go through wind walls!
 
 {: .highlight }
 > For most players, this is enough. If you'd like to learn more about fine tuning your rockets, head to the [advanced](#rocket-advanced) section.
@@ -62,9 +65,6 @@ Friend
 {: .label .label-green }
 Piggyback
 {: .label .label-green }
-
-{: .new }
-> This entry has been added for the 0.19.1 patch!
 
 > Credit: Astria Esper (original glitch), Joje (version 2)
 
@@ -84,19 +84,16 @@ Piggyback
 Various Emotes
 {: .label .label-green }
 
-{: .new }
-> This entry has been updated for the 0.19.1 patch!
-
 When the bottom player of a piggyback stack does a [sustained emote](../terms-and-methods/#sustained-emotes), the position of the center of their player changes, so the other players on their back move with them. Since these emotes can bring that player's [collision box](../terms-and-methods/#collision-boxes) out of bounds, the players on their back will be taken out of bounds as well! These players need only to dismount to go out of bounds. This clip is super useful for getting through all sorts of collision boxes. The best emote to use for this clip is the play dead (faint) emote, though others like point and come are also quite effective. It’s a good idea to have warp unlocked with your friend as well since this doesn't let the bottom player clip.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/ukn0vt?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Piggyback on a friend.
-1. Have them line up to a collision box where an emote would make them clip through it.
+2. Have them line up to a collision box where an emote would make them clip through it.
    1.  Play dead makes them fall to the right, so line them up with a wall or an uphill slope on the right.
-1. Have them use the their emote of choice.
-1. You (on their back) will be inside the wall, just hop off!
-1. If you can offer your friend your hand, that will bring them to you--otherwise, they can warp.
+3. Have them use the their emote of choice.
+4. You (on their back) will be inside the wall, just hop off!
+5. If you can offer your friend your hand, that will bring them to you--otherwise, they can warp.
 
 {: .note }
 > The game will attempt to reset your positon when you jump off your friend's back, but that can easily be worked-around by just moving further out of bounds when getting off.
@@ -114,9 +111,6 @@ Various Istruments
 
 > Credit: Astria Esper
 
-{: .new }
-> This entry has been added for the 0.19.1 patch!
-
 The revival of the beloved [spasm](../patched/0.15.0-0.19.1/#spasm--follow-clip) glitch. This clip lets you go through [collision boxes](../terms-and-methods/#collision-boxes) that are next to or above you. The original spasm glitch worked by following a friend who was on your back. This newer version of spasm uses an instrument for you to be able to follow your friend midair by forcing their player into a location further away from you. In addition, this is a great way to recharge your light while away from the ground!
 
 {: .highlight }
@@ -125,12 +119,12 @@ The revival of the beloved [spasm](../patched/0.15.0-0.19.1/#spasm--follow-clip)
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/djxv13?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Have your friend jump on your back.
-1. Position yourself as close to the [collision box](../terms-and-methods/#collision-boxes) as you can.
-1. Fly (or you can stay on the ground, and fly at the end of the trick).
-1. Have your friend play their instrument so that their player moves below you.
-1. When your friend is below you, tap on your friend to follow them.
-1. You'll start slowly moving on top of your friend and clipping through any collision boxes in the way!
-1. Move the joystick to stop the spasm.
+2. Position yourself as close to the [collision box](../terms-and-methods/#collision-boxes) as you can.
+3. Fly (or you can stay on the ground, and fly at the end of the trick).
+4. Have your friend play their instrument so that their player moves below you.
+5. When your friend is below you, tap on your friend to follow them.
+6. You'll start slowly moving on top of your friend and clipping through any collision boxes in the way!
+7. Move the joystick to stop the spasm.
 
 {: .note }
 > If you're having trouble clipping through a collision box, changing your [fps](../terms-and-methods/#graphics-and-fps) to a lower setting might do the trick.

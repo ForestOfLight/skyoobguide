@@ -52,9 +52,6 @@ Table
 
 > Credit: Cheng/Euemj(程程)
 
-{: .new }
-> Changes have been made to this entry for the 0.19.1 patch!
-
 This glitch creates the same effect as the [driving](#drive--advanced-table-uber) trick, but it moves much, much quicker. It can be quite hard to control when using the fast version, but it can even slice through wind walls! Other players don't see this glitch in action, but they can teleport to you once it's over or teleport automatically with an [uber](../clipping/#table-uber) setup.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/vxr5g1?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
@@ -84,9 +81,6 @@ Placeable Prop
 {: .label .label-green }
 
 > Credit: ShanKa (rediscovery, research), ForestOfLight (optimization, research, usage)
-
-{: .new }
-> This entry has been added for the 0.19.1 patch!
 
 {: .warning }
 > Part of this information is inaccurate and needs more research. Check back soon-- it will be updated shortly.
