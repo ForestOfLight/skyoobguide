@@ -20,8 +20,6 @@ jobs:
     - uses: actions/checkout@v3
     - name: Build the site in the jekyll/jekyll container
       run: |
-        gem install bundler:2.3.26
-        bundle _2.3.26_ instal
         docker run --rm \
         --volume="${{ github.workspace }}:/srv/jekyll" \
         jekyll/jekyll:${{ matrix.jekyll-version }} /bin/bash -c "gem install bundler && chmod -R 777 /srv/jekyll && bundle install && bundle exec jekyll build && bundle exec rake search:init"
