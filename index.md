@@ -12,7 +12,7 @@ permalink: /
 This documentation highlights many of the tricks and glitches that exist to enhance your gameplay experience in Sky: Children of the Light. For extra help, visit the SkyOOB Discord server. We’d love to help you out!
 {: .fs-6 .fw-300 }
 
-[Get Started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Join the SkyOOB Discord](https://discord.gg/h6JtXQv62y){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
+[Get Started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Join the SkyOOB Discord](https://discord.gg/h6JtXQv62y){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 } [Donate](https://gofund.me/45a571b0){: .btn .btn-primary .fs-5 .mb-4 .mb-md0 .mr-2 }
 
 {: .note }
 > Beta content is not included, but it doesn't mean we aren't interested! Come share your findings with us and we'll document it if the behavior makes it to Live!
@@ -48,7 +48,7 @@ Our communities believe in recognizing individuals for their contributions to ou
 ## About the project
 
 The Sky OOB Guide is maintained by ForestOfLight. If you would like to donate to help keep this guide up to date, the button below will take you to a GoFundMe. If you decide to support my efforts, thank you very much!
-[Donate!](https://gofund.me/45a571b0){ .btn .btn-green }
+[Donate!](https://gofund.me/45a571b0){: .btn .btn-green }
 
 Thank you to my amazing editors over the years:
 - Jojo 
