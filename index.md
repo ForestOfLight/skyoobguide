@@ -23,7 +23,7 @@ This documentation highlights many of the tricks and glitches that exist to enha
 
 The Sky OOB Guide is based on testing done by the amazing members of these Sky communities:
 - [SkyOOB](https://discord.gg/h6JtXQv62y)
-- Sky Necropolis
+- Sky Necropolis (rip)
 - [Sora](https://discord.gg/xqBTm2j)
 - [Chatty Sheeps](https://discord.gg/nktjdAjyHx)
 - SECRET OOB BROTHERHOOD
@@ -47,7 +47,8 @@ Our communities believe in recognizing individuals for their contributions to ou
 
 ## About the project
 
-The Sky OOB Guide is maintained by ForestOfLight. 
+The Sky OOB Guide is maintained by ForestOfLight. If you would like to donate to help keep this guide up to date, the button below will take you to a GoFundMe. If you decide to support my efforts, thank you very much!
+[Donate!](https://gofund.me/45a571b0){ .btn .btn-green }
 
 Thank you to my amazing editors over the years:
 - Jojo 

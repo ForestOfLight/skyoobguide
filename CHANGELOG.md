@@ -9,6 +9,8 @@ layout: default
 - Updated Rocket to include why crashes occur. [TEST]
 - Updated Servers
 
+---
+
 ## v2.0.3, Sky 0.19.1
 **Changelog:**
 - Added Directional Rocket
@@ -17,6 +19,8 @@ layout: default
 - Added Instrument Spasm
 - Added Flight Regen
 - Added Firework Suspension
+
+---
 
 ## v2.0.2, Sky 0.19.1
 **Changelog:**
@@ -28,6 +32,8 @@ layout: default
 - Moved Advanced Spiraling to patched section, where it belongs.
 - Added Ghost Effect
 - Added Directional Rocket
+
+---
 
 ## v2.0.1, Sky 0.19.1
 **Sky changes that affect OOBing:**
@@ -46,6 +52,8 @@ layout: default
 - Updated Sonic
 - Removed Rubberbanding and added Drone
 - Added changelog ;)
+
+---
 
 ## v2.0.0
 Moved information from the original [Sky OOB Guide google doc](https://docs.google.com/document/d/1Inh4q4008EtxY2b1PZnKJArfwUiFuxawXJ8lw3KaelM) to this site. None of the information has been updated yet.
