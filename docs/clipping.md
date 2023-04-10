@@ -2,6 +2,7 @@
 layout: default
 title: Clipping
 nav_order: 3
+description: "Tricks and glitches to get you through all sorts of collision boxes."
 ---
 
 # Clipping

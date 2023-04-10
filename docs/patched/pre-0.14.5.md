@@ -3,6 +3,7 @@ layout: default
 title: Pre-0.14.5
 parent: Patched
 nav_order: 0
+description: "Tricks and glitches that were patched before Sky v0.14.5."
 ---
 
 # Tricks Patched prior to 0.14.5

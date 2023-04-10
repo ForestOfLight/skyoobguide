@@ -2,6 +2,7 @@
 layout: default
 title: Multi-Player Movement
 parent: Movement
+description: "Movement tricks and glitches that require multiple players."
 ---
 
 # Multi-Player movement

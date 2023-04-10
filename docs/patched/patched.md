@@ -4,6 +4,7 @@ title: Patched
 nav_order: 8
 has_children: true
 permalink: docs/patched
+description: "Tricks and glitches in Sky that have been patched."
 ---
 
 # Patched

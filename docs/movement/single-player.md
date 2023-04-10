@@ -2,6 +2,7 @@
 layout: default
 title: Single-Player Movement
 parent: Movement
+description: "Movement tricks and glitches that you can do by yourself."
 ---
 
 # Single-Player Movement

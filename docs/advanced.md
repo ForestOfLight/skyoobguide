@@ -2,6 +2,7 @@
 layout: default
 title: Advanced
 nav_order: 7
+description: "Advanced tricks and glitches for experienced oobers! These are sure to get you some handy tools for exploring."
 ---
 
 # Advanced Tricks

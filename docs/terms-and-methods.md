@@ -2,6 +2,7 @@
 layout: default
 title: Terms and Methods
 nav_order: 2
+description: "Definitions for important technical aspects of Sky."
 ---
 
 # Terms and Methods

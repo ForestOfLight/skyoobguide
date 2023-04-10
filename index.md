@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "The Sky OOB Guide is a documentation of tricks and glitches in Sky: Children of the Light."
+description: "A documentation of tricks and glitches in Sky: Children of the Light."
 permalink: /
 ---
 

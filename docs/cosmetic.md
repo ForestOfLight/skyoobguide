@@ -2,6 +2,7 @@
 layout: default
 title: Cosmetic
 nav_order: 5
+description: "Tricks and glitches for fun looks!"
 ---
 
 # Cosmetic

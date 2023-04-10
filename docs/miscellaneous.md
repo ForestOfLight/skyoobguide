@@ -2,6 +2,7 @@
 layout: default
 title: Miscellaneous
 nav_order: 6
+description: "Uncatagorized tricks and glitches that are still useful."
 ---
 
 # Miscellaneous
