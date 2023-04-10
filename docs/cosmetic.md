@@ -54,7 +54,7 @@ Ever wanted make a player invisible? This is a great chance for some fun screens
 
 ---
 
-## Drone / Rubberbanding
+## Drone
 
 Friend
 {: .label .label-green }
@@ -167,54 +167,44 @@ Now let's get on to the funny animations with emotes. Many emotes just put the p
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/pynv57?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 {: .highlight }
-> A candle can be hold smuggled while already hold smuggling a prop using a [sustained emote](../terms-and-methods/#sustained-emotes)
-
----
-
-## Using the Force / Holding Props
-
-Prop
-{: .label .label-green }
-Lantern Spell
-{: .label .label-green }
-
-> Credit: Jesse
-
-This trick lets you hover a prop out in front of you! Others can see it and you can move it around using various stances (though emotes seem to just stick it into your neck. Ouch!). It will stay there until you switch props or go to a new level. This trick can also be done with any umbrella spell.
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/q918ln?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-1. Activate a lantern spell.
-2. Cancel the lantern spell.
-3. Just after, take out the lantern.
-
-{: .note }
-> The goal for this trick is to be taking out a holdable prop as your prop changes to one you normally can't hold.
+> A candle can be hold smuggled while already hold smuggling a prop using a [sustained emote](../terms-and-methods/#sustained-emotes).
 
 ---
 
 ## Capeless
 
-Friend
+Instant Recharge Spell
 {: .label .label-green }
-Warp
-{: .label .label-green }
-Friend's Table
+Table
 {: .label .label-green }
 
-> Credit: ForestOfLight, Saint, Sensei
+{: .new }
+> This trick has been updated for the 0.20.5 patch!
 
-All capeless methods have a simple task: Escape the Home void room. When you die outside of Eden, you’re sent Home but far off in the distance in a black room with a star (lovingly named the *pity star*) to start you on your journey. Making it back to the main Home island will let you go into the seven realm gates with no cape! Once you’re capeless, this method needs to be done every time you return home until you decide you want a cape again.
+> Credit: ForestOfLight, Saint, Sensei, Joje
 
-Currently, most capeless methods require three players. One to be capeless, and two friends to get out of the room. Here’s one that only requires two:
+All capeless methods have a simple task: Escape the Home void room. When you die outside of Eden, you’re sent Home but far off in the distance in a black room with a star (lovingly named the *pity star*) to start you on your journey. However, making it back to the main Home island without collecting the pity star will let you go through the seven realm gates with no cape! Once you’re capeless, this method needs to be done every time you return Home until you decide you want a cape again.
 
-1. Die outside of Eden and be sent to the Home void.
-2. Have your friend join you at Home (they’ll be on the main island).
-3. [Freeze](../terms-and-methods/#freezing) for a couple of seconds and then deep call so your friend can warp to you (your friend should be with you in the Home void at this point. If not, freeze again briefly).
-4. Have your friend place down their table.
-5. Sit at it and offer your hand to them (let them know when you do because they can’t see you moving).
-6. Have your friend close their game, log back in, and warp to your Home (this puts them on the main island).
-7. Have your friend place their table on the main island and you’ll go with it!
+Most capeless methods require three players. One to be capeless, and two friends to get out of the room. Here's one method you can do by yourself and several more that require two friends:
+
+For both methods, you must lose all your stars outside of Eden and be sent to the Home void.
+
+Single-player:
+<div style="width:50%;height:0px;position:relative;padding-bottom:77.867%;"><iframe src="https://streamable.com/e/9p19gk?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+1. Use an instant recharge spell.
+2. [Table fling](../advanced/#table-fling-v2) facing to the left of the star in the Home void.
+3. You should arrive at the main island.
+
+Three-player:
+1. Have your friends join you at Home (they’ll be on the main island).
+2. Your two friends should use any method to reach the Home void. Here are a few:
+   1.  [Sonic](../advanced/#sonic--supersonic-drive). They can use the gondola prop to drive on water and use piggyback to slow down the ride so they don't overshoot.
+   2.  [Directional rocket](../movement/multi-player/#directional-rocket). One friend should aim and the other friend should hold a chat prop for step 3.
+   3.  Deanport. Use a normal table for setup and the hexagon or hammock props to boost the distance.
+3. You should then use any method to reach the main island. Here are a few:
+   1. [Poof warp](../movement/multi-player/#poof-warp-v2). Make sure your friends bring a hammock to the void with them!
+   2. [Table uber](../clipping/#table-uber). After you are anchored to the table, the table owner can relog to return to the main island and place their table down to bring you to them.
 
 {: .highlight }
-> While you’re at home (after performing the glitch), no one will be able to see you moving around. You can [freeze](../terms-and-methods/#freezing) at any time to update your location on others’ screens.
+> While you’re in the home world (even after making it back to the main island) no one will be able to see you moving around or speaking.

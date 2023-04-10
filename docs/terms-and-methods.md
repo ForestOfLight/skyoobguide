@@ -44,6 +44,7 @@ Any emote that continues infinitely until you move your skykid or perform anothe
 | Belly Scratch     | Duck              | Doze              | Waving Light      |
 | Shiver            | Faint (Play Dead) | Balance           | Raise the Roof    |
 | Apologize         | Salute            | Slouch            | Rhythmic Clap     |
+| Conduct           | Grieving          |
 
 ---
 
@@ -55,13 +56,13 @@ Simply a term that refers to when you hold down on your character to pull a leg 
 
 ## Props
 
-A prop is any item that you can wear on your back, like an instrument or table. Props that players can sit and chat at are known as tables. Props that can be placed down in the world, like the shelf or fox are known as placeable props. You can see a list of props and their categorizations [here](https://sky-children-of-the-light.fandom.com/wiki/Props#Availability_Legend). In most cases, it won't matter if you use a spell or an owned prop to do a trick. However, keep in mind that you may place down both a spell prop and an owned prop at the same time.
+A prop is any item that you can wear on your back, like an instrument or table. Props that players can sit and chat at are known as tables. Props that can be placed down in the world, like the shelf or fox are known as placeable props. You can see a list of props and their categorizations [here](https://sky-children-of-the-light.fandom.com/wiki/Props#Availability_Legend). In most cases, it won't matter if you use a spell or an owned prop to do a trick. However, keep in mind that you may place down both a spell prop and an owned prop at the same time to have two props at once!
 
 ---
 
 ## Graphics and FPS
 
-In the settings menu ingame, there’s a battery icon. This sets not only your graphics quality but also many frames are shown per second (FPS). For normal devices graphics setting 0 (no lightning bolts) runs at 20fps, 1 and 3 run at 30fps, and 2 runs at 60fps. For older and low-end devices, graphics setting 0 runs at 20 fps, 1 and 2 run at 30fps, and 3 is inaccessible. Your fps are important for several reasons. First, you can only tap a button on screen during a frame, so decreasing your fps can make the difficult timing of some tricks easier. *Speculation, not supported by code research:* Second, your player's position is calculated for each frame, making some tricks speedier when you increasing your fps.
+In the settings menu ingame, there’s a battery icon. This sets not only your graphics quality but also many frames are shown per second (FPS). For normal devices graphics setting 0 (no lightning bolts) runs at 20fps, 1 and 3 run at 30fps, and 2 runs at 60fps. For older and low-end devices, graphics setting 0 runs at 20 fps, 1 and 2 run at 30fps, and 3 is inaccessible. Your fps are important for several reasons. First, you can only tap a button on screen during a frame, so decreasing your fps can make the difficult timing of some tricks easier. *Speculation, not supported by code research:* Second, your player's position is calculated for each frame, making some tricks speedier when you increase your fps.
 
 {: .highlight }
 > Watch the FPS counter in the top right of the screen:
@@ -71,7 +72,7 @@ In the settings menu ingame, there’s a battery icon. This sets not only your g
 
 ## Collision Boxes
 
-Any solid object that your player can collide with has what's called a *collision box*. In physics-based simulations (like in videogames where objects touch), when two objects intersect one another they repel or "snap to" each other so they don't pass through one another. This is what occurs when your player touches the floor, a wall, a pot, or another player. The "walls" of collision boxes are extremely thin and (in Sky) one-sided (ie. the inside of a collision box does not keep objects inside).
+Any solid object that your player can collide with has what's called a *collision box*. In physics-based simulations (like in videogames where objects touch and interact with each other), when two objects intersect one another they repel or "snap to" each other so they don't pass through one another. This is what occurs when your player touches the floor, a wall, a pot, or another player. The "walls" of collision boxes are extremely thin and (in Sky) one-sided (ie. the inside of a collision box does not keep objects inside).
 
 {: .note }
 > Objects that repel you slowly like wind walls or clouds do not have the same type of thin-walled-instantly-repellant collision boxes. These objects repel you slowly once you are inside the bounds of their collision box, meaning you can't escape their push by going further inside them.
@@ -108,12 +109,13 @@ There are different types of freezes depending on how your device handles apps t
 
 Ways to *hard* freeze:
 - App losing focus on Mac
-- Going to the Switch HOME screen
-- Going to the iOS home screen (impermanent)
+- Going to the iOS lock screen (impermanent) (pre-iOS 16 ONLY)
 - Locking your iOS or Android device (impermanent)
+- Going to the multitasking view on some Android devices
 
 Ways to *soft* freeze:
-- Going to the Android multitasking view
+- Going to the Switch HOME screen
+- Going to the multitasking view on some Android devices
 - (Going to the iOS multitasking view)
 
 {: .important }
@@ -126,9 +128,9 @@ Ways to *soft* freeze:
 The center of a map is technically important in Sky. The *origin* is wherever the coordinates of the current map hit (0, 0, 0). Several things happen at the origin. Most notably, it's the place where objects that don't otherwise have a defined position rest. These could be:
 
 1. Players that have recently disconnected or gone through a [loading zone](#reset-walls-and-loading-zones).
-2. Tables that have not been placed yet, or (in patch 0.19.1) are just starting to be placed.
+2. Tables that have not been placed yet, or (as of patch 0.19.1) are just starting to be placed.
 
-Glitches that manipulate the coordinates of your player, like [table flings](../../patched/pre-0.14.5/#table-fling--table-yeet), also must be done with respect to where the origin is.
+Glitches that manipulate the coordinates of your player, like [table flings](../../docs/patched/pre-0.14.5/#table-fling--table-yeet), also must be done with respect to where the origin is.
 
 ---
 

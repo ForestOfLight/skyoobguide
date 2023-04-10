@@ -29,23 +29,25 @@ Firework Staff
 
 > Credit: Leo
 
-A [rocket](../../clipping/#rocket--piggy) where you can easily point where you'd like to fly toward is extremely useful for getting places quickly--not to mention that it flies through wind walls just like a normal rocket. In this trick, both players are in charge of their *friend*'s rocket direction, not their own.
+A [rocket](../../clipping/#rocket) where you can easily point where you'd like to fly toward is extremely useful for getting places quickly--not to mention that it flies through wind walls just like a normal rocket. In this trick, both players are in charge of their *friend*'s rocket direction, not their own.
 
 1. Both players offer each other piggyback.
 2. Your friend takes out their firework staff to position their player.
    1. You will rocket in the direction that your friend's head points.
 3. Both player accept piggyback at the same time.
 
-| You                                              | Your Friend                                      |
-|:-------------------------------------------------|:-------------------------------------------------|
-| ![](../../assets/videos/HorizontalRocket-P1.mov) | ![](../../assets/videos/HorizontalRocket-P2.mov) |
+Your View:
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/hmt7pv?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+Your Friend's View:
+<div style="width:100%;height:0px;position:relative;padding-bottom:62.500%;"><iframe src="https://streamable.com/e/y4xr2a?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 {: .highlight }
 > If both friends use the staff, both friends can go in the other's direction. If you point the same direction, you'll go together!
 
 ---
 
-## Drive / Advanced Table Uber
+## Table Drive
 
 Friend
 {: .label .label-green }
@@ -55,7 +57,7 @@ Table
 {: .warning }
 > As of the 0.19.1 patch, this is not a continuous ride but you can still place the table to move you and your friends.
 
-This more complicated version of the Uber glitch can bring you as well as up to four other players on a ride. What this glitch actually does is the same as the [uber clip](../clipping/#table-uber), but you are holding the hand of one of your friends so you go with them.
+This more complicated version of the Uber glitch can bring you as well as up to four other players on a ride. What this glitch actually does is the same as a [table uber](../../clipping/#table-uber), but you are holding the hand of one of your friends so you go with them.
 
 <iframe src="https://www.redditmedia.com/user/hondo7059/comments/ip60qc/table_surf/?ref_source=embed&amp;ref=share&amp;embed=true" style="border: none;" height="415" width="640" scrolling="no"></iframe>
 
@@ -129,13 +131,11 @@ Hammock
 
 > Credit: Saint for discovery, ForestOfLight for optimization
 
-This is a revival of the patched [poof warp](../../patched/pre-0.14.5/#poof-warp--disconnect-warp) behavior. This trick will take you to a spot under the map (with coordinates 0, 0, 0) called the "shadow spot" or "zero point." Here’s how to do it:
+This is a revival of the patched [poof warp](../../patched/pre-0.14.5/#poof-warp--disconnect-warp) behavior. This trick will take you to a spot on (or under) the map we lovingly call [the origin](../../terms-and-methods/#the-origin). Here’s how to do it:
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/z7n8kd?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/z7n8kd?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Place the hammock.
 2. Have your friend lay in it and offer their hand.
 3. Drag out the hammock again. When they are teleported, grab their hand.
 4. Release the hammock.
-
-[Bonus Method!](https://streamable.com/e/9ybibb){: .btn .btn-blue }

@@ -20,10 +20,7 @@ Single-player movements are tricks and glitches that can be done with one player
 
 ## Fast Fall / Sliding Fall
 
-Fast falling is one of the quickest ways to descend. Simply go off an edge while sliding to be affected by gravity like a no-wing. The fall only lasts a short while but is long enough to be very useful. This fall is different from gliding downwards (skykid has their hands out to the sides) and much faster. It’s around as fast as going straight downwards in flight mode. Once in a sliding fall, you can stop it by flapping your wings in glide mode (kills all momentum) or going into flight mode and pulling up on the joystick (doesn’t kill downward momentum).
-
-{: .highlight }
-> The more tilt on the joystick the faster your fall will end. However, no tilt on the joystick also causes a shorter fall. The optimal placement is just enough tilt for the joystick to not be straight.
+Fast falling is one of the quickest ways to descend. Simply go off an edge while sliding to be affected by gravity like a no-wing. The fall only lasts a short while but is long enough to be very useful. This fall is different from gliding downwards (skykid has their hands out to the sides) and much faster. It’s around as fast as going straight downwards in flight mode. Once in a sliding fall, you can stop it by flapping your wings in glide mode (kills all momentum) or going into flight mode and pulling up on the joystick (doesn’t kill downward momentum). The more tilt you have on the joystick while falling, the faster your fall will end.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/ga3guf?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
@@ -47,15 +44,18 @@ While in glide mode, using sustained emotes makes you fall at crazy fast speeds.
 Placeable Prop
 {: .label .label-green }
 
-Simply tap the prop icon in your emote menu while away from any placeable surfaces and it’ll spawn in midair. The prop will place a short distance away from you in the direction your camera is facing. If you get your camera right, you can place the table right in front of you and land on it while actively flying.
+{: .new }
+> This trick has been updated for the 0.20.5 patch!
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/qdk9ep?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+Simply preform a little drag with the prop icon in your emote menu while away from any placeable surfaces and your prop will spawn in midair. The prop will place a short distance away from you in the direction your camera is facing. If you get your camera right, you can place the table right in front of you and land on it while actively flying. Cannot be preformed with a controller.
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/uxec18?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ---
 
 ## Vertical Flight
 
-This is a difficult yet useful trick for any speedy candle runner. It lets you take off in flight mode straight from the ground and fly vertically into the air. It will take some practice to pull off and some more to pull off consistently, but it has immediate implications for shortcuts. This glitch can be performed both on the ground or in the air.
+This is a difficult yet useful trick for any speedy candle runner. It lets you take off in flight mode straight from the ground and fly vertically into the air. It will take some practice to pull off and some more to pull off consistently, but it has immediate implications for shortcuts. This trick can be performed both on the ground and in the air.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/3thftn?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 

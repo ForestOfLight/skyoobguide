@@ -3,11 +3,22 @@ title: CHANGELOG
 layout: default
 ---
 
+## v2.0.5, Sky 0.20.5
+**Changelog:**
+- Updated Table Uber
+- Updated Midair Table Placement
+- Updated Capeless
+- Removed Using the Force / Holding Props
+- Removed Rainbow Bridge
+- Retired Pushing Through Water
+
+---
+
 ## v2.0.4, Sky 0.19.5
 **Changelog:**
 - Removed Floor Clip for redundancy with Piggy Emote Clip
-- Updated Rocket to include why crashes occur. [TEST]
-- Updated Servers
+- Updated Rocket to include why crashes occur
+- Updated Servers description
 
 ---
 
@@ -36,11 +47,7 @@ layout: default
 ---
 
 ## v2.0.1, Sky 0.19.1
-**Sky changes that affect OOBing:**
-- Props can now be placed midair again
-- Players no longer crash while [rocketing](clipping/#rocket--piggy) in most places
-
-**OOB Guide Changelog:**
+**Changelog:**
 - Moved to a website and reorganized EVERYTHING
 - Created a more organized Patched section and moved associated tricks into it
 - Updated tons of descriptions for clarity
@@ -51,11 +58,8 @@ layout: default
 - Added Multi-piggy
 - Updated Sonic
 - Removed Rubberbanding and added Drone
-- Added changelog ;)
 
 ---
 
 ## v2.0.0
 Moved information from the original [Sky OOB Guide google doc](https://docs.google.com/document/d/1Inh4q4008EtxY2b1PZnKJArfwUiFuxawXJ8lw3KaelM) to this site. None of the information has been updated yet.
-
-[View the original version](https://docs.google.com/document/d/1Inh4q4008EtxY2b1PZnKJArfwUiFuxawXJ8lw3KaelM){: .btn .btn-purple .mb-4 .mb-md-0 }

@@ -31,9 +31,11 @@ Rocketing is a bit of an art. It may seem inconsistent because there are many fa
 
 Here are two videos showing the same launch from both players’ perspectives. Notice the difference in direction.
 
-| Player One                                            | Player Two                                             |
-|:------------------------------------------------------|:-------------------------------------------------------|
-|![](../../assets/videos/Rocket Compare_ Player 1.mp4)  | ![](../../assets/videos/Rocket Compare_ Player 2.mp4)  |
+Player One:
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/a30buj?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+Player Two:
+<div style="width:100%;height:0px;position:relative;padding-bottom:55.556%;"><iframe src="https://streamable.com/e/poalid?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 Something else to take into account when rocketing is player height. Jumping onto a smaller player will give you a larger angle. Jumping onto a larger player will give you a smaller angle.
 
@@ -52,13 +54,13 @@ Table
 
 > Credit: Cheng/Euemj(程程)
 
-This glitch creates the same effect as the [driving](#drive--advanced-table-uber) trick, but it moves much, much quicker. It can be quite hard to control when using the fast version, but it can even slice through wind walls! Other players don't see this glitch in action, but they can teleport to you once it's over or teleport automatically with an [uber](../clipping/#table-uber) setup.
+This glitch creates the same effect as the [driving](../movement/multi-player/#table-drive) trick, but it moves much, much quicker. It can be quite hard to control when using the fast version, but it can even slice through wind walls! Other players don't see this glitch in action, but they can teleport to you once it's over or teleport automatically with an [uber](../clipping/#table-uber) setup.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/vxr5g1?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Place your table.
 2. Have a friend sit at the table.
-3. Grab your friends hand at the same time as they do any friend emote. (Similar to [Advanced Uber](../movement/multi-player/#drive--advanced-table-uber).)
+3. Grab your friends hand at the same time as they do any friend emote. (Similar to a [table drive](../movement/multi-player/#table-drive).)
 4. Have your friend [hard freeze](../terms-and-methods/#freezing).
 5. Drag your table out and zoooom.
 6. When you're finished, place the table down. Your friend can stop freezing.
@@ -93,9 +95,9 @@ This trick is extremely precise. It essentially lets you teleport to any locatio
 4. Clear your photos when you're done! 😂
 
 {: .highlight }
-On iPhones, you must use the [portrait mode](../miscellaneous/#portrait-mode) work-around to get access to the screenshot button while the emote menu is open. Androids should be able to tap the screenshot button through the menu.
+On iOS 15 and under, you must use the [portrait mode](../miscellaneous/#portrait-mode) work-around to get access to the screenshot button while the emote menu is open. Androids should be able to tap the screenshot button through the menu. Devices running 16 and higher are not able to use this method.
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:177.723%;"><iframe src="https://streamable.com/e/33tlgs?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="width:50%;height:0px;position:relative;padding-bottom:77.723%;"><iframe src="https://streamable.com/e/33tlgs?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 {: .note }
 > The video shows only a *tap* on the prop icon while taking a screenshot. This is because of the lag spike when you take a photo in Sky. In reality, the icon is being *dragged*. Tapping the icon by itself will not work.
@@ -143,10 +145,10 @@ z_final = zp - sqrt(xi^2 + zi^2) * sin(arctan(xi/zi) + arctan((xp-xi)/(zp-zi))),
 
 ## Legging Clip / Advanced Chibi Clip
 
-This section is an expansion on the [Chibi Clip](../clipping/#chibi-clip--chibi-fall). The sneaky stance isn’t strictly required to perform this glitch, but it is highly recommended as it makes the glitch much more consistent. It’s also possible to do this without being chibi at all. Not much is known about clipping like this without chibi or the sneaky stance because it’s so fiddly.
+This section is an expansion on the [chibi clip](../clipping/#chibi-clip--chibi-fall). The sneaky stance isn’t strictly required to perform this glitch, but it is highly recommended as it makes the glitch much more consistent. It’s also possible to do this without being chibi at all. Not much is known about clipping like this without chibi or the sneaky stance because it’s so fiddly.
 
 {: .note }
-> When active, the Firework Staff, Harp, Horn, Umbrella (not Lightseekers Ultimate Gift), Flute, Bass Drum (from Season of Prophecy), and Lantern can be a replacement for the sneaky stance.
+> When active, the Firework Staff, Harp, Horn, Umbrella (not Lightseekers Ultimate Gift), Flute, Bass Drum (from Season of Prophecy), Lantern, and a few other props can be a replacement for the sneaky stance.
 
 {: .highlight }
 > If you have the tea table you can clip into a flat floor by positioning yourself near a cup, [legging](../terms-and-methods/#legging) a foot towards the ground, and performing a Chibi Clip. Credit: Dough
@@ -154,26 +156,3 @@ This section is an expansion on the [Chibi Clip](../clipping/#chibi-clip--chibi-
 > <span class="fs-3">
 > [Video](https://streamable.com/e/ws8d1n){: .btn .btn-blue}
 > </span>
-
----
-
-## Pushing Through Water
-
-Friend
-{: .label .label-green }
-Table
-{: .label .label-green }
-
-> Credit: ForestOfLight
-
-This glitch can be used to much more actively control your position underwater than other underwater tricks. This glitch was previously able to be performed in the same way as with wind walls. However, it can be done much easier (and now faster) with the help of a friend. Careful in oil (water that depletes your light) though, it doesn’t stop hurting below the surface!
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/kvbpp0?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-1. Initiate an [advanced uber](#drive--advanced-table-uber).
-1. Drag your table as far as you can underwater.
-1. Use the [midair table placement](../movement/single-player/#midair-prop-placement) mechanic to place the table where you’d like to go by facing your camera in the desired direction. Be cautious not to have any placeable surfaces in the direction you’re facing.
-1. Since it only moves you a little bit, repeat step 3 until you’re in whatever location you’d like! Careful not to tap any of the “hold hand” or “sit” buttons on-screen (your friend shouldn’t either).
-
-{: .highlight }
-> More friends can go for the ride by holding your hand before initiating the [advanced uber](#drive--advanced-table-uber) or by sitting at the table like a normal [uber](../clipping/#table-uber). The former is preferable because there are fewer buttons that can make the trick fail crowding up the screen. If that somehow doesn’t bother you, go ahead and take a whole server down.

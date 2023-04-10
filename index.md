@@ -16,7 +16,7 @@ This documentation highlights many of the tricks and glitches that exist to enha
 
 {: .note }
 > Beta content is not included, but it doesn't mean we aren't interested! Come share your findings with us and we'll document it if the behavior makes it to Live!
-
+ 
 ---
 
 ## Getting started
@@ -25,12 +25,12 @@ The Sky OOB Guide is based on testing done by the amazing members of these Sky c
 - [SkyOOB](https://discord.gg/h6JtXQv62y)
 - Sky Necropolis (rip)
 - [Sora](https://discord.gg/xqBTm2j)
-- [Chatty Sheeps](https://discord.gg/nktjdAjyHx)
+- [Chatty Sheeps](https://discord.gg/XzKZ3gGTWe)
 - SECRET OOB BROTHERHOOD
 
 That means information here may differ from other sources, like the unofficial [Sky: Children of the Light Wiki](https://sky-children-of-the-light.fandom.com/wiki/The_Out_of_Bounds_(OOB)). The Sky OOB Guide will often feature a more up-to-date explanation with notes on making tricks and glitches more reliable.
 
-After reading the [Terms and Methods](./docs/terms-and-methods) page and the [Crediting](#crediting) section below, feel free to explore the documentation to find some tricks you're interested in!
+After reading the [Terms and Methods](docs/terms-and-methods) page and the [Crediting](#crediting) section below, feel free to explore the documentation to find some tricks you're interested in!
 
 ---
 

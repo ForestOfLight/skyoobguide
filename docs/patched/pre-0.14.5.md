@@ -2,6 +2,7 @@
 layout: default
 title: Pre-0.14.5
 parent: Patched
+nav_order: 0
 ---
 
 # Tricks Patched prior to 0.14.5
@@ -27,11 +28,11 @@ Yes, this is possible. However, I’m sad to say most wind walls are most likely
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/ydzkt7?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 1. Place your table as far out as you can in the wind wall.
-1. Perform the Checkpoint glitch.
-1. If you’re spinning on top of your chair, open your emote menu.
-1. Tap the flame (the button that pulls out your candle).
-1. Immediately after take your table and place it further into the wind wall.
-2. Sometimes you get thrown out of the wall immediately when you perform the Checkpoint glitch, just recover and perform Checkpoint again. It may help to use a different slope to perform Checkpoint on.
+2. Perform the Checkpoint glitch.
+3. If you’re spinning on top of your chair, open your emote menu.
+4. Tap the flame (the button that pulls out your candle).
+5. Immediately after take your table and place it further into the wind wall.
+6. Sometimes you get thrown out of the wall immediately when you perform the Checkpoint glitch, just recover and perform Checkpoint again. It may help to use a different slope to perform Checkpoint on.
 
 ---
 
@@ -70,10 +71,10 @@ Table
 After placing your table somewhere, you can teleport to it whenever you like as long as it still exists. Tables disappear when you move too far away or leave the level.
 
 1. Place down your table where you’d like to teleport to.
-1. Take out your table and hold it near you.
-1. Tap the “sit” button.
-1. Tap to close the menu.
-1. Let go of the table to place it down.
+2. Take out your table and hold it near you.
+3. Tap the “sit” button.
+4. Tap to close the menu.
+5. Let go of the table to place it down.
 
 The timing of this glitch is a little hard to get a feel for. You want to go into the sitting animation and before you’ve fully sat down close the menu and release the table. To understand why this glitch works, try pulling out your table and then closing the menu. There’s a little bit of time between when you close the menu and when the table disappears. During the sitting animation, the game’s job is to have you sit at your table. When you tap the button the game commits to putting you at your table, but it can only be placed down to do that. That’s why you need to close the menu. If you place the table during the time it takes to put away the table after closing the menu it will still take away the table. However, the table was physically placed so you can sit at it before it is taken away. The game then transports you to where your table was previously placed because the game has committed to having you sit at your table.
 
@@ -123,13 +124,13 @@ Spiraling is a type of launch. When you and a friend are piggybacked and flying,
 
 The deciding factor for which direction (up or down) you will go is the size of the player leading. Check out these different perspectives of the same spirals:
 
-| Above Normal Height                               | Below Normal Height                               |
-|:--------------------------------------------------|:--------------------------------------------------|
-| ![](../../assets/videos/SpiralUpLeader.mp4)       | ![](../../assets/videos/SpiralDownLeader.mp4)     |
-| ![](../../assets/videos/SpiralUpNonLeader.mp4)    | ![](../../assets/videos/SpiralDownNonLeader.mp4)  |
+| Above Normal Height                                       | Below Normal Height                               |
+|:----------------------------------------------------------|:----------------------------------------------------------|
+| [Spiral Up Leader Video](https://streamable.com/ju80cb){: .btn .btn-blue } | [Spiral Down Leader Video](https://streamable.com/9mendy){: .btn .btn-blue } |
+| [Spiral Up NonLeader Video](https://streamable.com/qq8b54){: .btn .btn-blue } | [Spiral Down NonLeader Video](https://streamable.com/vvyssy){: .btn .btn-blue } |
 
 {: .note }
-> Keep in mind the person leading will see the real location of both players (going through [collision boxes](../terms-and-methods/#collision-boxes)), while the player on their back will see them hitting collision boxes. When the leader lets go of the other player's hand, they will be teleported to the real location.
+> Keep in mind the person leading will see the real location of both players (going through [collision boxes](../../terms-and-methods/#collision-boxes)), while the player on their back will see them hitting collision boxes. When the leader lets go of the other player's hand, they will be teleported to the real location.
 
 ---
 
@@ -143,8 +144,8 @@ Sustained Emotes
 {: .label .label-green }
 
 The spiral can be manipulated in a few ways, each of which has its own effects. They are:
-- The player on top using any [sustained emote](../terms-and-methods/#sustained-emotes) will make the spiral more vertical and, as a result, faster. (As of patch 0.13.0, this is always the case without the sustained emote.)
-- Changing your [graphics settings](../terms-and-methods/#graphics-and-fps) will change your speed depending on FPS (0 is 2/3 speed, 1&3 are normal, 2 is 2x speed).
+- The player on top using any [sustained emote](../../terms-and-methods/#sustained-emotes) will make the spiral more vertical and, as a result, faster. (As of patch 0.13.0, this is always the case without the sustained emote.)
+- Changing your [graphics settings](../../terms-and-methods/#graphics-and-fps) will change your speed depending on FPS (0 is 2/3 speed, 1&3 are normal, 2 is 2x speed).
 
 ---
 
@@ -194,7 +195,7 @@ Table
 Rainbow Spell
 {: .label .label-green }
 
-This glitch is basically [driving](../advanced/#drive--advanced-table-uber) with a rainbow spell. It can easily be used in combination with a normal Drive. Simply place a rainbow instead of your table to be teleported to it. This is useful because rainbow spells can be placed at a much further distance than tables can. It will not make you follow where you drag the rainbow, but it will teleport you after you place it. Important: Make sure you do the Spell Saver method when placing the rainbow so that the spell doesn’t get used but the fake table is still placed. When you’re ready, just let go of your friend’s hand to stop the glitch. Your friend sitting at your table will not see themselves move when you place a fake rainbow but they will see you move. They can either warp to you or, when the glitch is still active, you can place your table normally to get them where you are. Something extra and interesting about this glitch is that it will always position the fake table completely horizontal, so it can be used as a clipping method as well.
+This glitch is basically [table driving](../../movement/multi-player/#table-drive) with a rainbow spell. It can easily be used in combination with a normal Drive. Simply place a rainbow instead of your table to be teleported to it. This is useful because rainbow spells can be placed at a much further distance than tables can. It will not make you follow where you drag the rainbow, but it will teleport you after you place it. Important: Make sure you do the Spell Saver method when placing the rainbow so that the spell doesn’t get used but the fake table is still placed. When you’re ready, just let go of your friend’s hand to stop the glitch. Your friend sitting at your table will not see themselves move when you place a fake rainbow but they will see you move. They can either warp to you or, when the glitch is still active, you can place your table normally to get them where you are. Something extra and interesting about this glitch is that it will always position the fake table completely horizontal, so it can be used as a clipping method as well.
 
 ---
 
@@ -226,13 +227,12 @@ The most useful sustained emotes to control your skew are:
 {: .note }
 > Player 1’s setup for this glitch is much more difficult with a level 3 or 4 emote but it gets easier each time you get it right. My own practice is to start charging the emote, accepting piggy when it reaches lvl 2, and letting go when it hits lvl3 directly after. Player 1 cannot land on Player 2’s back for their piggy button to still be active. This glitch is difficult to explain so these videos will be very helpful when learning:
 >
-> | Player One                                                | Player Two                                                | Down                                      |
-> |:----------------------------------------------------------|:----------------------------------------------------------|:-----------------------------------------|
-> | [](../../assets/videos/DirectionalRocket_Player1.mov){: .btn } | [](../../assets/videos/DirectionalRocket_Player2.mov){: .btn} | [](../../assets/videos/DirectionalRocketDown.mov){: .btn } |
-> | <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/x56pdc?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div> | <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/3cojcn?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div> | <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/22azly?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div> |
+> | Player One  | Player Two    | Downward  |
+> |:------------|:--------------|:----------|
+> | [Player One Video](https://streamable.com/x56pdc){: .btn .btn-blue } | [Player Two Video](https://streamable.com/3cojcn){: .btn .btn-blue } | [Downward Video](https://streamable.com/22azly){: .btn .btn-blue } |
 
 {: .highlight }
-> You can change your speed by changing your [graphics mode](../terms-and-methods/#graphics-and-fps). Changing the game’s FPS will change the speed of the launch from your point of view (0 is 2/3 speed, 1&3 are normal, 2 is 2x speed)
+> You can change your speed by changing your [graphics mode](../../terms-and-methods/#graphics-and-fps). Changing the game’s FPS will change the speed of the launch from your point of view (0 is 2/3 speed, 1&3 are normal, 2 is 2x speed)
 
 ---
 
