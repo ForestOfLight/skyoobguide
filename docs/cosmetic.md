@@ -197,7 +197,7 @@ Single-player:
 3. You should arrive at the main island.
 
 Two-player:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ebamfhak_rQ" title="Two-Player Capeless by Moth TV" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ebamfhak_rQ" title="Two-Player Capeless by Moth TV" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 1. Collect the pity star at Home.
 2. Have your friend join you at the Home island.
 3. Start a [table uber](../clipping/#table-uber) (you place the table, they offer) and then have them [freeze](../terms-and-methods/#freezing).
