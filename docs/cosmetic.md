@@ -186,16 +186,29 @@ Table
 
 All capeless methods have a simple task: Escape the Home void room. When you die outside of Eden, you’re sent Home but far off in the distance in a black room with a star (lovingly named the *pity star*) to start you on your journey. However, making it back to the main Home island without collecting the pity star will let you go through the seven realm gates with no cape! Once you’re capeless, this method needs to be done every time you return Home until you decide you want a cape again.
 
-Most capeless methods require three players. One to be capeless, and two friends to get out of the room. Here's one method you can do by yourself and several more that require two friends:
+Here's one method you can do by yourself, one that requires a friend, and several more that require two friends:
 
-For both methods, you must lose all your stars outside of Eden and be sent to the Home void.
+For all methods, you must lose all your stars outside of Eden and be sent to the Home void before you start.
 
 Single-player:
 <div style="width:50%;height:0px;position:relative;padding-bottom:77.867%;"><iframe src="https://streamable.com/e/9p19gk?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
 1. Use an instant recharge spell.
 2. [Table fling](../advanced/#table-fling-v2) facing to the left of the star in the Home void.
 3. You should arrive at the main island.
+
+Two-player:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ebamfhak_rQ" title="Two-Player Capeless by Moth TV" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+1. Collect the pity star at Home.
+2. Have your friend join you at the Home island.
+3. Start a [table uber](../clipping/#table-uber) (you place the table, they offer) and then have them [freeze](../terms-and-methods/#freezing).
+   1. Your friend can wait to freeze until after the next step if they have an impermenent freeze. They should stay frozen until you arrive back at the main island.
+
+4. Use an instant recharge spell to gain access to your table agian.
+5. Drown in the water around the Home island.
+6. Place your table in the Home void to bring your friend to you.
+7. Tap on your friend and then tap the button over their head to follow them.
+8. Remove your table by tapping it once in the emote menu.
+9. Tap on your friend's "hold hands" icon to be teleported to them at the main island.
 
 Three-player:
 1. Have your friends join you at Home (they’ll be on the main island).
