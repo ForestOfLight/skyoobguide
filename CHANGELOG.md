@@ -3,6 +3,10 @@ title: CHANGELOG
 layout: default
 ---
 
+## v2.0.6, Sky 0.21.0
+**Changelog:**
+- Added Deanportation
+
 ## v2.0.5, Sky 0.20.5
 **Changelog:**
 - Updated Table Uber
