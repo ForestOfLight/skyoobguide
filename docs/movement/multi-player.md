@@ -76,6 +76,34 @@ This more complicated version of the Uber glitch can bring you as well as up to 
 
 ---
 
+## Deanport
+
+Friend
+{: .label .label-green }
+Placeable Prop
+{: .label .label-green }
+
+> Credit: Joje (Moth TV)
+
+Deanporting is best described as a [table uber](../../clipping#table-uber) where the sky kid doesn't have to be on the table. It can put a player basically anywhere-- including outside windwalls and [loading zones](../../terms-and-methods/#reset-walls-and-loading-zones). It's easy setup makes it one of the best tricks to get oob quickly.
+
+1. Place down your prop and have your friend stand on it.
+2. Run any distance away, then have your friend warp to you and [freeze](../../terms-and-methods/#freezing).
+   1. Your friend should freeze their game immediately after they accept the prompt to warp to you.
+3. Move your table. Your friend will move relative to your table, staying the same distance away from it that you ran in step 2!
+
+{: .highlight }
+> Certain props can add distance (which we call having more "boost") to how far your friend is away form your table if you switch to one of those props after starting a deanport. In addition, switching to a prop with less "boost" than your original prop will decrease the distance between your friend and your prop. A prop must have collision to stand on for a deanport to work.
+<!-- 
+Here's a table of every prop and it's boost relative to placing a normal table first:
+
+| Table: 1x | Winter Banner: N/A | Small Floating Lantern: 10x | Glow Bubble (Playfinding Herbalist): N/A |
+| Water Sticker: N/A | Earth Sticker: N/A | Air Sticker: N/A | Pipe: 2x |
+| Campfire: 2x | Cubic Ground Lantern: 20x | Circular Fire Pot: 19x | Ground Brazier: 14x |
+|  -->
+
+---
+
 ## Ground Warp
 
 Friend
