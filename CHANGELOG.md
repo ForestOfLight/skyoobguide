@@ -3,7 +3,7 @@ title: CHANGELOG
 layout: default
 ---
 
-## v2.0.6, Sky 0.21.0
+## v2.0.6, Sky 0.21.1
 **Changelog:**
 - Added Deanportation
 

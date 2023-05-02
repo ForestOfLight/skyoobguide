@@ -75,6 +75,9 @@ When you're finished, just do any non-sustained emote to return to your friend.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/ebygwe?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
+Check out the awesome cinematics you can do with this trick:
+[Rainbow Bridge Night OOB!](https://streamable.com/i16qer){: .btn .btn-blue }
+
 {: .note }
 You and your friend may get [server split](../terms-and-methods/#servers) due to large distances between the players.
 

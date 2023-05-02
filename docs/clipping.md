@@ -204,12 +204,12 @@ This clip has been used for an extremely long time but has since been almost com
 
 1. Place your table where one (or more) chair(s) are outside the wall you’d like to clip into.
 2. If you can, sit in the chair(s) outside the wall and you’ll be out of bounds.
-3. This can also be positioned such that upon getting out of the chair, you’ll be pushed out of bounds. This is the more likely method to work.
+   1. This can also be positioned such that upon getting out of the chair, you’ll be pushed out of bounds. This is the more likely method to work.
 
 ---
 
 ## General Clipping
 
-It’s also important to know that two collision boxes that are close enough together can push you through one of them. For example, I once accidentally clipped into the all-elder room (OOB in the room after meditating at the Vault elder shrine) just by walking under a chair from a table at the right angle as a chibi. I wouldn’t recommend trying this as a legitimate clip method unless you know two collision boxes will work to push you through consistently. Here's an extremely well known general clip:
+It’s also important to note that two collision boxes that are close enough together can push you through one of them. For example, I once accidentally clipped into the all-elder room (OOB in the room after meditating at the Vault elder shrine) just by walking under a chair from a table at the right angle as a chibi. I wouldn’t recommend trying this as a legitimate clip method unless you know two collision boxes will work to push you through consistently. Here's an extremely well known general clip:
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:62.500%;"><iframe src="https://streamable.com/e/z7wf0g?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
