@@ -13,7 +13,6 @@ permalink: /
 > Check out version 3 of the Sky OOB Guide [here](https://skyoobguide.notion.site/41177d62a91c4c08a8cd50683700f6db?v=61462b10dd3b4f09af98b05698eb4366)! This guide has not been updated since May 3, 2023.
 
 ---
-{: .fs-9 }
 
 This documentation highlights many of the tricks and glitches that exist to enhance your gameplay experience in Sky: Children of the Light. For extra help, visit the SkyOOB Discord server. We’d love to help you out!
 {: .fs-6 .fw-300 }
@@ -53,9 +52,7 @@ Our communities believe in recognizing individuals for their contributions to ou
 
 ## About the project
 
-The Sky OOB Guide is maintained by ForestOfLight. If you would like to donate to help keep this guide up to date, the button below will take you to a GoFundMe. If you decide to support my efforts, thank you very much!
-
-[Support the Project!](https://gofund.me/45a571b0){: .btn .btn-green }
+The Sky OOB Guide is maintained by ForestOfLight.
 
 Thank you to my amazing editors over the years:
 - Jojo 
