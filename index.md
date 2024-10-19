@@ -9,10 +9,16 @@ permalink: /
 # An out-of-bounds documentation of Sky.
 {: .fs-9 }
 
+{: .highlight }
+> Check out version 3 of the Sky OOB Guide [here](https://skyoobguide.notion.site/41177d62a91c4c08a8cd50683700f6db?v=61462b10dd3b4f09af98b05698eb4366)! This guide has not been updated since May 3, 2023.
+
+---
+{: .fs-9 }
+
 This documentation highlights many of the tricks and glitches that exist to enhance your gameplay experience in Sky: Children of the Light. For extra help, visit the SkyOOB Discord server. We’d love to help you out!
 {: .fs-6 .fw-300 }
 
-[Get Started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Join the SkyOOB Discord](https://discord.gg/h6JtXQv62y){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 .mr-2 } [Support the Project](https://gofund.me/45a571b0){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
+[Get Started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Join the SkyOOB Discord](https://discord.gg/h6JtXQv62y){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 {: .note }
 > Beta content is not included, but it doesn't mean we aren't interested! Come share your findings with us and we'll document it if the behavior makes it to Live!
